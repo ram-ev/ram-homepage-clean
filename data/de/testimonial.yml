@@ -1,0 +1,128 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  # bg_image : images/backgrounds/bg-testimonial.jpg
+  # bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Clara Theil
+      image : images/portfolio/clara-masterarbeit.jpg
+      date : Dec 26, 2018
+      content : 'Die Förderung durch die Rationalen Altruisten Mannheim hat mir die Erhebungsphase meiner Masterarbeit enorm erleichtert und es mir überhaupt erst ermöglicht mein Rekrutierungsziel von über 200 Probandinnen zu erreichen. Diese Unterstützung hat maßgeblich dazu beigetragen, dass ich aussagekräftige Forschungsergebnisse erzielen konnte und die Qualität meiner Arbeit verbessert. Dafür bin ich den Rationalen Altruisten Mannheim ausgesprochen dankbar!'
+      
+    # testimonial item loop
+    - name : Julian Schaider
+      image : images/portfolio/home-schooling.png
+      date : Dec 26, 2018
+      content : 'Ich habe die Förderung der Rationalen Altruisten Mannheim 2021 erhalten um die psychologische Forschung im Bereich ADHS und Dyspraxie aus meiner Bachelorarbeit auf einer großen Fachkonferenz vorstellen zu können. Diese finanzielle wie ideelle Förderung hat mir auf jeden Fall sehr geholfen meinen weiteren akademischen Weg ins Auge zu fassen! Ich bin sehr dankbar für diese Unterstützung, denn gerade junge Wissenschaftlerinnen und Wissenschaftler zu fördern und zu einer Forschungskarriere zu ermutigen ist aktuell wichtiger denn je!'
+      
+    # testimonial item loop
+    - name : Alicia Gernand, Franziska Leipold und Roberto Scatorchia
+      image : images/portfolio/psych-group-funding.jpeg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Die Förderung durch die RAM erleichterte uns die Erhebung unserer Projekt-Studie erheblich. Dadurch waren wir in der Lage trotz begrenzter Zeit unsere eigene Forschungsfrage umzusetzen und somit wichtige Einblicke in Forschungsprozesse zu erhalten. Vielen Dank!'
+      
+    - name : Elisabeth Schmalz
+      image : images/portfolio/elisabeth-schmalz.jpg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Für meine Bachelorthesis erhielt ich die RAM-Auszeichnung 2020, die mein akademisches Erlebnis bereicherte und zu einer der größten Anerkennungen für mein persönliches und fachliches Wachstum als Studentin gehört. Bisher ist diese Auszeichnung für mich die wertvollste akademische Erfahrung - vielen Dank RAM e.V.!'
+      
+    - name : Dennis Hammerschmidt
+      image : images/team/dennis.png
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Die Ziele von RAM — die Arbeit von aufstrebenden Wissenschaftlern zu würdigen und sie finanziell bei den teils hohen Kosten die mit einer wissenschaftlichen Karriere verbunden sind zu unterstützten — sind eine unverzichtbare und hoch angesehene Stütze für junge Wissenschaftler.'
+      
+    - name : David Paul Wirtz
+      image : images/portfolio/Wirtz_David.jpg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Die Auszeichnung meiner Bachelorarbeit durch die Rationalen Altruisten Mannheim hat mich in meiner Arbeit bestätigt und weiter motiviert, wissenschaftliche Fragestellungen zu bearbeiten. Ich halte es für essentiell, dass junge WissenschaftlerInnen auch in Zukunft durch Vereine wie RAM unterstützt und ermutigt werden.'
+
+    - name : Maximilian Haag
+      image : images/blog/award.png
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Der RAM Preis für die beste Abschlussarbeit ist eine tolle Chance für Studenten Anerkennung für ihre Arbeit zu finden und hat mich ermutigt meinen Forschungsinteressen in einem akademischen Umfeld weiter nachzugehen.'
+
+######
+
+    - name : Philipp Kadel
+      image : images/portfolio/Kadel_Philipp.jpg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Die Auszeichnung meiner Masterarbeit durch die Rationalen Altruisten Mannheim e.V. war für mich gleichzeitig eine Anerkennung meiner bisherigen Leistung sowie eine Bestärkung, im Rahmen einer Promotion weiter wissenschaftlich tätig zu sein. Das Engagement der Rationalen Altruisten Mannheim e.V. und Ihres Vorstandes ist aus meiner Sicht ausgesprochen wertvoll und verdient jede Unterstützung.'
+
+    - name : Florian Andersen & Pavel Dimitrov Chachev
+      image : images/blog/research.png
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Die Förderung durch RAM hat es uns ermöglicht, an der Fachtagung der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaften in Hannover teilzunehmen. Dort konnten wir uns mit Studierenden aus ganz Deutschland über grundlegende Streitpunkte innerhalb der Soziologie austauschen und einige neue Ideen mit nach Mannheim nehmen, sowie Teil eines wachsenden Netzwerks von NachwuchswissenschaftlerInnen werden. RAM hat uns mit der Förderung dadurch sowohl fachlich als auch persönlich sehr geholfen!'
+
+    - name : Felix Olsowski
+      image : images/portfolio/conference-felix.jpg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Dank der RAM e.V. ist es mir möglich, meine Forschungsergebnisse auf einer Konferenz vor internationalem Publikum vorzustellen. Somit erhalte ich die Gelegenheit, wertvolles Feedback zu meiner Arbeit zu erhalten, welches die Qualität meiner Forschung sowie meiner Dissertation erhöhen wird.'
+
+# <a href="https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/">Felix Olsowski</a>
+# [perfectpullquote align="full" bordertop="false" cite="Felix Olsowski" link="https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/" color="" class="#16989D" size="14"][/perfectpullquote]
+
+    - name : Christine Emmer
+      image : images/portfolio/cemmer.jpg
+      # image_webp : images/client/client-1.webp
+      date : Dec 26, 2018
+      content : 'Der Preis der Rationalen Altruisten Mannheim für Abschlussarbeiten stellt meiner Meinung nach eine wichtige und dringend benötigte Anerkennung arbeitsintensiver Forschungsprojekte im Rahmen von Abschlussarbeiten dar. Diese besondere Auszeichnung stellte für mich wichtiges Feedback dar und hat mich stark motiviert, über die Abschlussarbeit hinaus wissenschaftlich zu arbeiten.'
+
+# 
+# [perfectpullquote align="full" bordertop="false" cite="" link="https://www.sowi.uni-mannheim.de/mata/team/akademische-mitarbeiterinnen-und-mitarbeiter/christine-emmer/" color="" class="#16989D" size="14"][/perfectpullquote]
+# 
+    - name : Gelila Enbaye
+      image : images/portfolio/gelila.jpg
+      date : Dec 26, 2018
+      content : 'Ich möchte mich herzlich bei den Rationalen Altruisten Mannheim für den RAM-Preis bedanken! Finanziell konnte ich durch den Förderpreis die Kosten für meine Stata-Lizenz decken. Ich bin aber auch dankbar, weil der Preis meine Bachelorarbeit würdigt und mich darin bestärkt, in Zukunft weiter an meinem Forschungsthema zu arbeiten.'
+
+    - name : Tobias Rettig
+      image : images/blog/research.png
+      date : Dec 26, 2018
+      content : 'Mit der Unterstützung des RAM e.V. konnte ich erste Ergebnisse meiner Dissertation einem breiten Publikum auf einer großen internationalen Konferenz präsentieren. Ich bin froh, dass es solche Möglichkeiten zur Förderung wichtiger erster Schritte in der akademischen Karriere junger WissenschaftlerInnen gibt.'
+
+# [perfectpullquote align="full" bordertop="false" cite=" link="https://www.sowi.uni-mannheim.de/blom/team/rettig/" color="" class="#16989D" size="14"]
+# [/perfectpullquote]
+
+    - name : Jascha Dräger
+      image : images/portfolio/draeger.png
+      date : Dec 26, 2018
+      content : 'Der Preis für eine beste Abschlussarbeit oder die Erfahrungen auf der ersten Konferenz sind eine große Motivation eine wissenschaftliche Karriere anzustreben, trotz der großen Unsicherheit, die mit dieser einhergeht.'
+
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Jascha Dräger" link="https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Jascha.Draeger" color="" class="#16989D" size="14"][/perfectpullquote]
+      
+# [perfectpullquote align="full" bordertop="false" cite="Aline Lanzrath" link="" color="" class="#16989D" size="14"]Die Verleihung des Otto-Selz Preises für die beste Masterarbeit im Fach Psychologie durch die RAM e.V. spielte für meine persönliche und berufliche Zukunft eine große Rolle. Neben der finanziellen Förderung, war für mich die Anerkennung und Wertschätzung der von mir geleisteten Arbeit nicht nur ermutigend, sondern auch zukunftsweisend. So inspirierte sie mich eine wissenschaftliche Karriere zu beginnen (PhD-Programm) und meine Forschungsergebnisse bei renommierten Fachkonferenzen einzureichen. Aus meiner Sicht trägt die Unterstützung durch die Rationalen Altruisten maßgeblich dazu bei, das Selbstvertrauen junger Menschen in ihre Forschungsfähigkeiten und -potenziale zu stärken und sie so für eine Zukunft in der Wissenschaft zu begeistern. Ich bedanke mich herzlich bei allen Mitgliedern des Vereins und hoffe, dass in Zukunft mehr vergleichbare Programme entstehen![/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Sabrina Berres" link="https://www.sowi.uni-mannheim.de/en/erdfelder/team/academic-staff-members/berres-sabrina/" color="" class="#16989D" size="14"] Dank der Förderung durch RAM e.V. konnten mehr Teilnehmende für eine zweiteilige Online-Studie gewonnen werden. Dies ist eine enorme Erleichterung bei der sonst sehr langwierigen Datenerhebung und steigert die Qualität meiner Forschungsarbeit. Vielen Dank![/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Belinda Merkle" link="" color="" class="#16989D" size="14"] Ich bin den Rationalen Altruisten Mannheim sehr dankbar dafür, dass sie mir bereits während meines Masters die Teilnahme an der DGPPF Konferenz ermöglicht haben, auf der ich mein erstes eigenes Forschungsreferat präsentieren durfte. Dadurch habe ich spannende neue Impulse gewonnen und wurde in meinem Wunsch bestärkt, die akademische Karriere weiterzuverfolgen. Den Wert der Förderung der RAM sehe ich daher nicht nur in der finanziellen Unterstützung, sondern auch in der frühen Anerkennung für die bereits geleistete Arbeit, die eine wichtige Ermutigung für NachwuchswissenschaftlerInnen darstellt, ihre wissenschaftlichen Ziele weiter zu verfolgen.
+# [/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Julian Quevedo-Pütter " link="" color="" class="#16989D" size="14"] Ich habe sehr von der Förderung durch die Rationalen Altruisten profitiert! Und das nicht nur finanziell: Die Verleihung des Otto-Selz-Preises hat mich vor allem darin bestärkt, mich in meinem Master-Studium weiter auf den Bereich kognitive und klinische Psychologie zu fokussieren. Ich glaube, gerade in Zeiten alternativer Fakten ist eine Förderung des (sozial-)wissenschaftlichen Nachwuchses sehr sinnvoll investiertes Geld![/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Sebastian Juhl" link="http://www.sebastianjuhl.com" color="" class="#16989D" size="14"] Die Förderung durch die RAM e.V. ermöglicht es Nachwuchswissenschaftlern, eigene Arbeiten auf internationalen Konferenzen zu präsentieren und dadurch bereits früh in der Karriere wichtige Erfahrungen zu sammeln und Kontakte zu knüpfen. Somit leistet der Verein einen wichtigen Beitrag zur Unterstützung junger Wissenschaftler/innen.
+# [/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="WUMAN (Meike Bonefeld und Anne-Sophie Waag)" link="http://www.wuman.de" color="" class="#16989D" size="14"] RAM ist innovativ und bereit, neue Wege zu beschreiten. Wir haben sehr von dieser Offenheit profitiert und konnten unser Netzwerk so dank der finanziellen sowie ideellen Unterstützung durch RAM erfolgreich auf den Weg bringen. Mittlerweile sind wir gegründet und sagen einfach nur "DANKE"!
+# [/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Hana Attia" link="" color="" class="#16989D" size="14"]
+# RAM e.V. spielte persönlich meinerseits eine große Rolle, da es mir die Anerkennung für ein Projekt (Masterarbeit) gab, an dem ich lange und mit großer Leidenschaft gearbeitet habe. Besonders für junge Wissenschaftler und Absolventen ist dies essentiell. Es hat mich motiviert eine akademische Karriere anzustreben, so dass ich mein PhD Programm begann. [/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Liliane Wulff " link="http://psycho3.uni-mannheim.de/Personen/Liliane%20Wullf,%20M.Sc./" color="" class="#16989D" size="14"] Der Besuch der Konferenz in New Orleans hat es mir ermöglicht, meine Forschung einem breiten Fachpublikum vorzustellen und dabei internationale Kontakte zu knüpfen. Ich empfinde die Förderung von DoktorandInnen durch den RAT finanziell und ideell als außerordentlich wichtig und freue mich, auch andere Studierende und DoktorandInnen in ihrem wissenschaftlichen Arbeiten zukünftig finanziell zu unterstützen. [/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Christoph Dworschak" link="https://chris-dworschak.weebly.com" color="" class="#16989D" size="14"] Die RAM finanzieren extrakurrikulare Forschungsprojekte. Diese Events helfen Nachwuchswissenschaftlern nicht nur akademisch weiter, sondern auch in ihrer persönlichen Entwicklung und Charakterbildung. Mit dem Versiegen von Förderprojekten wie RAM e.V. würde nicht nur die außeruniversitäre Verwirklichung vieler Studenten unmöglich werden, sondern womöglich auch ein Einbruch im Human- und Sozialkapital der Mannheimer Absolventen einhergehen.[/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Daniel Heck" link="" color="" class="#16989D" size="14"]Ich bin den Rationalen Altruisten Mannheim dankbar für die Unterstützung, meine Forschungsarbeit auf einer Konferenz in Kopenhagen vorzustellen und dabei wichtige Kontakte zu knüpfen. Auch ideell stellt die Anerkennung durch den RAM Travel Grant eine große Motivation dar.[/perfectpullquote]
+# 
+# [perfectpullquote align="full" bordertop="false" cite="Nico Sonntag" link="" color="" class="#16989D" size="14"] Die Förderung der Rationalen Altruisten verbessert die Qualität wissenschaftlicher Abschlussarbeiten, weil sie den Studenten ermöglicht, kostenpflichtige, interessante und ergiebige Datensätze zu bestellen.[/perfectpullquote]
+# 

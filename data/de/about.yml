@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Über uns
+  about_item :
+  - icon : ti-money # themify icon pack : https://themify.me/themify-icons
+    title : Wir fördern # We support
+    content : RAM e.V. fördert eure Forschung finanziell
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Wir unterstützen # We promote
+    content : RAM e.V. bewirbt eure Forschung über eine Vielzahl an Social Media Kanälen
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Wir verleihen Preise für exzellente Forschung # We award
+    content : RAM e.V. zeichnet jährlich herausragenden Abschlussarbeiten in Politikwissenschaft, Psychologie und Soziologie an der sozialwissenschaftlichen Fakultät der Universität Mannheim aus

@@ -1,0 +1,117 @@
+baseURL: https://examplesite.com
+title: RAM e.V.
+theme: meghna-hugo
+paginate: '8'
+summaryLength: '15'
+disableLanguages: []
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: false
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: false
+params:
+  author: RAM e.V.
+  cookies:
+    enable: no
+    expire_days: 2
+  description: XXX
+  google_analytics_id: ''
+  logo: images/logo.png
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themify-icons/themify-icons.css
+      - link: plugins/magnific-popup/magnific-popup.css
+      - link: plugins/slick/slick.css
+      - link: https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: plugins/lazy-load/lozad.min.js
+  post_share: no
+  preloader:
+    enable: no
+    preloader: images/logo.png
+  social:
+    - icon: ti-facebook
+      link: 'https://www.facebook.com/ram.ev'
+    - icon: ti-twitter-alt
+      link: 'https://twitter.com/ram_ev'
+    - icon: ti-linkedin
+      link: 'https://www.linkedin.com/company/ram-ev/'
+    - icon: ti-email
+      link: 'mailto:vorstand@ram-ev.de'
+Languages:
+  de:
+    contentDir: content/deutsch
+    copyright: Copyright &copy; 2021 Rationale Altruisten Mannheim e.V.
+    languageCode: de-de
+    languageName: Deutsch
+    menu:
+      main:
+        - name: Über uns
+          url: '#about'
+          weight: 1
+        - name: Geförderte Forschungsprojekte
+          url: '#portfolio'
+          weight: 4
+        - name: Förderung
+          url: '#pricing'
+          weight: 2
+        - name:
+          url: '#testimonials'
+          weight: 3
+        - name: Vorstand von RAM e.V.
+          url: '#team'
+          weight: 5
+        - name: Aktuelles
+          url: '#blog'
+          weight: 6
+    weight: 1
+  en:
+    contentDir: content/english
+    copyright: Copyright &copy; 2021 Rationale Altruisten Mannheim e.V.
+    home: Home
+    languageCode: en-us
+    languageName: English
+    menu:
+      main:
+        - name: About us
+          url: '#about'
+          weight: 1
+        - name: services
+          url: '#services'
+          weight: 2
+        - name: portfolio
+          url: '#portfolio'
+          weight: 3
+        - name: Board of RAM
+          url: '#team'
+          weight: 4
+        - name: pricing
+          url: '#pricing'
+          weight: 5
+        - name: blog
+          url: '#blog'
+          weight: 6
+    weight: 2

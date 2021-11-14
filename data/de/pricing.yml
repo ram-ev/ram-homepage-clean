@@ -1,0 +1,37 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Was wir fördern
+  pricing_table :
+    # pricing table loop
+    - name : Preise für Abschluss-arbeiten
+      services:
+        - ""
+      button:
+        label : "Mehr"
+        link : "/de/funding/preise"
+      
+    # pricing table loop
+    - name : Rationale Altruisten Travel Grant
+      # services:
+      #   - Konferenzgebühren
+      #   - Reisekosten
+      #   - Bis zu 150 €
+      services:
+        - ""
+      button:
+        label : "Mehr"
+        link : "/de/funding/rat-grant/"
+        
+    # pricing table loop
+    - name : Normal-förderung von RAM
+      services:
+        - ""
+      # services:
+      #   - XXX
+      #   - XXX
+      #   - Bis zu 150 €
+      button:
+        label : "Mehr"
+        link : "/de/funding/normalfoerderung"
+        

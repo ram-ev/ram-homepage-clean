@@ -1,0 +1,70 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Geförderte Forschungsprojekte
+  portfolio_item :
+    # portfolio item loop
+    - name : 'Konferenzteilnahme EPSA 2020'
+      image : images/portfolio/conference-felix.jpg
+      categories : ["Konferenz", "Politikwissenschaft"] #, "PhD"]
+      content : 'Felix Olswoski wird bei der EPSA 2020 in Prag sein Paper "The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?" vorstellen. Die Graphik zeigt erste Ergebnisse seiner Forschung -- die Ernennung neuer Richter (orange) seit Beginn von Dutertes Präsidentschaft.'
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : 'Förderung einer Masterarbeit'
+      image : images/portfolio/clara-masterarbeit.jpg
+      categories : ["Abschlussarbeit", "Psychologie"] #, "Master"]
+      content : 'Wir freuen uns sehr, Claras Masterarbeit zu dem Thema "Attributionale Ambiguität: Benevolenter Sexismus im Zusammenhang mit Selbstzweifeln und Leistung“ unterstützen zu können!'
+      link : ""
+      
+    # portfolio item loop
+    - name : 'Forschungsprojekt zum Kaufverhalten in Online-Shops'
+      image : images/portfolio/supermarket.png
+      categories : ["Masterarbeit", "Psychologie"] #, "Master"]
+      content : 'RAM unterstützt die innovative Studie von Leon Handke finanziell und freut sich nun über euren kurzen Einkauf in Leons virtuellem Supermarkt!'
+      link : "https://www.soscisurvey.de/produktlabels/"
+      
+    # portfolio item loop
+    - name : 'Konferenzteilnahme IMDRC 2021'
+      image : images/portfolio/home-schooling.png
+      categories : ["Konferenz", "Psychologie"] #, "Bachelor"]
+      content : 'Wir unterstützen Julian Schaider bei seiner Teilnahme an der IMDRC 2021. Er stellt dort seine Forschung zu ADHS und Dyspraxie bei Kindern und Jugendlichen vor.'
+      link : "#"
+      
+    # portfolio item loop
+    - name : 'Kursteilnahme an der University of Oxford'
+      image : images/portfolio/coding.png
+      categories : ["Kursteilnahme", "Soziologie"] #, "PhD"]
+      content : 'RAM unterstützt Anna Sokolova bei ihrer Teilnahme an einem Kurs zum Experimental Programming der Oxford Universität.'
+      link : "#"
+      
+    # portfolio item loop
+    - name : 'Forschungsprojekt in Psychologie'
+      image : images/portfolio/psych-group-funding.jpeg
+      categories : ["Forschungsprojekt", "Psychologie"] #, "Master"]
+      content : 'RAM unterstützt Alicia Gernand, Franziska Leipold und Roberto Scatorchia bei ihrem Forschungsprojekt "The influence of cognitive load on the truth effect".'
+      link : "#"
+    #   
+    # # portfolio item loop
+    # - name : Business Card
+    #   image : images/portfolio/portfolio-7.jpg
+    #   image_webp : images/portfolio/portfolio-7.webp
+    #   categories : ["development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+    #   
+    # # portfolio item loop
+    # - name : Stationary Design
+    #   image : images/portfolio/portfolio-8.jpg
+    #   image_webp : images/portfolio/portfolio-8.webp
+    #   categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+    #   
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-2.jpg
+    #   image_webp : images/portfolio/portfolio-2.webp
+    #   categories : ["design", "photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"

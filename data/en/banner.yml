@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image : "images/backgrounds/books_dark.jpeg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Rationale Altruisten Mannheim"
+  content : "Society of friends to support young scholars at the School of Social Sciences at the University of Mannheim"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"

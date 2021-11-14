@@ -1,0 +1,54 @@
+############################### team ############################
+team:
+  enable : true
+  title : Unser Team
+  team_member :
+    # team member loop
+    - name : Cosima Meyer
+      image : images/team/cosima.png
+      designation : Vorsitzende
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/cosima_meyer"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/cosimameyer/"
+        - icon : ti-world
+          link : "https://cosimameyer.rbind.io"
+
+    # team member loop
+    - name : Lukas Isermann
+      image : images/team/lukas.png
+      designation : Stellvertretender Vorsitzender
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/LukasIser"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/lukas-isermann-b36bb4151/"
+
+    # team member loop
+    - name : Regina Gerlich
+      image : images/team/regina.png
+      designation : Schatzmeisterin
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/reginagerlich"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/regina-gerlich-92543a125/"
+        - icon : ti-world
+          link : "https://www.reginagerlich.de"
+
+    # team member loop
+    - name : Dennis Hammerschmidt
+      image : images/team/dennis.png
+      designation : Schriftführer
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#cosima_meyer"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/cosimameyer/"
+        - icon : ti-world
+          link : "https://cosimameyer.rbind.io"

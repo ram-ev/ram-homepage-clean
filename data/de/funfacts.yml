@@ -1,0 +1,29 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  # bg_image : "images/backgrounds/bg-white-wall.jpg"
+  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Geförderte Forschungsanträge"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "320"
+    
+    # counter item loop
+    - title : "Vergebene Preise für Abschlussarbeiten"
+      icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
+      count : "350"
+      
+    - title : "Travel Grants"
+      icon : "ti-file" # themify icon pack : https://themify.me/themify-icons
+      count : "350"
+    
+    # counter item loop
+    - title : "Länder"
+      icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
+      count : "158"
+
+    # # counter item loop
+    # - title : "Cups of Coffee"
+    #   icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+    #   count : "250"

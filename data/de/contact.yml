@@ -1,0 +1,11 @@
+############################## Contact #############################
+contact:
+  enable : false
+  title : Kontakt
+  subtitle : 
+  content : Wenn du noch eine Frage hast, schreib uns einfach eine E-Mail!
+  
+  # Contact details
+  contact_list:
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: vorstand@ram-ev.de"
