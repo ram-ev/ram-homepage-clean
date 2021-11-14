@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://ram-ev.netlify.app"
 title = "RAM e.V."
 theme = "meghna-hugo"
 # post pagination
