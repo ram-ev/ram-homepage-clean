@@ -47,8 +47,8 @@ team:
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#cosima_meyer"
+          link : "#d_hammers"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/cosimameyer/"
+          link : "https://www.linkedin.com/in/dennis-hammerschmidt/"
         - icon : ti-world
-          link : "https://cosimameyer.rbind.io"
+          link : "https://dennis-hammerschmidt.rbind.io"
