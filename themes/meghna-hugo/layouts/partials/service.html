@@ -13,6 +13,8 @@
 						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
+<!--					<h3>{{ with .subtitle }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+						{{ with .subtitle }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h3> -->
 			</div>
 			{{"<!-- /section title -->" | safeHTML }}
 

@@ -4,7 +4,7 @@ pricing:
   title : Was wir fördern
   pricing_table :
     # pricing table loop
-    - name : Preise für Abschluss-arbeiten
+    - name : Preise für Abschlussarbeiten
       services:
         - ""
       button:

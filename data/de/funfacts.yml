@@ -14,12 +14,12 @@ funfacts:
       icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
       count : "350"
       
-    - title : "Travel Grants"
+    - title : "Rationale Altruisten Travel Grants"
       icon : "ti-file" # themify icon pack : https://themify.me/themify-icons
       count : "350"
     
     # counter item loop
-    - title : "Länder"
+    - title : "Länder, in die unsere Geförderten gefahren sind"
       icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
       count : "158"
 

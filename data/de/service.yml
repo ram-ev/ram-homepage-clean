@@ -2,6 +2,7 @@
 service:
   enable : false
   title : Was wir fördern
+  # subtitle: Hier findet ihr eine Übersicht an möglichen Fördermöglichkeiten durch die Rationalen Altruisten Mannheim e.V.
   service_item :
     # service item loop
     - name : Abschlussarbeiten

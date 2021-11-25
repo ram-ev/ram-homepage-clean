@@ -154,7 +154,7 @@ a:hover {
   border-right: 3px solid #ddd;
   display: inline-block;
   padding: 5px 25px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .btn.active:focus,
@@ -226,7 +226,7 @@ a:hover {
   font-size: 14px;
   letter-spacing: 1px;
   padding: 10px 35px;
-  text-transform: uppercase;
+ /* text-transform: uppercase;*/
 }
 
 .btn-main:hover {
@@ -527,7 +527,7 @@ a:hover {
 
 .hero-area-video .block p {
   color: #fff;
-  text-transform: uppercase;
+/*  text-transform: uppercase;*/
   font-size: 12px;
   letter-spacing: 3px;
   margin-bottom: 20px;
@@ -813,7 +813,7 @@ a:hover {
 .price-title h3 {
   color: #FFF;
   margin: 0 0 10px;
-  text-transform: uppercase;
+/*  text-transform: uppercase; */
 }
 
 .price-title p {
@@ -847,7 +847,7 @@ a:hover {
 }
 
 .pricing li .btn {
-  text-transform: uppercase;
+ /* text-transform: uppercase;*/
   margin: 20px 0;
 }
 
@@ -1318,7 +1318,7 @@ a:hover {
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
   margin-bottom: 25px;
-  text-transform: uppercase;
+ /* text-transform: uppercase;*/
 }
 
 .next-prev {
@@ -1623,7 +1623,7 @@ input#e-mail,
 }
 
 .blog-title h1 {
-  text-transform: uppercase;
+/*  text-transform: uppercase;*/
 }
 
 #blog-page {
