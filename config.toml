@@ -106,7 +106,7 @@ HasChildren = true
   [[Languages.de.menu.main]]
   parent = "Förderung"
   name = "Normalförderung"
-  url = "/de/funding/normalfoerdung"
+  url = "/de/funding/normalfoerderung"
   weight = 2
   
   [[Languages.de.menu.main]]
