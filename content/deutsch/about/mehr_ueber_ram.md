@@ -19,5 +19,5 @@ Regina Gerlich, Kassenwart
 Dennis Hammerschmidt, Schriftführer
 
 
-![](images/team/team.jpeg)
+![](/images/team/we.jpeg)
 
