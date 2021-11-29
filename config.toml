@@ -132,13 +132,13 @@ url = "#testimonials"
 weight = 5
 
 [[Languages.de.menu.main]]
-name = ""
-url = "#team"
+name = "Aktuelles"
+url = "#blog"
 weight = 6
 
 [[Languages.de.menu.main]]
-name = "Aktuelles"
-url = "#blog"
+name = ""
+url = "#team"
 weight = 7
 
 ################### English Navigation ########################

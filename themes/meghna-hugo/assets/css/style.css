@@ -1324,6 +1324,7 @@ a:hover {
 .next-prev {
   border-bottom: 1px solid #dedede;
   border-top: 1px solid #dedede;
+  background-color: #000;
   margin: 20px 0;
   padding: 25px 0;
 }
@@ -2248,8 +2249,8 @@ figcaption {
   width: 40px;
   height: 40px;
   border-radius: 0;
-  background-color: #26292e;
-  border: 1px solid #26292e;
+  background-color: #FFF;
+  border: 1px solid #FFF;
   text-align: center;
   margin-right: 6px;
   font-weight: 700;

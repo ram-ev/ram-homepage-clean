@@ -2,7 +2,7 @@
 date: "2017-12-01T12:52:36+06:00"
 description: 
 image: images/backgrounds/books_dark.jpeg
-title: 'Bewerben -- Leitfaden zur Beantragung eines Zuschusses'
+title: 'Normalförderung'
 ---
 
 
@@ -10,32 +10,32 @@ Bitte schicken Sie den Antrag per Mail in **einem** PDF-Dokument an vorstand(at)
 
 Folgendes ist dem Antrag beizufügen:
 
-### 1. Allgemeine Angaben
+##### 1. Allgemeine Angaben
 Name, tabellarischer Lebenslauf (entfällt für Organisationen), Kontaktadresse und eine Kontoverbindung (IBAN und BIC).
 
-### 2. Was wird beantragt?
+##### 2. Was wird beantragt?
 Kurzbeschreibung des Vorhabens.
 
-### 3. Voraussichtliche Kosten des Antrages
+##### 3. Voraussichtliche Kosten des Antrages
 Listen Sie alle anfallenden Kosten auf.
 
-### 4. Angaben über Ausnutzung alternativer Förderungsmöglichkeiten
+##### 4. Angaben über Ausnutzung alternativer Förderungsmöglichkeiten
 Haben oder werden Sie andere Förderungsmöglichkeiten nutzen?
 
-### 5. Darstellung des Vorhabens
+##### 5. Darstellung des Vorhabens
 Stellen Sie das Vorhaben bitte so detailliert wie notwendig dar und machen Sie klar, wie Sie oder andere Nachwuchswissenschaftler der Fakultät von diesem Vorhaben profitieren können. Die Darstellung soll nicht mehr als eine Seite lang sein.
 
-### 6. Nicht-wissenschaftliche Zusammenfassung des Vorhabens
+##### 6. Nicht-wissenschaftliche Zusammenfassung des Vorhabens
 Schreiben sie eine ca. 100 Wörter lange Darstellung des Vorhabens, die interessierte Laien ohne Vorkenntnisse verstehen können.
 
-### 7. Verpflichtungserklärung und Unterschrift
+###### 7. Verpflichtungserklärung und Unterschrift
 Dem Antrag ist folgende eigenständig unterschriebene Erklärung beizufügen:
 
-„Ich verpflichte mich, die im Rahmen dieses Antrags gegebenen Zusagen einzuhalten und akzeptiere mögliche Rückforderungen finanzieller Mittel, die sich aus etwaigen Verletzungen der Antragsrichtlinien ergeben können.
+"Ich verpflichte mich, die im Rahmen dieses Antrags gegebenen Zusagen einzuhalten und akzeptiere mögliche Rückforderungen finanzieller Mittel, die sich aus etwaigen Verletzungen der Antragsrichtlinien ergeben können.
 
-Datum, Unterschrift”
+Datum, Unterschrift"
 
-### 8. Hinweise gemäß Datenschutz-Grundverordnung (DSGVO)
+##### 8. Hinweise gemäß Datenschutz-Grundverordnung (DSGVO)
 Dem Antrag ist darüber hinaus der Hinweis gemäß der [DSGVO zur Kenntnis](/files/dsgvo.pdf) zur nehmen und eigenständig unterschrieben anzuhängen.
 
 Bei Fragen kontaktieren Sie uns bitte unter vorstand(at)ram-ev(dot)de.

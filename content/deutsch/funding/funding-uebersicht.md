@@ -2,7 +2,7 @@
 date: "2017-12-01T12:52:36+06:00"
 description: 
 image: images/backgrounds/books_dark.jpeg
-title: 'Förderung und Preise -- Übersicht'
+title: 'Förderung und Preise - Übersicht'
 ---
 
 Vereinszweck der **Rationalen Altruisten Mannheim e.V.** ist die Förderung des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim.
