@@ -13,7 +13,7 @@ portfolio:
     # portfolio item loop
     - name : 'Förderung einer Masterarbeit'
       image : images/portfolio/clara-masterarbeit.jpg
-      categories : ["Abschlussarbeit", "Psychologie"] #, "Master"]
+      categories : ["Masterarbeit", "Psychologie"] #, "Master"]
       content : '[Wir freuen uns sehr, Claras Masterarbeit zu dem Thema "Attributionale Ambiguität: Benevolenter Sexismus im Zusammenhang mit Selbstzweifeln und Leistung“ unterstützen zu können!](blog/clara-theil/)'
       link : ""
       
@@ -58,6 +58,20 @@ portfolio:
       categories : ["Bachelorarbeit", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Sophia Peter bei der Datenbeschaffung für ihre Bachelorarbeit in Psychologie.](blog/sophia-peter/)'
       link : "#"
+      
+    # portfolio item loop
+    - name : 'Konferenzteilnahme an der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.'
+      image : images/blog/research.png
+      categories : ["Konferenz", "Soziologie"] #, "Master"]
+      content : '[RAM unterstützt Florian Andersen und Pavel Dimitrov Chachev bei ihrer Teilnahme bei der zweijährlichen Konferenz der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.](blog/soziologie-konferenz/)'
+      link : "#"
+      
+    - name : 'Datenbeschaffung zu Forschungsprojekt zu Ungleichheit in Indien'
+      image : images/portfolio/emmy_photo2.png
+      categories : ["Forschungsprojekt", "Politikwissenschaft"] #, "Master"]
+      content : '[RAM unterstützt Emmy Lindstam bei der Datenbeschaffung für ihr Forschungsprojekt “Exclusion, Social Identity Choice and Preferences for Resistance: Evidence from India"."](blog/emmy-lindstam/)'
+      link : "#"
+
     #   
 
     # # portfolio item loop
