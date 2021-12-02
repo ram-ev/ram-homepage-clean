@@ -73,13 +73,13 @@ portfolio:
       link : "#"
 
     - name : 'Konferenzteilnahme an ESRA 2019'
-      image : images/blog/research.png
+      image : images/portfolio/lightbulb.png
       categories : ["Konferenz", "Soziologie"] #, "Master"]
       content : '[RAM unterstützt Tobias Rettigs Teilnahme an der ESRA 2019 mit dem RAT Grant.](blog/rat-tobias/)'
       link : "#"
       
     - name : 'Konferenzteilnahme an EMHFC 2019'
-      image : images/blog/research.png
+      image : images/portfolio/female_researcher.png
       categories : ["Konferenz", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Laura-Ashley Fraunfelters Teilnahme an der EMHFC mit dem RAT Grant.](blog/laura-ashley/)'
       link : "#"
