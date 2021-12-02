@@ -123,7 +123,7 @@ portfolio:
       
     - name : 'Förderung der Teilnahme an der Frühjahrstagung "Familie und Migration"'
       image : images/portfolio/book.png
-      categories : ["Konferenzteilnahme", "Soziologie"]
+      categories : ["Konferenz", "Soziologie"]
       content : '[RAM unterstützt David Kretschmers Konferenzteilnahme an "Familie und Migration".](blog/david-kretschmer/)'
       link : "#"
       
