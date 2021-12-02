@@ -28,7 +28,7 @@ Stellen Sie das Vorhaben bitte so detailliert wie notwendig dar und machen Sie k
 ##### 6. Nicht-wissenschaftliche Zusammenfassung des Vorhabens
 Schreiben sie eine ca. 100 Wörter lange Darstellung des Vorhabens, die interessierte Laien ohne Vorkenntnisse verstehen können.
 
-###### 7. Verpflichtungserklärung und Unterschrift
+##### 7. Verpflichtungserklärung und Unterschrift
 Dem Antrag ist folgende eigenständig unterschriebene Erklärung beizufügen:
 
 "Ich verpflichte mich, die im Rahmen dieses Antrags gegebenen Zusagen einzuhalten und akzeptiere mögliche Rückforderungen finanzieller Mittel, die sich aus etwaigen Verletzungen der Antragsrichtlinien ergeben können.

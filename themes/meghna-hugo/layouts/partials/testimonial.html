@@ -15,13 +15,15 @@
 					{{ range .testimonial_item }}
 					{{"<!-- testimonial single -->" | safeHTML}}
 					<div class="item text-center">
-								<h3>{{ .name }}</h3>
+								<h3>Testimonial</h3>
 								</br>
 						{{"<!-- client photo -->" | safeHTML}}
 						<div class="client-thumb">
 							<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 						</div>
-
+						</br>
+						</br>
+						<h5><em>{{ .name }}</em></h5>
 						{{"<!-- client info -->" | safeHTML}}
 						<div class="client-info">
 							<div class="client-meta">
