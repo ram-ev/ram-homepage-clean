@@ -102,6 +102,19 @@ portfolio:
       content : '[RAM unterstützt Liliane Wulffs Teilnahme am Psychonomic Annual Society Meeting in New Orleans.](blog/liliane-wulff/)'
       link : "#"
 
+    - name : 'Konferenzteilnahme EPSA 2018'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Politikwissenschaft"] #, "Master"]
+      content : '[RAM unterstützt Sebastian Juhls Konferenzteilnahme an der EPSA 2018 in Wien.](blog/sebastian-juhl/)'
+      link : "#"
+
+
+    - name : 'Konferenzteilnahme an der 3. Konferenz der DGPPF'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Psychologie"] #, "Master"]
+      content : '[RAM unterstützt Belinda Merkles Konferenzteilnahme an der 3. Konferenz der DGPPF in Bochum.](blog/belinda-merkle/)'
+      link : "#"
+      
     # # portfolio item loop
     # - name : Business Card
     #   image : images/portfolio/portfolio-7.jpg
