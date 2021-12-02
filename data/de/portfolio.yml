@@ -61,7 +61,7 @@ portfolio:
       
     # portfolio item loop
     - name : 'Konferenzteilnahme an der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.'
-      image : images/blog/research.png
+      image : images/portfolio/book.png
       categories : ["Konferenz", "Soziologie"] #, "Master"]
       content : '[RAM unterstützt Florian Andersen und Pavel Dimitrov Chachev bei ihrer Teilnahme bei der zweijährlichen Konferenz der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.](blog/soziologie-konferenz/)'
       link : "#"
