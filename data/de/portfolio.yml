@@ -69,9 +69,20 @@ portfolio:
     - name : 'Datenbeschaffung zu Forschungsprojekt zu Ungleichheit in Indien'
       image : images/portfolio/emmy_photo2.png
       categories : ["Forschungsprojekt", "Politikwissenschaft"] #, "Master"]
-      content : '[RAM unterstützt Emmy Lindstam bei der Datenbeschaffung für ihr Forschungsprojekt “Exclusion, Social Identity Choice and Preferences for Resistance: Evidence from India"."](blog/emmy-lindstam/)'
+      content : '[RAM unterstützt Emmy Lindstam bei der Datenbeschaffung für ihr Forschungsprojekt “Exclusion, Social Identity Choice and Preferences for Resistance: Evidence from India".](blog/emmy-lindstam/)'
       link : "#"
 
+    - name : 'Konferenzteilnahme an ESRA 2019'
+      image : images/blog/research.png
+      categories : ["Konferenz", "Soziologie"] #, "Master"]
+      content : '[RAM unterstützt Tobias Rettigs Teilnahme an der ESRA 2019 mit dem RAT Grant.](blog/rat-tobias/)'
+      link : "#"
+      
+    - name : 'Konferenzteilnahme an EMHFC 2019'
+      image : images/blog/research.png
+      categories : ["Konferenz", "Psychologie"] #, "Master"]
+      content : '[RAM unterstützt Laura-Ashley Fraunfelters Teilnahme an der EMHFC mit dem RAT Grant.](blog/laura-ashley/)'
+      link : "#"
     #   
 
     # # portfolio item loop
