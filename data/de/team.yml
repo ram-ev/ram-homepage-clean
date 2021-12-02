@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Unser Team
+  title : Der Vorstand
   team_member :
     # team member loop
     - name : Cosima Meyer
