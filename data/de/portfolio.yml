@@ -83,7 +83,24 @@ portfolio:
       categories : ["Konferenz", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Laura-Ashley Fraunfelters Teilnahme an der EMHFC mit dem RAT Grant.](blog/laura-ashley/)'
       link : "#"
-    #   
+      
+    - name : 'Konferenzteilnahme an EPSA 2019'
+      image : images/portfolio/female_researcher.png
+      categories : ["Konferenz", "Politikwisschenschaft"] #, "Master"]
+      content : '[RAM unterstützt Verena Kunz Teilnahme an der EPSA 2019 mit dem RAT Grant.](blog/verena-kunz/)'
+      link : "#"
+
+    - name : 'WUMAN'
+      image : images/portfolio/wuman.png
+      categories : ["Netzwerk"] #, "Master"]
+      content : '[RAM unterstützt WUMAN bei der Kick-off-Veranstaltung.](blog/wuman/)'
+      link : "#"
+
+    - name : 'Konferenzteilnahme Psychonomic Annual Society Meeting'
+      image : images/portfolio/female_researcher.png
+      categories : ["Konferenz", "Psychologie"] #, "Master"]
+      content : '[RAM unterstützt Liliane Wulffs Teilnahme am Psychonomic Annual Society Meeting in New Orleans.](blog/liliane-wulff/)'
+      link : "#"
 
     # # portfolio item loop
     # - name : Business Card
