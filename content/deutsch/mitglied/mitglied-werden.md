@@ -21,3 +21,4 @@ Es gibt **drei Beitragshöhen**:
 - **Regulärer Beitrag**: 36€/Jahr
 - **Förderbeitrag**: 48€/Jahr
 
+
