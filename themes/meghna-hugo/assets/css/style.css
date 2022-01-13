@@ -796,6 +796,13 @@ a:hover {
   margin: 0;
 }
 
+.counters-item h4 {
+  margin-bottom: 10px;
+  font-size: 40px;
+  display: inline-block;
+  color: #000;
+}
+
 /*=================================================================
   Pricing section
 ==================================================================*/
