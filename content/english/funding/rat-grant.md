@@ -5,25 +5,24 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Rationale Altruisten Travel Grant'
 ---
 
+Doctoral students at the School of Social Sciences of the University of Mannheim are eligible to apply for the annual **Rational Altruist Travel (RAT) Grant** (awarded annually since 2014). The grant helps to facilitate conference participation. 
 
-Seit 2014 schreiben wir jährlich den **Rationale Altruisten Travel (RAT) Grant** aus, der für Nachwuchswissenschaftlern der Fakultät für Sozialwissenschaften die finanzielle Belastung durch Teilnahme an Konferenzen und Fachtagungen abfedern soll. 
+> **In light of the current situation, we do not award a RAT grant in 2022. If you are looking for conference funding, please see our [regular funding options]((en/funding/regular-funding).**
 
-> **Aufgrund der aktuellen Situation schreiben wir in 2022 keine RAT-Grants aus. Für alternative Konferenzförderung, verweisen wir auf unsere [reguläre Förderung](de/funding/normalfoerderung).**
+For further information on how to apply for the RAT Grant, please refer to our calls.
 
-Mehr Informationen Informationen zur Bewerbung um einen RAT-Grant findet ihr in der jeweiligen Ausschreibung.
+List of prize winners:
 
-Bisherige Preisträger:
-
-| Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Nachname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Vorname          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Gutachter             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Preis    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Surname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Name          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Supervisor             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Prize    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|-------------|------------------|--------------------------|-----------|
-| 2014 | Buß         | Christopher      | Prof. Dr. Ebbinghaus     | RAT-Preis |
-| 2014 | Marbach     | Moritz           | Prof. Dr. König          | RAT-Preis |
-| 2015 | Wenz        | Laura            | Prof. Dr. Sonnentag      | RAT-Preis |
-| 2016 | Malejka     | Simone           | Prof. Dr. Bröder         | RAT-Preis |
-| 2016 | Heck        | Daniel           | Prof. Dr. Erdfelder      | RAT-Preis |
-| 2017 | Henninger   | Felix            | Prof. Dr. Hilbig         | RAT-Preis |
-| 2018 | [Juhl](http://www.sebastianjuhl.com)        | Sebastian        | Prof. Dr. Bräuninger     | RAT-Preis |
-| 2018 | [Wulff](http://psycho3.uni-mannheim.de/Personen/Liliane%20Wullf,%20M.Sc./)       | Liliane          | Prof. Dr. Kuhlmann       | RAT-Preis |
-| 2019 | [Fraunfelter](http://klips.psychologie.uni-mannheim.de/personen/Laura-Ashley%20Fraunfelter/) | Laura-Ashley     |                          | RAT-Preis |
-| 2019 | [Rettig](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/)      | Tobias           |                          | RAT-Preis |
-| 2020 | [Olsowski](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/)    | Felix            | Prof. Sabine Carey, PhD  | RAT-Preis |
+| 2014 | Buß         | Christopher      | Prof. Dr. Ebbinghaus     | RAT Grant |
+| 2014 | Marbach     | Moritz           | Prof. Dr. König          | RAT Grant |
+| 2015 | Wenz        | Laura            | Prof. Dr. Sonnentag      | RAT Grant |
+| 2016 | Malejka     | Simone           | Prof. Dr. Bröder         | RAT Grant |
+| 2016 | Heck        | Daniel           | Prof. Dr. Erdfelder      | RAT Grant |
+| 2017 | Henninger   | Felix            | Prof. Dr. Hilbig         | RAT Grant |
+| 2018 | [Juhl](http://www.sebastianjuhl.com)        | Sebastian        | Prof. Dr. Bräuninger     | RAT Grant |
+| 2018 | [Wulff](http://psycho3.uni-mannheim.de/Personen/Liliane%20Wullf,%20M.Sc./)       | Liliane          | Prof. Dr. Kuhlmann       | RAT Grant |
+| 2019 | [Fraunfelter](http://klips.psychologie.uni-mannheim.de/personen/Laura-Ashley%20Fraunfelter/) | Laura-Ashley     |                          | RAT Grant |
+| 2019 | [Rettig](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/)      | Tobias           |                          | RAT Grant |
+| 2020 | [Olsowski](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/)    | Felix            | Prof. Sabine Carey, PhD  | RAT Grant |
