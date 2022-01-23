@@ -10,8 +10,8 @@ Mitglied werden können alle, die der Fakultät für Sozialwissenschaften angeh�
 
 Hierfür ist Folgendes erforderlich:
 
-- Den **ausgefüllten Antrag** ([Flyer](/files/Membership_Flyer_Februar_2021.pdf)) dem Vorstand zukommen zu lassen (Kontaktadresse [hier](/de/about/contact))
-- Einen ersten **Mitgliedsbeitrag** zu entrichten (Bankverbindung siehe [hier](/de/about/contact)) oder eine SEPA-Lastschriftenmandat zu erteilen.
+- Den **ausgefüllten Antrag** ([Flyer](/files/Membership_Flyer_Februar_2021.pdf)) dem Vorstand zukommen zu lassen (Kontaktadresse [hier](/de/about/kontakt))
+- Einen ersten **Mitgliedsbeitrag** zu entrichten (Bankverbindung siehe [hier](/de/about/kontakt)) oder eine SEPA-Lastschriftenmandat zu erteilen.
 
 #### Mitgliedsbeitrag
 

@@ -8,8 +8,8 @@ title: 'How to become a member'
 
 To become a member of the Rational Altruists Mannheim e.V., simply provide the following two things:
 
-- **Fill in** the membership ([form](/files/Membership_Flyer_Februar_2021.pdf)) and send it to the board (for contact details please see [here](/de/about/contact))
-- Pay your first **membership fee** (for bank account details please see [here](/de/about/contact)) or allow automatic payments via SEPA
+- **Fill in** the membership ([form](/files/Membership_Flyer_Februar_2021.pdf)) and send it to the board (for contact details please see [here](/about/contact))
+- Pay your first **membership fee** (for bank account details please see [here](/about/contact)) or allow automatic payments via SEPA
 
 #### Membership fees
 

@@ -24,7 +24,7 @@ pricing:
         link : "/funding/rat-grant/"
         
     # pricing table loop
-    - name : Regular funding
+    - name : RAM's regular funding
       services:
         - ""
       # services:
