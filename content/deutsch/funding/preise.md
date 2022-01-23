@@ -5,7 +5,7 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Preise'
 ---
 
-Seit 2010 stiftet RAM e.V. einen **Preis für die besten Masterarbeiten in Soziologie und Politikwissenschaften** zu je 150 €. Ab 2018 werden auch Preise für die besten Bachelorarbeiten in den Fächern **Soziologie und Politikwissenschaft** mit jeweils 100 € vergeben. Hier gibt es mehr Informationen für den Vorschlag von Abschlussarbeiten für den [**Hans-Albert-Preis**]() und den [**Franz-Urban-Pappi-Preis**]().
+Seit 2010 stiftet RAM e.V. einen **Preis für die besten Masterarbeiten in Soziologie und Politikwissenschaften** zu je 150 €. Ab 2018 werden auch Preise für die besten Bachelorarbeiten in den Fächern **Soziologie und Politikwissenschaft** mit jeweils 100 € vergeben. Hier gibt es mehr Informationen für den Vorschlag von Abschlussarbeiten für den **Hans-Albert-Preis** und den **Franz-Urban-Pappi-Preis** für [Bachelor-](/files/RAM_Call_2021_Bachelor.pdf) und [Masterarbeiten](/files/RAM_Call_2021_Master.pdf).
 
 Außerdem verleihen wir den [**Otto-Selz-Preis**](/files/Ausschreibung_OttoSelzPreise-2021.pdf) für die besten Abschlussarbeiten in **Psychologie**. Der Preis ist mit 150 € für Masterarbeiten und 100 € für Bachelorarbeiten dotiert.
 
