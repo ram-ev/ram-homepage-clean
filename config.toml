@@ -152,25 +152,25 @@ HasChildren = true
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "More about RAM e.V."
-  url = "/en/about/more-about-ram"
+  url = "/about/more-about-ram"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Statute"
-  url = "/en/about/statute"
+  url = "/about/statute"
   weight = 2
   
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Legal notice"
-  url = "/de/about/legal-notice"
+  url = "/about/legal-notice"
   weight = 3
   
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Privacy policy"
-  url = "/en/about/privacy-policy"
+  url = "/about/privacy-policy"
   weight = 4
   
   [[Languages.en.menu.main]]
@@ -182,7 +182,7 @@ HasChildren = true
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Contact"
-  url = "/en/about/contact"
+  url = "/about/contact"
   weight = 6
 
 [[Languages.en.menu.main]]
@@ -200,30 +200,30 @@ HasChildren = true
   [[Languages.en.menu.main]]
   parent = "Funding"
   name = "Overview"
-  url = "/en/funding/funding-overview"
+  url = "/funding/funding-overview"
   weight = 1
   
   [[Languages.en.menu.main]]
   parent = "Funding"
   name = "Regular funding"
-  url = "/en/funding/regular-funding"
+  url = "/funding/regular-funding"
   weight = 2
   
   [[Languages.en.menu.main]]
   parent = "Funding"
   name = "Rationale Altruisten Travel Grant"
-  url = "/en/funding/rat-grant"
+  url = "/funding/rat-grant"
   weight = 3
   
   [[Languages.en.menu.main]]
   parent = "Funding"
   name = "Awards"
-  url = "/en/funding/awards"
+  url = "/funding/awards"
   weight = 4
   
 [[Languages.en.menu.main]]
 name = "Become a member"
-url = "/en/membership/become-a-member"
+url = "/membership/become-a-member"
 weight = 4
 
 [[Languages.en.menu.main]]
