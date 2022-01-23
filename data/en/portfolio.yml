@@ -128,7 +128,7 @@ portfolio:
       link : "#"
       
     - name : 'Funding of course participation'
-      image : images/portfolio/workshop.png
+      image : images/portfolio/female_researcher.png
       categories : ["course participation", "Sociology"]
       content : '[RAM supports Julia Ingenfelds participation in a GESIS workshop.](blog/julia-ingenfeld/)'
       link : "#"

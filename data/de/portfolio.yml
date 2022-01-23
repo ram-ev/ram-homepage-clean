@@ -79,13 +79,13 @@ portfolio:
       link : "#"
       
     - name : 'Konferenzteilnahme an EMHFC 2019'
-      image : images/portfolio/female_researcher.png
+      image : images/portfolio/conference.png
       categories : ["Konferenz", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Laura-Ashley Fraunfelters Teilnahme an der EMHFC mit dem RAT Grant.](blog/laura-ashley/)'
       link : "#"
       
     - name : 'Konferenzteilnahme an EPSA 2019'
-      image : images/portfolio/female_researcher.png
+      image : images/portfolio/workshop.png
       categories : ["Konferenz", "Politikwisschenschaft"] #, "Master"]
       content : '[RAM unterstützt Verena Kunz Teilnahme an der EPSA 2019 mit dem RAT Grant.](blog/verena-kunz/)'
       link : "#"
@@ -97,7 +97,7 @@ portfolio:
       link : "#"
 
     - name : 'Konferenzteilnahme Psychonomic Annual Society Meeting'
-      image : images/portfolio/female_researcher.png
+      image : images/portfolio/presentation.png
       categories : ["Konferenz", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Liliane Wulffs Teilnahme am Psychonomic Annual Society Meeting in New Orleans.](blog/liliane-wulff/)'
       link : "#"
@@ -110,25 +110,25 @@ portfolio:
 
 
     - name : 'Konferenzteilnahme an der 3. Konferenz der DGPPF'
-      image : images/portfolio/book.png
+      image : images/portfolio/online_study.png
       categories : ["Konferenz", "Psychologie"] #, "Master"]
       content : '[RAM unterstützt Belinda Merkles Konferenzteilnahme an der 3. Konferenz der DGPPF in Bochum.](blog/belinda-merkle/)'
       link : "#"
       
     - name : 'Förderung eines Sprachkurses als Vorbereitung für Feldforschung'
-      image : images/portfolio/book.png
+      image : images/portfolio/note.png
       categories : ["Kursteilnahme"]
       content : '[RAM unterstützt Anna-Lena Hönig bei einem Sprachkurs als Förderung für ihre Feldforschung.](blog/anna-lena/)'
       link : "#"
       
     - name : 'Förderung der Teilnahme an der Frühjahrstagung "Familie und Migration"'
-      image : images/portfolio/book.png
+      image : images/portfolio/conference.png
       categories : ["Konferenz", "Soziologie"]
       content : '[RAM unterstützt David Kretschmers Konferenzteilnahme an "Familie und Migration".](blog/david-kretschmer/)'
       link : "#"
       
     - name : 'Förderung von Kursteilnahme'
-      image : images/portfolio/book.png
+      image : images/portfolio/female_researcher.png
       categories : ["Kursteilnahme", "Soziologie"]
       content : '[RAM unterstützt Julia Ingenfelds die Teilnahme an einem GESIS Workshop.](blog/julia-ingenfeld/)'
       link : "#"
