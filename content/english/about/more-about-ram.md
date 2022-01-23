@@ -1,23 +1,22 @@
 ---
 date: "2018-09-12T14:51:12+06:00"
-title: Mehr über RAM
+title: About us
 ---
 
+The **Rationale Altruisten Mannheim e.V.** was founded in 2000 as part of a
+student initiative. Our goal was and still is the support of young scholars of the School of Social Sciences at the University of Mannheim.
 
-Die **Rationalen Altruisten Mannheim e.V.** gingen 2000 aus einer studentischen Initiative hervor. Ziel war und ist die Förderung des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim.
+The association provides financial support to young scholars funded only via membership fees. It further offers a networking space between students and alumni to further future academic prospects.
 
-Der Verein versteht sich primär als Förderverein, sammelt also Geld, um die Studierenden und Nachwuchswissenschaftler in ihrer Ausbildung und Forschung zu unterstützen. Darüber hinaus bietet der Verein selbst auch eine Plattform, um Kontakte zu anderen Studierenden und Absolventen aufzubauen und zu pflegen.
+**The board of Rationale Altruisten Mannheim e.V.**
 
-**Vorstand**
+Cosima Meyer, chairwoman
 
-Cosima Meyer, Vorsitzende
+Lukas Isermann, vice-chairman
 
-Lukas Isermann, stellvertretender Vorsitzender
+Regina Gerlich, treasurer
 
-Regina Gerlich, Kassenwart
-
-Dennis Hammerschmidt, Schriftführer
-
+Dennis Hammerschmidt, secretary
 
 ![](/images/team/we.jpeg)
 
