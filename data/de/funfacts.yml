@@ -7,21 +7,21 @@ funfacts:
     # counter item loop
     - title : "Geförderte Forschungsanträge"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "57"
     
     # counter item loop
     - title : "Vergebene Preise für Abschlussarbeiten"
       icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "32"
       
     - title : "Rationale Altruisten Travel Grants"
       icon : "ti-file" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "10"
     
     # counter item loop
     - title : "Länder, in die unsere Geförderten gefahren sind"
       icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "7"
 
     # # counter item loop
     # - title : "Cups of Coffee"
