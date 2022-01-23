@@ -2,7 +2,8 @@
 date: "2019-04-07"
 description: 
 image: images/blog/research.png
-title: Förderung einer Konferenzteilnahme bei der EPSA 2019
+title: Funding of conference participation at EPSA 2019
 ---
 
-Wir freuen uns [Verena Kunz](https://verenakunz.github.io/) bei ihrer Teilnahme bei der jährlichen Konferenz der [European Political Science Association (EPSA)](https://www.epsanet.org/conference-2019/) vom 20.-22. Juni 2019 in Belfast unterstützen zu können. Verena Kunz ist Doktorandin und wissenschaftliche Mitarbeiterin an der Universität Mannheim. Sie präsentiert ein gemeinsames Paper mit Britt Bolin (Universität Mannheim) zum Thema “Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking”. Wir wünschen viel Erfolg!
+We are happy to announce that we will support [Verena Kunz's](https://verenakunz.github.io/) participation at the annual conference of the [European Political Science Association (EPSA)](https://www.epsanet.org/conference-2019/) 2019 in Belfast (June 20-22, 2019). Verena Kunz is a doctoral candidate and research associate at the University of Mannheim. She will  present a co-authored paper (with Britt Bolin, University of Mannheim) on “Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking”. We wish Verena Kunz all the best!
+
