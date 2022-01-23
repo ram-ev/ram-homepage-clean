@@ -5,16 +5,16 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Förderung und Preise - Übersicht'
 ---
 
-Vereinszweck der **Rationalen Altruisten Mannheim e.V.** ist die Förderung des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim.
+The purpose of **Rationale Altruisten Mannheim e.V.** is to support young scholars of the School of Social Sciences at the University of Mannheim.
 
-Insbesondere fördern wir Abschlussarbeiten und andere Projekte, die einzelne Studierende oder eine Gruppe von Studierenden ihren wissenschaftlichen und beruflichen Zielen näher bringt.
+In particular, we fund final theses and other academic projects with the desire to advance students’ academic and professional goals.
 
-In seinem fast zwanzigjährigen Bestehen hat der Verein unter anderem zahllose Abschlussarbeiten, Besuche von Fachkongressen und Teilnahmen an wissenschaftlichen Fortbildungen gefördert. Dank seiner Mitglieder und Förderer verfügt der Verein über adäquate Möglichkeiten, um diese Förderung zu ermöglichen. Bisher konnte die überwiegende Mehrzahl der Anträge mit substantiellen Summen gefördert werden.
+Owing to the generous support of our members, we are able to assist various theses and dissertations as well as participation at conferences and training programs. Up to date, we were able to fund the majority of applications with a substantial amount of financial support.
 
-<!--Eine detaillierte Auflistung der Geförderten findet ihr [hier]() oder in der Karte.
+<!--For a detailed list of all funded students, see here or in the map below.
 
 **KARTE EINFÜGEN**
 ![]() 
 -->
 
-Wenn du sich für eine Förderung interessierst, findest du alles weitere in unseren [Richtlinien und dem Leitfaden zur Beantragung](/de/funding/normalfoerderung). Bei weiteren Fragen oder auch Interesse an der Förderung des Vereins, wende dich gerne an [uns](/de/about/contact).
+If you want to apply for funding yourself, [please read our guidelines](/en/funding/regular-funding). If you have any further questions or wish to support us, feel free to [contact us](/en/about/contact).
