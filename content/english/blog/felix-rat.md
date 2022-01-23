@@ -1,12 +1,12 @@
 ---
 date: "2020-03-10"
-description: RAT unterstützt Konferenzteilnahme bei der EPSA 2020 in Prag
+description: RAT supports conference participation at EPSA 2020 in Prague
 image: images/blog/research.png
 # image_webp: images/blog/blog-post-2.webp
-title: RAT unterstützt Konferenzteilnahme bei der EPSA 2020 in Prag
+title: RAT supports conference participation at EPSA 2020 in Prague
 ---
 
-Der diesjährige erste Travel Grant der Rationalen Altruisten geht an [Felix Olsowski](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/). Er wird bei der Konferenz der [European Political Science Association (EPSA) 2020](https://www.epsanet.org/) in Prag sein Paper „The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?” vorstellen. Die Graphik zeigt erste Ergebnisse seiner Forschung -- die Ernennung neuer Richter (orange) seit Beginn von Dutertes Präsidentschaft. Felix Olsowski ist Doktorand an der Universität Mannheim. 
-Wir haben auch dieses Jahr wieder viele sehr gute Bewerbungen erhalten und können leider aufgrund unseres Budgets zur Zeit nur einen Travel Grant vergeben. Daher möchten wir uns an dieser Stelle bei allen Bewerbern für ihre inspirierende Forschung bedanken und wünschen Felix viel Erfolg!
+We are happy to announce that we will support [Felix Olsowski's](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/) participation at the annual European Political Science Association (EPSA) 2020](https://www.epsanet.org/) in Prague (June 18-20, 2020). Felix Olsowski is a doctoral candidate at the GESS and the University of Mannheim. He will present his research on "The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?". The map shows first results of Felix's research: The appointments of new judges (orange) since the beginning of the Duterte presidency.
+ This year, we received again an overwhelming number of excellent applications, and were only able to award one travel grant due to budget constraints — we would, therefore, like to thank all applicants for sharing their inspiring research and wish Felix all the best!
 
 ![](/images/portfolio/conference-felix.jpg)
