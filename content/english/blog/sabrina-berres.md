@@ -2,12 +2,9 @@
 date: "2019-10-23"
 description: 
 image: images/blog/research.png
-title: RAM unterstützt Datenbeschaffung für Doktorarbeit
+title: RAM supports data collection for PhD project
 ---
 
-Wir freuen uns sehr, [Sabrina Berres](https://www.sowi.uni-mannheim.de/en/erdfelder/team/academic-staff-members/berres-sabrina/) bei der Datenbeschaffung für ihre Doktorarbeit finanziell unterstützen zu können. Das Projekt ist Teil ihrer Promotion.
-
-Wenn ihr Sabrina auch bei ihrer Studie unterstützen möchtet, dann haben wir hier alle Informationen für euch. Wenn ihr die Voraussetzungen erfüllt, meldet euch einfach über den [Link](https://www.soscisurvey.de/istdasneu/) an, habt die Chance auf einen von 5 Amazon-Gutscheinen im Wert von jeweils 20 € und tragt zum Erfolg der Studie bei!
-
+We are happy to support [Sabrina Berres's](https://www.sowi.uni-mannheim.de/en/erdfelder/team/academic-staff-members/berres-sabrina/) data collection for her dissertation which is part of her dissertation. We wish Sabrina for her research all the best!
 
 ![](/images/portfolio/ram-berres.jpg)

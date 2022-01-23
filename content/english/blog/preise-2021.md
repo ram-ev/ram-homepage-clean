@@ -2,17 +2,17 @@
 date: "2021-10-01"
 description: 
 image: images/blog/award.png
-title: Preisträger:innen der Preise für herausragende Abschlussarbeiten 2021
+title: Winners of the 2021 Outstanding Thesis Awards
 ---
 
-Wir freuen uns sehr, die Preisträger:innen der diesjährigen Franz-Urban-Pappi-Preise (Politikwissenschaft), Hans-Albert-Preise (Soziologie) und Otto-Selz-Preise (Psychologie) verkünden zu können!
+We are very pleased to announce the winners of this year's Franz-Urban-Pappi-Prize (Political Science), Hans-Albert-Prize (Sociology) and Otto-Selz-Prize (Psychology)!
 
-Der Otto-Selz-Preis für herausragende Bachelorarbeiten in Psychologie wird dieses Jahr an **Selina Zajdler** vergeben. Der Otto-Selz-Preis für exzellente Masterarbeiten geht dieses Jahr an **Ira Elisa Herwig**.
+This year, the Otto Selz Prize for Outstanding Bachelor Thesis in Psychology will be awarded to **Selina Zajdler**. The Otto Selz Prize for excellent master's thesis will be awarded this year to **Ira Elisa Herwig**.
 
-Dieses Jahr verleihen wir erstmals die Preise in Politikwissenschaft und Soziologie mit unseren neuen Namensträgern – Franz Urban Pappi und Hans Albert. Der Franz-Urban-Pappi-Preis in Politikwissenschaft wird dieses Jahr für zwei herausragende Bachelorarbeiten an **Julia Ketterer** und **Teresa Hausmann** vergeben. Der Hans-Albert-Preis für herausragende Bachelorarbeiten in Soziologie wird dieses Jahr an **Maria Schlüter** vergeben. Der Hans-Albert-Preis für exzellente Masterarbeiten geht dieses Jahr an **Joshua Hellyer**.
+This year, for the first time, we are awarding the prizes in Political Science and Sociology with our new namesakes - Franz Urban Pappi and Hans Albert. The Franz Urban Pappi Prize in Political Science will be awarded this year to **Julia Ketterer** and **Teresa Hausmann** for two outstanding undergraduate theses. The Hans Albert Prize for Outstanding Bachelor Thesis in Sociology will be awarded this year to **Maria Schlüter**. The Hans Albert Prize for excellent master's theses is awarded this year to **Joshua Hellyer**.
 
-*Die Jury für die Auswahl der herausragenden Abschlussarbeiten bestand dieses Jahr aus: Meike Bonefeld, Anna-Lena Hönig, Clara Husson, Florian Keusch, Sandra Morgenstern, Polina Mosolova, Rüdiger Schmitt-Beck, Liliane Wulff und Anna-Lena Zietlow.*
+*The jury for the selection of the outstanding theses this year consisted of: Meike Bonefeld, Anna-Lena Hönig, Clara Husson, Florian Keusch, Sandra Morgenstern, Polina Mosolova, Rüdiger Schmitt-Beck, Liliane Wulff and Anna-Lena Zietlow.*
 
-Wir möchten uns an dieser Stelle für die großartige Unterstützung bedanken!
+We would like to take this opportunity to thank them for their great support!
 
-Außerdem bedanken wir uns für die zahlreichen ausgezeichneten Nominierungen. Wir freuen uns, auch im nächsten Jahr spannende Abschlussarbeiten lesen zu dürfen!
+We would also like to thank you for the numerous excellent nominations. We look forward to reading exciting final theses again next year!

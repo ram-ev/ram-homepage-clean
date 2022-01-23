@@ -2,11 +2,11 @@
 date: "2019-06-17"
 description: 
 image: images/blog/research.png
-title: RAT unterstützt Konferenzteilnahme bei der ESRA 2019 in Zagreb
+title: RAT supports conference participation at ESRA 2019 in Zagreb
 ---
 
-Wir sind sehr stolz dieses Jahr erneut einen zweiten Travel Grant verleihen zu können - vielen Dank für die zahlreichen ausgezeichneten Einsendungen! An dieser Stelle möchten wir uns ganz herzlich für die Unterstützung eines anonymen Gutachters bedanken, der uns bei der schwierigen Auswahl beratend zur Seite gestanden ist.
+This year, we are excited to announce again a Rationale Altruisten Travel Grant - we received an overwhelming number of excellent applications! We would like to thank an anonymous reviewer for his invaluable input and help during the decision-making process.
 
-Der Grant der Rationalen Altruisten geht an [Tobias Rettig](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/). Tobias Rettig ist Doktorand und forscht zu Survey methodology, Measurement error und response style bias. Er wird bei der [European Survey Research Association (ESRA) Konferenz](https://www.europeansurveyresearch.org/conferences/overview) in Zagreb seine Paper "Investigating Respondents’ Ability to Recall Previous Responses to Different Types of Questions in a Probability-Based Online Panel" und "How Much Text Is Too Much? Assessing Respondent Attention to Instruction Texts Depending on Text Length" vorstellen.
+We are happy to support [Tobias Rettig's](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/) participation at the [European Survey Research Association (ESRA) Konferenz](https://www.europeansurveyresearch.org/conferences/overview) conference in Zagreb. Tobias Rettig is a doctoral candidate and his research centers on survey methodology, measurement error, and response style bias. He will present his papers "Investigating Respondents’ Ability to Recall Previous Responses to Different Types of Questions in a Probability-Based Online Panel" and "How Much Text Is Too Much? Assessing Respondent Attention to Instruction Texts Depending on Text Length".
 
-Wir wünschen Tobias Rettig viel Erfolg!
+We wish Tobias Rettig for his talks and his research all the best!
