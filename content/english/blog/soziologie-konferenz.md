@@ -2,7 +2,7 @@
 date: "2019-09-05"
 description: 
 image: images/blog/research.png
-title: RAM unterstützt Konferenzteilnahme
+title: RAM supports conference participation
 ---
 
-Wir freuen uns Florian Andersen und Pavel Dimitrov Chachev bei ihrer Teilnahme bei der zweijährlichen Konferenz der [Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.](https://www.dngps.de/) vom 25.-27. September 2019 in Hannover unterstützen zu können. Als Gründungsmitglider der Arbeitsgruppe ["Analytische Soziologie"](http://ag-analytische-soziologie.de/wordpress/ueber-ag/) wurden Florian Andersen und Pavel Dimitrov Chachev unter anderem eingeladen, aktuelle und klassische Forschungsarbeiten aus dem Feld präsentieren.
+Chachev's participation at the bi-annual conference of the [Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.](https://www.dngps.de/) in Hannover (September 25-27, 2019). As founding members of the working group ["Analytische Soziologie"](http://ag-analytische-soziologie.de/wordpress/ueber-ag/), Florian Andersen and Pavel Dimitrov Chachev were invited, amongst others, to present most recent and traditional work in the field.
