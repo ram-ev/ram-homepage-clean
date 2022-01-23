@@ -2,20 +2,19 @@
 date: "2021-05-14"
 description: 
 image: images/blog/award.png
-title: 'Hans Albert und Franz Urban Pappi sind Namensgeber für die RAM-Preise in Politikwissenschaft und Soziologie!'
+title: Hans Albert and Franz Urban Pappi are the name givers for the RAM Awards in Political Science and Sociology!
 ---
 
+**Hans Albert** is the name giver of the RAM Award in Sociology, **Franz Urban Pappi** is the name giver for the RAM Award in Political Science. We are proud to name our RAM Awards after them as both researchers had a significant impact on their academic disciplines and the development at the University of Mannheim. With this, they are excellent representatives to honor the intellectual curiosity and eagerness of our students.
 
-**Hans Albert** wird Namensträger des RAM-Preises für Soziologie und **Franz Urban Pappi** sind Namensträger des RAM-Preises für Politikwissenschaft. Beide haben die wissenschaftliche Ausrichtung der Universität Mannheim und der jeweiligen Wissenschaftsdisziplinen selbst maßgeblich beeinflusst und stehen stellvertretend für die Forschungsausrichtung und Ergebnisse, die von unseren Studierenden erbracht wurden und noch erbringen werden.
+[Hans Albert](https://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2021/februar/hans-albert-wird-100/) was Chair of Sociology and Theory of Science (1963-1989) and is a central figure of critical rationalism – a scientific thinking that shapes Mannheim’s unique profile until today.
 
-[Hans Albert](https://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2021/februar/hans-albert-wird-100/) hatte von 1963 bis 1989 den Lehrstuhl für Soziologie und Wissenschaftslehre inne und gilt als Vordenker des Kritischen Rationalismus — einer wissenschaftlichen Denkweise, die Mannheim bis heute prägt.
+[Franz Urban Pappi](ttps://www.mzes.uni-mannheim.de/d7/de/profiles/franz-pappi) was Chair of Political Science I (1990-2007), and his research has a significant impact on empirical electoral research – a corner pillar in Mannheim’s Political Science portfolio.
 
-[Franz Urban Pappi](ttps://www.mzes.uni-mannheim.de/d7/de/profiles/franz-pappi) hatte von 1990 bis 2007 den Lehrstuhl für Politische Wissenschaft I inne und prägte mit seiner Forschung die empirischen Wahlforschung.
+We would like to thank all those who supported us in finding the best name givers for both disciplines! We would not have been able to select these names without you.
 
-Ein besonderer Dank geht an alle Unterstützer:innen, die uns geholfen haben, ehrwürdige Namensgeber:innen beider Disziplinen zu finden! Ohne diese Unterstützung wäre das Auswahlverfahren nicht möglich gewesen.
+We are excited to announce the calls for applications for the Hans-Albert-Prize in Sociology and the Franz-Urban-Pappi-Prize in Political Science for the first time this year!
 
-Wir freuen uns, dass bereits dieses Jahr der Hans-Albert-Preis für Soziologie und der Franz-Urban-Pappi-Preis für Politikwissenschaften zum ersten Mal ausgeschrieben und verliehen werden.
-
-Weitere Informationen zur Ausschreibung werden in Kürze bekanntgegeben.
+We will release more information on the CfA soon.
 
 ![](/images/blog/awards2021.png)
