@@ -46,6 +46,8 @@ Nicht verwendete Mittel sind innerhalb von 3 Wochen nach der geplanten Maßnahme
 
 Bei Verstoß gegen die Förderrichtlinien behält sich der Verein vor, den Zuschuss zurückzufordern.
 
+### Berwerbungsrichtlinie
+
 Bitte schicke den Antrag per Mail in **einem** PDF-Dokument an vorstand(at)ram-ev(dot)de. Anträge sind auf Deutsch oder Englisch möglich.
 
 Folgendes ist dem Antrag beizufügen:
