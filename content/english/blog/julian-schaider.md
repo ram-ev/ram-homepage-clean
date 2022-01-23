@@ -2,9 +2,9 @@
 date: "2021-09-14"
 description: 
 image: images/blog/research.png
-title: RAM unterstützt die Forschung von Julian Schaider
+title: RAM supports research of Julian Schaider
 ---
 
-Wir freuen uns sehr, Julian Schaider bei seiner Teilnahme an der IMDRC 2021 finanziell unterstützen zu können, bei der er seine Forschung zu ADHS und Dyspraxie bei Kindern und Jugendlichen vorstellt. Wir wünschen Julian bei seiner Forschung viel Erfolg!
+We are very pleased to financially support Julian Schaider's participation at IMDRC 2021, where he will present his research on ADHD and dyspraxia in children and adolescents. We wish Julian much success in his research!
 
 ![](/images/portfolio/home-schooling.png)

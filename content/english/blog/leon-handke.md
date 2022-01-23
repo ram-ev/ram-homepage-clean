@@ -2,21 +2,21 @@
 date: "2021-09-24"
 description: 
 image: images/blog/research.png
-title: RAM unterstützt die Forschung von Leon Handke
+title: RAM supports research of Leon Handke
 ---
 
-Unterstützt die Studie von Leon zum Kaufverhalten in Online-Shop!<br>Die Rationalen Altruisten unterstützt die innovative Studie schon finanziell und freut sich nun über euren kurzen Einkauf in Leons virtuellem Supermarkt! 🛒 
+oin us and support Leon's research on online shopping behavior! The Rationale Altruisten are already financially supporting the innovative study and we are now looking forward to your short shopping trip to Leon's virtual supermarket! 🛒
 
-**Alles in Kürze:**
+**In a nutshell**
 
-Du bist von den vielen Labels wie dem Nutri-Score oder Bio-Labels auf Produkten auch überfordert?
+You're also overwhelmed by all the labels like the nutri-score or organic labels on products? 
 
-In Leons Studie versucht er zu verstehen, wie Informationen zur Nachhaltigkeit von Produkten in Zukunft präsentiert werden können.
+In Leon's study, he tries to understand how information about the sustainability of products can be presented in the future!
 
-**Dauer**: ca. 15 Minuten
+**Duration**: ca. 15 minutes
 
-**Wie?** Einfach den [Link eingeben](https://www.soscisurvey.de/produktlabels/) und los geht's! 
+**How?**  Just click the [link](https://www.soscisurvey.de/produktlabels/)! 
 
-**Und das Beste:** Du hast dabei die Möglichkeit, Deinen selbst ausgesuchten Produktkorb aus einem **Online-Supermarkt im Wert von 40€ zu gewinnen**, und Dir damit den Wocheneinkauf zu sparen 🥳
+**And the best part:** You have the chance to **win your self-selected product basket from an online supermarket worth 40€**, and save yourself a weekly shopping 🥳
 
 ![](/images/portfolio/supermarket.png)
