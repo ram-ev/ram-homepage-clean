@@ -8,13 +8,13 @@ title: 'Rationale Altruisten Travel Grant'
 
 Seit 2014 schreiben wir jährlich den **Rationale Altruisten Travel (RAT) Grant** aus, der für Nachwuchswissenschaftlern der Fakultät für Sozialwissenschaften die finanzielle Belastung durch Teilnahme an Konferenzen und Fachtagungen abfedern soll. 
 
-**Aufgrund der aktuellen Situation schreiben wir in 2021 keine RAT-Grants aus. Für alternative Konferenzförderung, verweisen wir auf unsere reguläre Förderung.**
+> **Aufgrund der aktuellen Situation schreiben wir in 2021 keine RAT-Grants aus. Für alternative Konferenzförderung, verweisen wir auf unsere reguläre Förderung.**
 
 Mehr Informationen Informationen zur Bewerbung um einen RAT-Grant findet ihr in der jeweiligen Ausschreibung.
 
 Bisherige Preisträger:
 
-| Jahr | Nachname    | Vorname          | Gutachter                | Preis     |
+| Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Nachname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Vorname          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Gutachter             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Preis    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|-------------|------------------|--------------------------|-----------|
 | 2014 | Buß         | Christopher      | Prof. Dr. Ebbinghaus     | RAT-Preis |
 | 2014 | Marbach     | Moritz           | Prof. Dr. König          | RAT-Preis |
