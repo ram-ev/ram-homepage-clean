@@ -1,24 +1,22 @@
 ---
 date: "2017-12-01T12:52:36+06:00"
 description: 
-title: 'Mitglied werden'
+title: 'How to become a member'
 ---
 ![](/images/about/ram_team_member.png)
 
 
-Mitglied werden können alle, die der Fakultät für Sozialwissenschaften angehören, angehört haben oder ihr anderweitig verbunden sind.
+To become a member of the Rational Altruists Mannheim e.V., simply provide the following two things:
 
-Hierfür ist Folgendes erforderlich:
+- **Fill in** the membership ([form](/files/Membership_Flyer_Februar_2021.pdf)) and send it to the board (for contact details please see [here](/de/about/contact))
+- Pay your first **membership fee** (for bank account details please see [here](/de/about/contact)) or allow automatic payments via SEPA
 
-- Den **ausgefüllten Antrag** ([Flyer](/files/Membership_Flyer_Februar_2021.pdf)) dem Vorstand zukommen zu lassen (Kontaktadresse [hier](/de/about/contact))
-- Einen ersten **Mitgliedsbeitrag** zu entrichten (Bankverbindung siehe [hier](/de/about/contact)) oder eine SEPA-Lastschriftenmandat zu erteilen.
+#### Membership fees
 
-#### Mitgliedsbeitrag
+We have **three different membership options**:
 
-Es gibt **drei Beitragshöhen**:
-
-- **Studierende**: 12€/Jahr
-- **Regulärer Beitrag**: 36€/Jahr
-- **Förderbeitrag**: 48€/Jahr
+- **Students**: 12€/year
+- **Regular members**: 36€/year
+- **Special members**: 48€/year
 
 
