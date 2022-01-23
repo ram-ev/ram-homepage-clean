@@ -6,7 +6,7 @@ title: 'Normalförderung'
 ---
 
 
-Bitte schicken Sie den Antrag per Mail in **einem** PDF-Dokument an vorstand(at)ram-ev(dot)de. Anträge sind auf Deutsch oder Englisch möglich.
+Bitte schicke den Antrag per Mail in **einem** PDF-Dokument an vorstand(at)ram-ev(dot)de. Anträge sind auf Deutsch oder Englisch möglich.
 
 Folgendes ist dem Antrag beizufügen:
 
@@ -17,16 +17,16 @@ Name, tabellarischer Lebenslauf (entfällt für Organisationen), Kontaktadresse 
 Kurzbeschreibung des Vorhabens.
 
 ##### 3. Voraussichtliche Kosten des Antrages
-Listen Sie alle anfallenden Kosten auf.
+Liste alle anfallenden Kosten auf.
 
 ##### 4. Angaben über Ausnutzung alternativer Förderungsmöglichkeiten
-Haben oder werden Sie andere Förderungsmöglichkeiten nutzen?
+Hast du oder wirst du andere Förderungsmöglichkeiten nutzen?
 
 ##### 5. Darstellung des Vorhabens
-Stellen Sie das Vorhaben bitte so detailliert wie notwendig dar und machen Sie klar, wie Sie oder andere Nachwuchswissenschaftler der Fakultät von diesem Vorhaben profitieren können. Die Darstellung soll nicht mehr als eine Seite lang sein.
+Stelle das Vorhaben bitte so detailliert wie notwendig dar und mache klar, wie du oder andere Nachwuchswissenschaftler der Fakultät von diesem Vorhaben profitieren können. Die Darstellung soll nicht mehr als eine Seite lang sein.
 
 ##### 6. Nicht-wissenschaftliche Zusammenfassung des Vorhabens
-Schreiben sie eine ca. 100 Wörter lange Darstellung des Vorhabens, die interessierte Laien ohne Vorkenntnisse verstehen können.
+Schreibe eine ca. 100 Wörter lange Darstellung des Vorhabens, die interessierte Laien ohne Vorkenntnisse verstehen können.
 
 ##### 7. Verpflichtungserklärung und Unterschrift
 Dem Antrag ist folgende eigenständig unterschriebene Erklärung beizufügen:
@@ -38,4 +38,4 @@ Datum, Unterschrift"
 ##### 8. Hinweise gemäß Datenschutz-Grundverordnung (DSGVO)
 Dem Antrag ist darüber hinaus der Hinweis gemäß der [DSGVO zur Kenntnis](/files/dsgvo.pdf) zur nehmen und eigenständig unterschrieben anzuhängen.
 
-Bei Fragen kontaktieren Sie uns bitte unter vorstand(at)ram-ev(dot)de.
+Bei Fragen kontaktiere uns einfach unter vorstand(at)ram-ev(dot)de.
