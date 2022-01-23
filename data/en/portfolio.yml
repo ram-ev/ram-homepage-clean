@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Funded research projects
+  title : Funded Research Projects
   portfolio_item :
     # portfolio item loop
     - name : 'Conference participation EPSA 2020'

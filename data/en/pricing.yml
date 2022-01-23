@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : What we support
+  title : What We Support
   pricing_table :
     # pricing table loop
     - name : Awards for final theses

@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Der Vorstand
+  title : The Board of RAM e.V.
   team_member :
     # team member loop
     - name : Cosima Meyer
