@@ -2,12 +2,11 @@
 date: "2017-03-20"
 description: 
 image: images/blog/research.png
-title: Förderung eines Sprachkurses als Vorbereitung für Feldforschung
+title: RAM supports funding for a language course as preparation for field research
 ---
 
-Wir freuen uns [Anna-Lena Hönigs](http://www.sowi.uni-mannheim.de/lspol4/?page_id=2517) Teilnahme an einem Intensivsprachkurs in Russisch am Landesspracheninstitut in der Ruhr-Universität Bochum finanziell unterstützen zu können.
-Anna-Lena Hönig ist Doktorandin der Politikwissenschaft an der CDSS/GESS der Universität Mannheim und promoviert zum Zusammenhang von Kooperation und Widerstandsintensität.
-Für ihre Feldforschung in Kasachstan wird sie vorbereitend den fortgeschrittenen Intensivsprachkurs besuchen.
+We are pleased to financially support [Anna-Lena Hönig's](http://www.sowi.uni-mannheim.de/lspol4/?page_id=2517) participation in an intensive Russian language course at the State Language Institute at the Ruhr University in Bochum.
+Anna-Lena Hönig is a doctoral candidate in political science at the CDSS/GESS of the University of Mannheim and is doing her doctoral thesis on the relationship between cooperation and resistance intensity.
+In preparation for her field research in Kazakhstan, she will attend the advanced intensive language course.
 
-Wir wünschen bei dem Sprachkurs und dem Promotionsprojekt viel Erfolg!
-
+We wish her good luck with the language course and the PhD project!
