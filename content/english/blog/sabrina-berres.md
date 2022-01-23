@@ -1,7 +1,7 @@
 ---
 date: "2019-10-23"
 description: 
-image: static/images/portfolio/online_study.png
+image: images/portfolio/online_study.png
 title: RAM supports data collection for PhD project
 ---
 

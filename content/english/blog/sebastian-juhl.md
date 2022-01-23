@@ -1,7 +1,7 @@
 ---
 date: "2018-05-14"
 description: RAT unterstützt Konferenzteilnahme bei der EPSA 2018 in Wien
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 # image_webp: images/blog/blog-post-2.webp
 title: RAT supports conference participation at EPSA 2018 in Vienna
 ---

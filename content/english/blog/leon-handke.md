@@ -1,7 +1,7 @@
 ---
 date: "2021-09-24"
 description: 
-image: static/images/portfolio/note.png
+image: images/portfolio/note.png
 title: RAM supports research of Leon Handke
 ---
 
