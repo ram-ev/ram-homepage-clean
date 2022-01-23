@@ -110,7 +110,7 @@ portfolio:
 
 
     - name : 'Conference participation at the 3. Conference of DGPPF'
-      image : images/portfolio/survey.png
+      image : images/portfolio/online_study.png
       categories : ["conference", "Psychology"] #, "Master"]
       content : "[RAM supports Belinda Merkle's participation in the 3rd conference of the DGPPF in Bochum, Germany.](blog/belinda-merkle/)"
       link : "#"
