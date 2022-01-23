@@ -1,76 +1,157 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Funded research projects
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Conference participation EPSA 2020'
+      image : images/portfolio/conference-felix.jpg
+      categories : ["conference", "Political Science"] #, "PhD"]
+      content : "[Felix Olswoski presents his paper *The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?* at EPSA 2020. The visualization illustrates first results from his research -- the appointment of new judges (orange) since Dutertes' presidency.](blog/felix-rat/)"
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Funding of a Master thesis'
+      image : images/portfolio/clara-masterarbeit.jpg
+      categories : ["Master thesis", "Psychology"] #, "Master"]
+      content : "[We are very happy to support Clara's Master thesis on the topic *Attributional Ambiguity: Benevolent Sexism in the Context of Self-Doubt and Performance*!](blog/clara-theil/)"
+      link : ""
+      
+    # portfolio item loop
+    - name : 'Research project on purchasing behavior in online stores'
+      image : images/portfolio/supermarket.png
+      categories : ["Master thesis", "Psychology"] #, "Master"]
+      content : "[RAM supports Leon Handke's innovative study financially and is now looking forward to your short shopping in Leon's virtual supermarket!](blog/leon-handke/)"
+      link : ""
+      
+    # portfolio item loop
+    - name : 'Konferenzteilnahme IMDRC 2021'
+      image : images/portfolio/home-schooling.png
+      categories : ["Konferenz", "Psychology"] #, "Bachelor"]
+      content : '[Wir unterstützen Julian Schaider bei seiner Teilnahme an der IMDRC 2021. Er stellt dort seine Forschung zu ADHS und Dyspraxie bei Kindern und Jugendlichen vor.](blog/julian-schaider/)'
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Kursteilnahme an der University of Oxford'
+      image : images/portfolio/coding.png
+      categories : ["Kursteilnahme", "Soziologie"] #, "PhD"]
+      content : '[RAM unterstützt Anna Sokolova bei ihrer Teilnahme an einem Kurs zum Experimental Programming der Oxford Universität.](blog/anna-sokolova/)'
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Forschungsprojekt in Psychology'
+      image : images/portfolio/psych-group-funding.jpeg
+      categories : ["Forschungsprojekt", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Alicia Gernand, Franziska Leipold und Roberto Scatorchia bei ihrem Forschungsprojekt "The influence of cognitive load on the truth effect".](blog/pyschology-master-thesis)'
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Forschungsprojekt in Psychology'
+      image : images/portfolio/ram-berres.jpg
+      categories : ["Forschungsprojekt", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Sabrina Berres bei der Datenbeschaffung für ihre Doktorarbeit in Psychology.](blog/sabrina-berres/)'
+      link : "#"
+
+    # portfolio item loop
+    - name : 'Forschungsprojekt in Psychology'
+      image : images/portfolio/ram-sophia.png
+      categories : ["Bachelorarbeit", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Sophia Peter bei der Datenbeschaffung für ihre Bachelorarbeit in Psychology.](blog/sophia-peter/)'
       link : "#"
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Konferenzteilnahme an der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Soziologie"] #, "Master"]
+      content : '[RAM unterstützt Florian Andersen und Pavel Dimitrov Chachev bei ihrer Teilnahme bei der zweijährlichen Konferenz der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V.](blog/soziologie-konferenz/)'
       link : "#"
       
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Datenbeschaffung zu Forschungsprojekt zu Ungleichheit in Indien'
+      image : images/portfolio/emmy_photo2.png
+      categories : ["Forschungsprojekt", "Politikwissenschaft"] #, "Master"]
+      content : '[RAM unterstützt Emmy Lindstam bei der Datenbeschaffung für ihr Forschungsprojekt “Exclusion, Social Identity Choice and Preferences for Resistance: Evidence from India".](blog/emmy-lindstam/)'
+      link : "#"
+
+    - name : 'Konferenzteilnahme an ESRA 2019'
+      image : images/portfolio/lightbulb.png
+      categories : ["Konferenz", "Soziologie"] #, "Master"]
+      content : '[RAM unterstützt Tobias Rettigs Teilnahme an der ESRA 2019 mit dem RAT Grant.](blog/rat-tobias/)'
       link : "#"
       
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : 'Konferenzteilnahme an EMHFC 2019'
+      image : images/portfolio/female_researcher.png
+      categories : ["Konferenz", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Laura-Ashley Fraunfelters Teilnahme an der EMHFC mit dem RAT Grant.](blog/laura-ashley/)'
       link : "#"
+      
+    - name : 'Konferenzteilnahme an EPSA 2019'
+      image : images/portfolio/female_researcher.png
+      categories : ["Konferenz", "Politikwisschenschaft"] #, "Master"]
+      content : '[RAM unterstützt Verena Kunz Teilnahme an der EPSA 2019 mit dem RAT Grant.](blog/verena-kunz/)'
+      link : "#"
+
+    - name : 'WUMAN'
+      image : images/portfolio/wuman.jpg
+      categories : ["Netzwerk"] #, "Master"]
+      content : '[RAM unterstützt WUMAN bei der Kick-off-Veranstaltung.](blog/wuman/)'
+      link : "#"
+
+    - name : 'Konferenzteilnahme Psychonomic Annual Society Meeting'
+      image : images/portfolio/female_researcher.png
+      categories : ["Konferenz", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Liliane Wulffs Teilnahme am Psychonomic Annual Society Meeting in New Orleans.](blog/liliane-wulff/)'
+      link : "#"
+
+    - name : 'Konferenzteilnahme EPSA 2018'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Politikwissenschaft"] #, "Master"]
+      content : '[RAM unterstützt Sebastian Juhls Konferenzteilnahme an der EPSA 2018 in Wien.](blog/sebastian-juhl/)'
+      link : "#"
+
+
+    - name : 'Konferenzteilnahme an der 3. Konferenz der DGPPF'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Psychology"] #, "Master"]
+      content : '[RAM unterstützt Belinda Merkles Konferenzteilnahme an der 3. Konferenz der DGPPF in Bochum.](blog/belinda-merkle/)'
+      link : "#"
+      
+    - name : 'Förderung eines Sprachkurses als Vorbereitung für Feldforschung'
+      image : images/portfolio/book.png
+      categories : ["Kursteilnahme"]
+      content : '[RAM unterstützt Anna-Lena Hönig bei einem Sprachkurs als Förderung für ihre Feldforschung.](blog/anna-lena/)'
+      link : "#"
+      
+    - name : 'Förderung der Teilnahme an der Frühjahrstagung "Familie und Migration"'
+      image : images/portfolio/book.png
+      categories : ["Konferenz", "Soziologie"]
+      content : '[RAM unterstützt David Kretschmers Konferenzteilnahme an "Familie und Migration".](blog/david-kretschmer/)'
+      link : "#"
+      
+    - name : 'Förderung von Kursteilnahme'
+      image : images/portfolio/book.png
+      categories : ["Kursteilnahme", "Soziologie"]
+      content : '[RAM unterstützt Julia Ingenfelds die Teilnahme an einem GESIS Workshop.](blog/julia-ingenfeld/)'
+      link : "#"
+    # # portfolio item loop
+    # - name : Business Card
+    #   image : images/portfolio/portfolio-7.jpg
+    #   image_webp : images/portfolio/portfolio-7.webp
+    #   categories : ["development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+    #   
+    # # portfolio item loop
+    # - name : Stationary Design
+    #   image : images/portfolio/portfolio-8.jpg
+    #   image_webp : images/portfolio/portfolio-8.webp
+    #   categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+    #   
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-2.jpg
+    #   image_webp : images/portfolio/portfolio-2.webp
+    #   categories : ["design", "photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"

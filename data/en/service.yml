@@ -1,14 +1,16 @@
 ################################# Service #################################
 service:
-  enable : true
-  title : Our Services
+  enable : false
+  title : Was wir fördern
+  # subtitle: Hier findet ihr eine Übersicht an möglichen Fördermöglichkeiten durch die Rationalen Altruisten Mannheim e.V.
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Abschlussarbeiten
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      link: 'https://www.w3schools.com/css/css_link.asp'
       
-    # service item loop
+      # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
