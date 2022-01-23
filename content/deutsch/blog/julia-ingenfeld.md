@@ -1,7 +1,7 @@
 ---
 date: "2015-04-16"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/workshop.png
 title: Förderung einer Workshopteilnahme!
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2020-03-10"
 description: RAT unterstützt Konferenzteilnahme bei der EPSA 2020 in Prag
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 # image_webp: images/blog/blog-post-2.webp
 title: RAT unterstützt Konferenzteilnahme bei der EPSA 2020 in Prag
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2021-05-14"
 description: 
-image: images/blog/award.png
+image: static/images/portfolio/award.png
 title: Hans Albert and Franz Urban Pappi are the name givers for the RAM Awards in Political Science and Sociology!
 ---
 

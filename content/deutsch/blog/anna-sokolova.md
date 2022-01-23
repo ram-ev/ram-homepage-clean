@@ -1,6 +1,6 @@
 ---
 date: "2021-08-12"
-image: images/blog/research.png
+image: static/images/portfolio/presentation.png
 title: RAM unterstützt Fortbildung von Anna Sokolova
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2019-04-07"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 title: Funding of conference participation at EPSA 2019
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: "2018-04-30"
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 title: RAM supports funding of DGPPF conference participation by Belinda Merkle
 ---
 

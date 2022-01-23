@@ -1,7 +1,7 @@
 ---
 date: "2017-03-20"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/note.png
 title: RAM supports funding for a language course as preparation for field research
 ---
 

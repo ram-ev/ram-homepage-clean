@@ -1,7 +1,7 @@
 ---
 date: "2019-10-23"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/note.png
 title: RAM supports data collection for Bachelor thesis
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2019-06-17"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 title: RAT supports conference participation at ESRA 2019 in Zagreb
 ---
 

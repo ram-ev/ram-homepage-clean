@@ -1,7 +1,7 @@
 ---
 date: "2021-05-14"
 description: 
-image: images/blog/award.png
+image: static/images/portfolio/award.png
 title: 'Hans Albert und Franz Urban Pappi sind Namensgeber für die RAM-Preise in Politikwissenschaft und Soziologie!'
 ---
 

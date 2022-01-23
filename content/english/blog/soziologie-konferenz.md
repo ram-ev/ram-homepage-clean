@@ -1,7 +1,7 @@
 ---
 date: "2019-09-05"
 description: 
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 title: RAM supports conference participation
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: "2018-10-18"
-image: images/blog/research.png
+image: static/images/portfolio/conference.png
 title: RAT unterstützt Konferenzteilnahme bei der 59. Psychonomic Annual Society Meeting in New Orleans
 ---
 
