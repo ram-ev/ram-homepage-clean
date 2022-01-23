@@ -5,7 +5,7 @@ service:
   # subtitle: Hier findet ihr eine Übersicht an möglichen Fördermöglichkeiten durch die Rationalen Altruisten Mannheim e.V.
   service_item :
     # service item loop
-    - name : Abschlussarbeiten
+    - name : Final theses
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       link: 'https://www.w3schools.com/css/css_link.asp'
