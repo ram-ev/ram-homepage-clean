@@ -6,9 +6,25 @@ title: 'Awards'
 ---
 
 
-Since 2010, we award the RAM award for one excellent **MA thesis in Sociology and in Political Science**, each worth € 150. As of 2018, we are happy to also honor the **best BA thesis in Sociology and Political Science** with € 100 each. For more information on how to apply for the **Hans-Albert-Prize** in Sociology and the **Franz-Urban-Pappi-Prize** in Political Science, please see [here](/files/RAM_Call_2021_Bachelor.pdf) and [here](/files/RAM_Call_2021_Master.pdf).
+Since 2010, we award the RAM award for one excellent **MA thesis in Sociology and in Political Science**, each worth € 150. As of 2018, we are happy to also honor the **best BA thesis in Sociology and Political Science** with € 100 each. For more information on how to apply for the **Hans-Albert-Prize** in Sociology and the **Franz-Urban-Pappi-Prize** in Political Science, please see [here](/files/RAM_Call_2021_Bachelor.pdf) and [here](/files/RAM_Call_2021_Master.pdf). Besides, we also honor the best theses in Psychology with the [**Otto-Selz-Prize**](/files/Ausschreibung_OttoSelzPrizee-2021.pdf). The prize carries a value of € 150 for master’s theses and € 100 for bachelor’s theses.
 
-Besides, we also honor the best theses in Psychology with the [**Otto-Selz-Prize**](/files/Ausschreibung_OttoSelzPrizee-2021.pdf). The prize carries a value of € 150 for master’s theses and € 100 for bachelor’s theses.
+<br /> &nbsp;
+
+## Submit your final thesis (BA and MA thesis)
+
+The following documents are required for submission as **one PDF** file:
+
+1. [Complete form](/files/RAM_form_submission.pdf)
+2. Anonymized thesis
+3. Expert opinion of the supervisor (if available) 
+
+And then submit it via the link below -- we wish you the best of luck!
+
+<br /> &nbsp;
+
+&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {{% button href="https://ram-ev.de/nextcloud/index.php/s/FBGDpdFPLGnoDaM" %}}Submit here{{% /button %}}
+
+<br /> &nbsp;
 
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Surname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Supervisor                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Award          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |

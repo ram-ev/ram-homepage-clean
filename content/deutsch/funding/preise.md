@@ -6,8 +6,29 @@ title: 'Preise'
 ---
 
 Seit 2010 stiftet RAM e.V. einen **Preis für die besten Masterarbeiten in Soziologie und Politikwissenschaften** zu je 150 €. Ab 2018 werden auch Preise für die besten Bachelorarbeiten in den Fächern **Soziologie und Politikwissenschaft** mit jeweils 100 € vergeben. Hier gibt es mehr Informationen für den Vorschlag von Abschlussarbeiten für den **Hans-Albert-Preis** und den **Franz-Urban-Pappi-Preis** für [Bachelor-](/files/RAM_Call_2021_Bachelor.pdf) und [Masterarbeiten](/files/RAM_Call_2021_Master.pdf).
-
 Außerdem verleihen wir den [**Otto-Selz-Preis**](/files/Ausschreibung_OttoSelzPreise-2021.pdf) für die besten Abschlussarbeiten in **Psychologie**. Der Preis ist mit 150 € für Masterarbeiten und 100 € für Bachelorarbeiten dotiert.
+
+<br /> &nbsp;
+
+## Abschlussarbeit einreichen
+
+Für die Einreichung werden folgende Unterlagen als **eine PDF**-Datei benötigt:
+
+1. [Ausgefülltes Formular](/files/RAM_form_submission.pdf)
+2. Anonymisierte Abschlussarbeit
+3. Gutachten des Betreuenden (sofern vorhanden) 
+
+Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
+
+<br /> &nbsp;
+
+&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {{% button href="https://ram-ev.de/nextcloud/index.php/s/FBGDpdFPLGnoDaM" %}}Einreichung RAM-Preis{{% /button %}}
+
+<br /> &nbsp;
+
+### Übersicht Preisträger:innen
+
+Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahren:
 
 | Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Nachname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vorname   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Gutachter                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Preis          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|
