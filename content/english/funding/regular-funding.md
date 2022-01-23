@@ -2,80 +2,73 @@
 date: "2017-12-01T12:52:36+06:00"
 description: 
 image: images/backgrounds/books_dark.jpeg
-title: 'Normalförderung'
+title: 'Regular Funding'
 ---
 
-Die **Rationalen Altruisten Mannheim e.V.** fördern den Nachwuchs der Fakultät der Sozialwissenschaften der Universität Mannheim durch die Vergabe von Zuschüssen.
+The **Rationale Altruisten Mannheim e.V.** support young scholars of the School of Social Sciences at the University of Mannheim by providing financial aid.
 
-### Ziele
-Die Rationalen Altruisten Mannheim e.V. fördern den wissenschaftlichen Nachwuchs der Fakultät für Sozialwissenschaften der Universität Mannheim. Dies wird vor allem durch finanzielle Unterstützung förderungswürdiger Projekte realisiert. Sowohl die Förderung einzelner Personen als auch einer Gruppe sind möglich. Die Förderung schließt explizit ein:
+### Goals
+The Rationale Altruisten Mannheim e.V. support young scholars of the School of Social Sciences at the University of Mannheim. We primarily do so by providing financial aid for eligible projects. Both fundings of individual persons and groups are possible. The funding explicitly includes:
 
-- Abschlussarbeiten
-- Fortbildungsveranstaltungen
-- Orientierungsveranstaltungen
-- 2021: Wir fördern auch (virtuelle) Konferenzteilnahmen
+- Theses/dissertations
+- Participation in further education courses
+- Participation at events for orientation events
+- In 2021: We also support (virtual) conference participation.
 
-Andere Maßnahmen können ebenfalls unterstützt werden, einzige formale Bedingung ist die Förderung des wissenschaftlichen Nachwuchses der sozialwissenschaftlichen Fakultät der Universität Mannheim.
+Support for other activities is possible, provided that it meets the formal requirement that funding is reserved for young scholars of the School of Social Sciences at the University of Mannheim.
 
-### Fördersumme
-Da sich die Rationalen Altruisten Mannheim e.V. ausschließlich durch Mitgliedsbeiträge und Spenden finanzieren, sind unsere Mittel begrenzt. Üblicherweise können wir die Fördersummen bis zu 150 € bewilligen. Nur in Ausnahmefällen können Projekte mit größeren Summen gefördert werden.
+### Amount of the grant
+Our financial means are limited as we rely exclusively on membership fees and donations. As a result, our grants usually amount up to € 150. Only in exceptional cases, funding of a larger sum is possible.
 
-Der Verein kann somit Förderungen zum Beispiel durch DFG, DAAD, die Universität Mannheim oder ähnliches nicht ersetzen und strebt dies auch nicht an.
+The Rationale Altruisten, therefore, cannot and do not aim to replace funding by the DFG, DAAD, or the University of Mannheim.
 
-Bei wissenschaftlichen Angestellten gehen wir in der Regel davon aus, dass der Arbeitgeber die Nachwuchsförderung übernimmt.
+We assume that (regular) research assistants are usually funded by the employer.
 
-### Antrag
-Beantragen kann die Förderung jede natürliche oder juristische Person, die entweder selbst zum wissenschaftlichen Nachwuchs der Fakultät gehört oder diesen mit einer Maßnahme direkt fördern möchte. Anträge werden elektronisch gemäß des Leitfadens beim Vorstand eingereicht. Anträge sind **vor** Beginn einer Maßnahme zu stellen. Der Vorstand behält sich vor, die Anträge vereinsintern zu veröffentlichen und/oder in (anonymisierter) Form beispielsweise auf der Vereinshomepage zu veröffentlichen.
+### Application
+Any individual or legal entity who is a young scholar of the School of Social Sciences or wants to support these young scholars with their application is eligible for application. Applications have to be submitted electronically **before** the event and according to our guidelines. The board reserves the right to publish applications within the association and/or to upload applications (anonymously), for example on the homepage.
 
-### Vergabeverfahren
-Über eingehende Anträge wird zeitnah vom Vorstand entschieden. Die Entscheidung ist endgültig. Der Vorstand kann sich externe Gutachten einholen und die Entscheidung an eine Kommission delegieren. Ist ein Vorstandsmitglied Antragsteller hat er bei der Entscheidung keine Stimme. Es können auch Teile der Antragssumme bewilligt werden und die Bewilligung kann an Auflagen geknüpft sein. Jeder Antragsteller erhält nach Entscheidung einen Bescheid über die Entscheidung per E-Mail. Dieser ist Grundlage der Förderung.
+### Award procedure
+The board decides in good time whether funding is granted or not. The decision is final. The board may also invite external experts or delegate the decision to a commission. If a board member poses an application, s/he has no voting right in the decision. It is also possible to fund applications only partially and/or to grant funding only under certain conditions. Every applicant receives feedback after her/his application via e-mail. This e-mail is the basis for the funding.
 
-### Verwendungsnachweise, Auszahlung, Rückzahlung
-Zuschüsse dürfen nur für die im Antrag aufgeführten Zwecke verwendet werden. Es werden nur tatsächliche Ausgaben erstattet.
+### Report on the expenditure of funds, disbursement, reimbursement
+Grants must be used for the assigned purpose only. We only disburse the actual expenses and pay 70% of the funding sum before the event. The awardee is asked to contact the treasurer immediately after the event in order to facilitate the disbursement. The disbursement consists of:
 
-Vor der Maßnahme wird ein Abschlag in Höhe von 70 Prozent der Fördersumme ausgezahlt.
+Report on the expenditure of funds (electronically)
+If a scientific paper was funded: An electronic version of the paper
+Paper-based receipts (original and electronically)
+An informal agreement that the abstract of the final work may be published as part of our PR, e.g. on the website of the Rationale Altruisten e.V. and (if applicable) in the newsletter of the Rationale Altruisten e.V.
+Unused financial funding has to be reimbursed to RAM e.V. within three weeks after the event.
 
-Unmittelbar nach der Maßnahme ist der Zuschuss mit dem Kassenwart des Vereins abzurechnen. Eine Abrechnung besteht aus:
+RAM e.V. reserves the right to call in the funding in case of violation against the funding rules.
 
-- Übersicht über die Ausgaben (in elektronischer Form)
-- Papierhafte Rechnungen im Original und in elektronischer Form
-- Sofern eine wissenschaftliche Arbeit gefördert wurde: Ein Exemplar der Arbeit in elektronischer Form
-- Formlose Zustimmung, dass der Abstract der geförderten Arbeit im Rahmen von Public Relations z.B. auf der Homepage und gegebenenfalls im Newsletter der Rationalen Altruisten e.V. veröffentlicht werden darf.
+Please, submit the following documents (in English or German) via e-mail as **one** single PDF document to vorstand(at)ram-ev(dot)de:
 
-Nicht verwendete Mittel sind innerhalb von 3 Wochen nach der geplanten Maßnahme an den Verein zurückzuzahlen.
+##### 1. General information
+Name, CV (not required for organizations), contact details and bank account details (IBAN, BIC)
 
-Bei Verstoß gegen die Förderrichtlinien behält sich der Verein vor, den Zuschuss zurückzufordern.
+##### 2. What are you applying for?
+Brief description of your project.
 
-Bitte schicke den Antrag per Mail in **einem** PDF-Dokument an vorstand(at)ram-ev(dot)de. Anträge sind auf Deutsch oder Englisch möglich.
+##### 3. Cost calculation (estimated)
+List of all (estimated) costs which should be covered.
 
-Folgendes ist dem Antrag beizufügen:
+##### 4. Statement about alternative funding possibilities
+Did you or are you planning to apply for alternative funding possibilities?
 
-##### 1. Allgemeine Angaben
-Name, tabellarischer Lebenslauf (entfällt für Organisationen), Kontaktadresse und eine Kontoverbindung (IBAN und BIC).
+##### 5. Presentation of your project
+Please provide a description (as detailed as necessary) of your project and emphasize how you or other young scholars of the School of Social Sciences may benefit from your project. Please do not exceed one page.
 
-##### 2. Was wird beantragt?
-Kurzbeschreibung des Vorhabens.
+##### 6. Non-scientific summary of your project
+Please provide a non-scientific description of your project which is easily accessible for non-experts (max. 100 words).
 
-##### 3. Voraussichtliche Kosten des Antrages
-Liste alle anfallenden Kosten auf.
-
-##### 4. Angaben über Ausnutzung alternativer Förderungsmöglichkeiten
-Hast du oder wirst du andere Förderungsmöglichkeiten nutzen?
-
-##### 5. Darstellung des Vorhabens
-Stelle das Vorhaben bitte so detailliert wie notwendig dar und mache klar, wie du oder andere Nachwuchswissenschaftler der Fakultät von diesem Vorhaben profitieren können. Die Darstellung soll nicht mehr als eine Seite lang sein.
-
-##### 6. Nicht-wissenschaftliche Zusammenfassung des Vorhabens
-Schreibe eine ca. 100 Wörter lange Darstellung des Vorhabens, die interessierte Laien ohne Vorkenntnisse verstehen können.
-
-##### 7. Verpflichtungserklärung und Unterschrift
-Dem Antrag ist folgende eigenständig unterschriebene Erklärung beizufügen:
+##### 7. Commitment and signature
+Please add the following signed commitment to your application (in German):
 
 "Ich verpflichte mich, die im Rahmen dieses Antrags gegebenen Zusagen einzuhalten und akzeptiere mögliche Rückforderungen finanzieller Mittel, die sich aus etwaigen Verletzungen der Antragsrichtlinien ergeben können.
 
-Datum, Unterschrift"
+Date, Signature""
 
 ##### 8. Hinweise gemäß Datenschutz-Grundverordnung (DSGVO)
-Dem Antrag ist darüber hinaus der Hinweis gemäß der [DSGVO zur Kenntnis](/files/dsgvo.pdf) zur nehmen und eigenständig unterschrieben anzuhängen.
+Please read the following [note according to GDPR](/files/dsgvo.pdf) and attach a signed copy to your application.
 
-Bei Fragen kontaktiere uns einfach unter vorstand(at)ram-ev(dot)de.
+If you have any further questions, please feel free to contact us via vorstand(at)ram-ev(dot)de.
