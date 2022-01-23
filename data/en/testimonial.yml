@@ -8,44 +8,50 @@ testimonial:
     - name : Clara Theil
       image : images/portfolio/clara-masterarbeit.jpg
       date : Dec 26, 2018
-      content : 'Die Förderung durch die Rationalen Altruisten Mannheim hat mir die Erhebungsphase meiner Masterarbeit enorm erleichtert und es mir überhaupt erst ermöglicht mein Rekrutierungsziel von über 200 Probandinnen zu erreichen. Diese Unterstützung hat maßgeblich dazu beigetragen, dass ich aussagekräftige Forschungsergebnisse erzielen konnte und die Qualität meiner Arbeit verbessert. Dafür bin ich den Rationalen Altruisten Mannheim ausgesprochen dankbar!'
+      content : "The support provided by the Rationale Altruisten Mannheim enormously facilitated the survey phase of my master's thesis and made it possible for me to reach my recruitment goal of over 200 female subjects in the first place. This support has significantly contributed to the fact that I was able to achieve meaningful research results and improved the quality of my thesis. For this, I am very grateful to the Rationale Altruisten Mannheim!"
       
+    # testimonial item loop
+    - name : Anna Sokolova
+      image : images/portfolio/coding.png
+      date : Dec 26, 2018
+      content : "I was delighted to have received support from Rationale Altruisten Mannheim e.V. to fund my participation in the summer school on experimental programming hosted by Oxford University. This school allowed me to gain skills necessary for my doctoral dissertation: how to design, program, and run a behavioral experiment in a Python package oTree. I hope to spread the knowledge about the use of behavioral experiments in social sciences so that other students can benefit as well from this generous initiative."
+
     # testimonial item loop
     - name : Julian Schaider
       image : images/portfolio/home-schooling.png
       date : Dec 26, 2018
-      content : 'Ich habe die Förderung der Rationalen Altruisten Mannheim 2021 erhalten um die psychologische Forschung im Bereich ADHS und Dyspraxie aus meiner Bachelorarbeit auf einer großen Fachkonferenz vorstellen zu können. Diese finanzielle wie ideelle Förderung hat mir auf jeden Fall sehr geholfen meinen weiteren akademischen Weg ins Auge zu fassen! Ich bin sehr dankbar für diese Unterstützung, denn gerade junge Wissenschaftlerinnen und Wissenschaftler zu fördern und zu einer Forschungskarriere zu ermutigen ist aktuell wichtiger denn je!'
+      content : "I received the Rational Altruists Mannheim 2021 grant to present the psychological research in the field of ADHD and dyspraxia from my bachelor thesis at a large academic conference. This financial as well as non-material support has definitely helped me a lot to consider my further academic path! I am very grateful for this support, because promoting young scientists and encouraging them to pursue a research career is more important than ever!"
       
     # testimonial item loop
     - name : Alicia Gernand, Franziska Leipold und Roberto Scatorchia
       image : images/portfolio/psych-group-funding.jpeg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Die Förderung durch die RAM erleichterte uns die Erhebung unserer Projekt-Studie erheblich. Dadurch waren wir in der Lage trotz begrenzter Zeit unsere eigene Forschungsfrage umzusetzen und somit wichtige Einblicke in Forschungsprozesse zu erhalten. Vielen Dank!'
+      content : 'Thanks to the funding by the RAM we were able to conduct a study that we otherwise would not have had the financial capacities for. This enabled us to follow our own research idea within limited time and thereby gain valuable insights into research processes. Awesome!'
       
     - name : Elisabeth Schmalz
       image : images/portfolio/elisabeth-schmalz.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Für meine Bachelorthesis erhielt ich die RAM-Auszeichnung 2020, die mein akademisches Erlebnis bereicherte und zu einer der größten Anerkennungen für mein persönliches und fachliches Wachstum als Studentin gehört. Bisher ist diese Auszeichnung für mich die wertvollste akademische Erfahrung - vielen Dank RAM e.V.!'
+      content : "The membership in RAM e.V. gives me the opportunity to benefit from inspiring research perspectives and international networks, and at the same time support students and researchers in their scientific work. My rewarded empirical analysis about women in the labor force market in 20 European countries shows that RAM e.V. considers the importance of gender research. For my thesis I received the RAM-Award 2020 which enriched my academic journey and became one of the greatest acknowledgements in my personal and professional growth as a student. Up to now, it has been the most capable and valuable academic experience for me – thanks to RAM e.V.!"
       
     - name : Dennis Hammerschmidt
       image : images/team/dennis.png
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Die Ziele von RAM — die Arbeit von aufstrebenden Wissenschaftlern zu würdigen und sie finanziell bei den teils hohen Kosten die mit einer wissenschaftlichen Karriere verbunden sind zu unterstützten — sind eine unverzichtbare und hoch angesehene Stütze für junge Wissenschaftler.'
+      content : "RAM’s mission to support emerging scholars by recognizing their work and by assisting them financially to cover the oftentimes demanding costs of starting an academic career is an inevitable and highly appreciated resource by young scholars!"
       
     - name : David Paul Wirtz
       image : images/portfolio/Wirtz_David.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Die Auszeichnung meiner Bachelorarbeit durch die Rationalen Altruisten Mannheim hat mich in meiner Arbeit bestätigt und weiter motiviert, wissenschaftliche Fragestellungen zu bearbeiten. Ich halte es für essentiell, dass junge WissenschaftlerInnen auch in Zukunft durch Vereine wie RAM unterstützt und ermutigt werden.'
+      content : "Receiving the RAM-award for best bachelor thesis has confirmed me in my work and further motivated me to proceed working on scientific questions. I think it is essential that young scientists continue to be supported and encouraged by associations like RAM."
 
     - name : Maximilian Haag
       image : images/blog/award.png
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Der RAM Preis für die beste Abschlussarbeit ist eine tolle Chance für Studenten Anerkennung für ihre Arbeit zu finden und hat mich ermutigt meinen Forschungsinteressen in einem akademischen Umfeld weiter nachzugehen.'
+      content : "The RAM prize for the best thesis is a great opportunity for students to receive recognition for their work and it encouraged me to further pursue my research interests within an academic setting."
 
 ######
 
@@ -53,92 +59,97 @@ testimonial:
       image : images/portfolio/Kadel_Philipp.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Die Auszeichnung meiner Masterarbeit durch die Rationalen Altruisten Mannheim e.V. war für mich gleichzeitig eine Anerkennung meiner bisherigen Leistung sowie eine Bestärkung, im Rahmen einer Promotion weiter wissenschaftlich tätig zu sein. Das Engagement der Rationalen Altruisten Mannheim e.V. und Ihres Vorstandes ist aus meiner Sicht ausgesprochen wertvoll und verdient jede Unterstützung.'
+      content : "For me, receiving the best thesis award by the Rational Altruists Mannheim e.V. was simultaneously a recognition of my previous achievements and an encouragement to further pursue an academic career through a PhD. In my opinion, the commitment of the Rationale Altruisten Mannheim e.V. is extremely valuable and deserves every support."
 
     - name : Florian Andersen & Pavel Dimitrov Chachev
       image : images/blog/research.png
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Die Förderung durch RAM hat es uns ermöglicht, an der Fachtagung der Deutschen Nachwuchsgesellschaft für Politik- und Sozialwissenschaften in Hannover teilzunehmen. Dort konnten wir uns mit Studierenden aus ganz Deutschland über grundlegende Streitpunkte innerhalb der Soziologie austauschen und einige neue Ideen mit nach Mannheim nehmen, sowie Teil eines wachsenden Netzwerks von NachwuchswissenschaftlerInnen werden. RAM hat uns mit der Förderung dadurch sowohl fachlich als auch persönlich sehr geholfen!'
+      content : "The funding by RAM allowed us to participate at the Conference of the Deutsche Nachwuchsgesellschaft für Politik- und Sozialwissenschaft e.V. in Hannover, Germany. This gave us the opportunity to discuss fundamental cleavages in sociology with students from all over Germany, to bring back new ideas to Mannheim, and to become part of a growing network of young scholars. The funding by RAM has thus helped us very much, both professionally and personally!"
 
     - name : Felix Olsowski
       image : images/portfolio/conference-felix.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Dank der RAM e.V. ist es mir möglich, meine Forschungsergebnisse auf einer Konferenz vor internationalem Publikum vorzustellen. Somit erhalte ich die Gelegenheit, wertvolles Feedback zu meiner Arbeit zu erhalten, welches die Qualität meiner Forschung sowie meiner Dissertation erhöhen wird.'
+      content : "RAM e.V. makes it possible to present my research results at an international conference. This allows me to receive valuable feedback on my work and will thus increase the quality of my research and my dissertation."
 
     - name : Christine Emmer
       image : images/portfolio/cemmer.jpg
       # image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : 'Der Preis der Rationalen Altruisten Mannheim für Abschlussarbeiten stellt meiner Meinung nach eine wichtige und dringend benötigte Anerkennung arbeitsintensiver Forschungsprojekte im Rahmen von Abschlussarbeiten dar. Diese besondere Auszeichnung stellte für mich wichtiges Feedback dar und hat mich stark motiviert, über die Abschlussarbeit hinaus wissenschaftlich zu arbeiten.'
+      content : "The award by the Rationale Altruisten Mannheim for the best theses is an important and crucial acknowledgement for work-intensive research projects. This special credit for my work was an important feedback and encouraged me to further engage in academic research."
 
     - name : Gelila Enbaye
       image : images/portfolio/gelila.jpg
       date : Dec 26, 2018
-      content : 'Ich möchte mich herzlich bei den Rationalen Altruisten Mannheim für den RAM-Preis bedanken! Finanziell konnte ich durch den Förderpreis die Kosten für meine Stata-Lizenz decken. Ich bin aber auch dankbar, weil der Preis meine Bachelorarbeit würdigt und mich darin bestärkt, in Zukunft weiter an meinem Forschungsthema zu arbeiten.'
+      content : "I would like to thank the Rationale Altruisten Mannheim for awarding me the RAM Award! Besides covering my expenses for the Stata license, the prize honored my Bachelor thesis and encourages me to continue working on my research topic."
 
     - name : Tobias Rettig
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Mit der Unterstützung des RAM e.V. konnte ich erste Ergebnisse meiner Dissertation einem breiten Publikum auf einer großen internationalen Konferenz präsentieren. Ich bin froh, dass es solche Möglichkeiten zur Förderung wichtiger erster Schritte in der akademischen Karriere junger WissenschaftlerInnen gibt.'
+      content : "Thanks to RAM e.V., I was able to present first results of my dissertation to a broader audience at an international conference. I am glad that this kind of funding opportunity exists to support young scholars in their early careers."
       
     - name : Jascha Dräger
       image : images/portfolio/draeger.png
       date : Dec 26, 2018
-      content : 'Der Preis für eine beste Abschlussarbeit oder die Erfahrungen auf der ersten Konferenz sind eine große Motivation eine wissenschaftliche Karriere anzustreben, trotz der großen Unsicherheit, die mit dieser einhergeht.'
+      content : "The award for the best thesis as well as the experience to present at the first conference are a huge motivation to pursue an academic career – despite the associated insecurities."
 
     - name : Aline Lanzrath
       image : images/portfolio/aline.png
       date : Dec 26, 2018
-      content : 'Die Verleihung des Otto-Selz Preises für die beste Masterarbeit im Fach Psychologie durch die RAM e.V. spielte für meine persönliche und berufliche Zukunft eine große Rolle. Neben der finanziellen Förderung, war für mich die Anerkennung und Wertschätzung der von mir geleisteten Arbeit nicht nur ermutigend, sondern auch zukunftsweisend. So inspirierte sie mich eine wissenschaftliche Karriere zu beginnen (PhD-Programm) und meine Forschungsergebnisse bei renommierten Fachkonferenzen einzureichen. Aus meiner Sicht trägt die Unterstützung durch die Rationalen Altruisten maßgeblich dazu bei, das Selbstvertrauen junger Menschen in ihre Forschungsfähigkeiten und -potenziale zu stärken und sie so für eine Zukunft in der Wissenschaft zu begeistern. Ich bedanke mich herzlich bei allen Mitgliedern des Vereins und hoffe, dass in Zukunft mehr vergleichbare Programme entstehen!'
+      content : "The Otto-Selz Prize for the best Master thesis in Psychology by RAM e.V. had an important impact on both my personal and professional future. Besides its financial support, the award not only recognized my work but also encouraged me both to pursue an academic career by enrolling in a Ph.D. program and to present my research at renowned conferences. In my opinion, RAM’s support is crucial to further the self-esteem of young scholars to believe in their abilities and to get excited about a career in academia. I am very grateful for the support of all members of RAM and hope that there will be similar programs in the future!"
 
     - name : Sabrina Berres
       image : images/portfolio/photo_berres.jpg
       date : Dec 26, 2018
-      content : 'Dank der Förderung durch RAM e.V. konnten mehr Teilnehmende für eine zweiteilige Online-Studie gewonnen werden. Dies ist eine enorme Erleichterung bei der sonst sehr langwierigen Datenerhebung und steigert die Qualität meiner Forschungsarbeit. Vielen Dank!'
+      content : "Due to the support from RAM e.V., I was able to recruit more participants for my online study. This helped facilitate the complicated process of data collection and improve the quality of my research. Thank you!"
 
     - name : Belinda Merkle
       image : images/portfolio/keyboard.jpg
       date : Dec 26, 2018
-      content : 'Ich bin den Rationalen Altruisten Mannheim sehr dankbar dafür, dass sie mir bereits während meines Masters die Teilnahme an der DGPPF Konferenz ermöglicht haben, auf der ich mein erstes eigenes Forschungsreferat präsentieren durfte. Dadurch habe ich spannende neue Impulse gewonnen und wurde in meinem Wunsch bestärkt, die akademische Karriere weiterzuverfolgen. Den Wert der Förderung der RAM sehe ich daher nicht nur in der finanziellen Unterstützung, sondern auch in der frühen Anerkennung für die bereits geleistete Arbeit, die eine wichtige Ermutigung für NachwuchswissenschaftlerInnen darstellt, ihre wissenschaftlichen Ziele weiter zu verfolgen.'
+      content : "I am grateful to the Rationale Altruisten Mannheim for supporting my participation at the DGPPF conference, allowing me to present my first research project while still studying in the Master program. This experience provided me with new impulses and reinforced my desire to pursue an academic career. Hence, not only do I see the value of the RAM in its financial support but also in its recognition which encourages scholars in the early stages of their careers to further their scientific goals."
+
+    - name : Emmy Lindstam Merkle
+      image : images/portfolio/emmy_photo2.png
+      date : Dec 26, 2018
+      content : "A big thank you to RAM for supporting my dissertation project! RAM’s financial support helps many young scholars at uni Mannheim and has allowed me to purchase a dataset necessary to improve my dissertation."
 
     - name : Julian Quevedo-Pütter
       image : images/blog/award.png
       date : Dec 26, 2018
-      content : 'Ich habe sehr von der Förderung durch die Rationalen Altruisten profitiert! Und das nicht nur finanziell: Die Verleihung des Otto-Selz-Preises hat mich vor allem darin bestärkt, mich in meinem Master-Studium weiter auf den Bereich kognitive und klinische Psychologie zu fokussieren. Ich glaube, gerade in Zeiten alternativer Fakten ist eine Förderung des (sozial-)wissenschaftlichen Nachwuchses sehr sinnvoll investiertes Geld!'
+      content : "I benefitted a lot from the funding by the Rationale Altruisten! Beyond the financial reward, the Otto-Selz-Prize reinforced my ambition to further focus on cognitive and clinical psychology during my Master’s study. I believe that funding young scholars from the (social) sciences is important – particularly in times of alternative facts."
 
     - name : Sebastian Juhl
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Die Förderung durch die RAM e.V. ermöglicht es Nachwuchswissenschaftlern, eigene Arbeiten auf internationalen Konferenzen zu präsentieren und dadurch bereits früh in der Karriere wichtige Erfahrungen zu sammeln und Kontakte zu knüpfen. Somit leistet der Verein einen wichtigen Beitrag zur Unterstützung junger Wissenschaftler/innen.'
+      content : "The funding provided by RAM e.V. allows young scholars to present their own work at international conferences and thereby to gain important experiences and build networks already at an early stage of their career. The work of RAM e.V. thus is an important source of support for young scholars."
 
     - name : WUMAN (Meike Bonefeld und Anne-Sophie Waag)
       image : images/portfolio/wuman.jpg
       date : Dec 26, 2018
-      content : 'RAM ist innovativ und bereit, neue Wege zu beschreiten. Wir haben sehr von dieser Offenheit profitiert und konnten unser Netzwerk so dank der finanziellen sowie ideellen Unterstützung durch RAM erfolgreich auf den Weg bringen. Mittlerweile sind wir gegründet und sagen einfach nur "DANKE"!'
+      content : "RAM is innovative and keen to break new ground. We strongly benefitted from this open-mindedness and could successfully kick off our network thanks to RAM’s financial and conceptual support. By now, our network has been launched and we just want to say 'THANK YOU!'."
 
     - name : Hana Attia
       image : images/blog/award.png
       date : Dec 26, 2018
-      content : 'RAM e.V. spielte persönlich meinerseits eine große Rolle, da es mir die Anerkennung für ein Projekt (Masterarbeit) gab, an dem ich lange und mit großer Leidenschaft gearbeitet habe. Besonders für junge Wissenschaftler und Absolventen ist dies essentiell. Es hat mich motiviert eine akademische Karriere anzustreben, so dass ich mein PhD Programm begann.'
+      content : "RAM e.V. has played a significant role for me personally, seeing as it gave me recognition for a project that I have spent my last semester working on and poured my heart in. Especially, a young researchers and graduating students this was essential. It has motivated me to pursue a career in academia, prompting me to start my PhD in Hamburg."
 
     - name : Liliane Wulff
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Der Besuch der Konferenz in New Orleans hat es mir ermöglicht, meine Forschung einem breiten Fachpublikum vorzustellen und dabei internationale Kontakte zu knüpfen. Ich empfinde die Förderung von DoktorandInnen durch den RAT finanziell und ideell als außerordentlich wichtig und freue mich, auch andere Studierende und DoktorandInnen in ihrem wissenschaftlichen Arbeiten zukünftig finanziell zu unterstützen.'
+      content : "The conference in New Orleans allowed me to present my research to an elected audience and to greatly benefit from networking opportunities. I perceive RAM’s funding for PhD students to be extremely important both from a financial and an ideational perspective. I am delighted to also support students and PhD candidates in their scientific work by becoming a member of RAM e.V."
 
     - name : Christoph Dworschak
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Die RAM finanzieren extrakurrikulare Forschungsprojekte. Diese Events helfen Nachwuchswissenschaftlern nicht nur akademisch weiter, sondern auch in ihrer persönlichen Entwicklung und Charakterbildung. Mit dem Versiegen von Förderprojekten wie RAM e.V. würde nicht nur die außeruniversitäre Verwirklichung vieler Studenten unmöglich werden, sondern womöglich auch ein Einbruch im Human- und Sozialkapital der Mannheimer Absolventen einhergehen.'
+      content : "The RAM finances extracurricular research projects. These events do not only support young scholars academically, but also advance their personal development and character building. Without platforms like RAM the extracurricular development of many students would become impossible and, in the worst case, we would experience a drop in the human and social capital of Mannheim's alumni."
 
     - name : Daniel Heck
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Ich bin den Rationalen Altruisten Mannheim dankbar für die Unterstützung, meine Forschungsarbeit auf einer Konferenz in Kopenhagen vorzustellen und dabei wichtige Kontakte zu knüpfen. Auch ideell stellt die Anerkennung durch den RAM Travel Grant eine große Motivation dar.'
+      content : "I appreciate the support by the Rational Altruists Mannheim to present my research at a conference in Copenhagen and to meet important people. Moreover, the RAT Grant has an intangible value itself and gives me intrinsic motivation to continue with my research."
 
     - name : Nico Sonntag
       image : images/blog/research.png
       date : Dec 26, 2018
-      content : 'Die Förderung der Rationalen Altruisten verbessert die Qualität wissenschaftlicher Abschlussarbeiten, weil sie den Studenten ermöglicht, kostenpflichtige, interessante und ergiebige Datensätze zu bestellen.'
+      content : "he funding by the Rational Altruists improves the quality of scientific theses because it allows the students to access interesting and fruitful datasets that are only available for a charge."
