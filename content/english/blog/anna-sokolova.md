@@ -1,6 +1,6 @@
 ---
 date: "2021-08-12"
-image: static/images/portfolio/presentation.png
+image: images/portfolio/presentation.png
 title: RAM supports further education of Anna Sokolova
 ---
 

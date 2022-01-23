@@ -1,7 +1,7 @@
 ---
 date: "2016-02-17"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: RAM provides funding for participation by David Kretschmer in the spring conference "Familie und Migration"
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2021-09-14"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: RAM supports research of Julian Schaider
 ---
 
