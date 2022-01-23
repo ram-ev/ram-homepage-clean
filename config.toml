@@ -142,46 +142,104 @@ url = "#team"
 weight = 7
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "about"
+[[Languages.de.menu.main]]
+name = "Über uns"
 url = "#about"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+[[Languages.de.menu.main]]
+HasChildren = true
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Mehr über RAM e.V."
+  url = "/de/about/mehr_ueber_ram"
+  weight = 1
+
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Satzung"
+  url = "/de/about/satzung"
+  weight = 2
+  
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Datenschutzordnung"
+  url = "/de/about/imprint"
+  weight = 3
+  
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Datenschutzerklärung"
+  url = "/de/about/privacy_policy"
+  weight = 4
+  
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Impressum"
+  url = "/de/about/impressum"
+  weight = 5
+  
+  [[Languages.de.menu.main]]
+  parent = "Über uns"
+  name = "Kontakt"
+  url = "/de/about/contact"
+  weight = 6
+
+[[Languages.de.menu.main]]
+name = "Geförderte Forschungsprojekte"
+url = "#portfolio"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+[[Languages.de.menu.main]]
+name = "Förderung"
+url = "#pricing"
 weight = 3
 
+[[Languages.de.menu.main]]
+HasChildren = true
+  [[Languages.de.menu.main]]
+  parent = "Förderung"
+  name = "Übersicht"
+  url = "/de/funding/funding-uebersicht"
+  weight = 1
+  
+  [[Languages.de.menu.main]]
+  parent = "Förderung"
+  name = "Normalförderung"
+  url = "/de/funding/normalfoerderung"
+  weight = 2
+  
+  [[Languages.de.menu.main]]
+  parent = "Förderung"
+  name = "Rationale Altruisten Travel Grant"
+  url = "/de/funding/rat-grant"
+  weight = 3
+  
+  [[Languages.de.menu.main]]
+  parent = "Förderung"
+  name = "Preise"
+  url = "/de/funding/preise"
+  weight = 4
+  
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "Become a member"
+url = "en/membership/become-a-member"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = ""
+url = "#testimonials"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Latest news"
 url = "#blog"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
+name = ""
+url = "#team"
 weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
 
 ############################# Default Parameters ##########################
 [params]
@@ -240,7 +298,7 @@ languageCode = "de-de"
 contentDir = "content/deutsch"
 weight = 1
 home = "Über uns"
-copyright = "Copyright &copy; 2021 Rationale Altruisten Mannheim e.V."
+copyright = "Copyright &copy; 2022 Rationale Altruisten Mannheim e.V."
 
 ################################ English Language ########################
 [Languages.en]
@@ -249,5 +307,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2021 Rationale Altruisten Mannheim e.V."
+copyright = "Copyright &copy; 2022 Rationale Altruisten Mannheim e.V."
 
