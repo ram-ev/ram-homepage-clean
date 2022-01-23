@@ -176,7 +176,7 @@ HasChildren = true
   [[Languages.en.menu.main]]
   parent = "About us"
   name = "Imprint"
-  url = "/en/about/imprint"
+  url = "/about/imprint"
   weight = 5
   
   [[Languages.en.menu.main]]
