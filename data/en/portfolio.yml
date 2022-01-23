@@ -75,7 +75,7 @@ portfolio:
     - name : 'Conference participation at ESRA 2019'
       image : images/portfolio/lightbulb.png
       categories : ["conference", "Sociology"] #, "Master"]
-      content : "[RAM is supporting Tobias Rettig's participation in ESRA 2019 with the RAT Grant.](blog/rat-tobias/)""
+      content : "[RAM is supporting Tobias Rettig's participation in ESRA 2019 with the RAT Grant.](blog/rat-tobias/)"
       link : "#"
       
     - name : 'Conference participation at EMHFC 2019'
