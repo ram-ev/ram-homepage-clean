@@ -13,7 +13,7 @@ The Rationale Altruisten Mannheim e.V. support young scholars of the School of S
 - Theses/dissertations
 - Participation in further education courses
 - Participation at events for orientation events
-- In 2021: We also support (virtual) conference participation.
+- In 2021 and 2022: We also support (virtual) conference participation.
 
 Support for other activities is possible, provided that it meets the formal requirement that funding is reserved for young scholars of the School of Social Sciences at the University of Mannheim.
 

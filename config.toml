@@ -142,88 +142,88 @@ url = "#team"
 weight = 7
 
 ################### English Navigation ########################
-[[Languages.de.menu.main]]
-name = "Über uns"
+[[Languages.en.menu.main]]
+name = "About us"
 url = "#about"
 weight = 1
 
-[[Languages.de.menu.main]]
+[[Languages.en.menu.main]]
 HasChildren = true
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Mehr über RAM e.V."
-  url = "/de/about/mehr_ueber_ram"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "More about RAM e.V."
+  url = "/about/more-about-ram"
   weight = 1
 
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Satzung"
-  url = "/de/about/satzung"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Statute"
+  url = "/about/statute"
   weight = 2
   
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Datenschutzordnung"
-  url = "/de/about/imprint"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Legal notice"
+  url = "/about/legal-notice"
   weight = 3
   
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Datenschutzerklärung"
-  url = "/de/about/privacy_policy"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Privacy policy"
+  url = "/about/privacy-policy"
   weight = 4
   
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Impressum"
-  url = "/de/about/impressum"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Imprint"
+  url = "/about/imprint"
   weight = 5
   
-  [[Languages.de.menu.main]]
-  parent = "Über uns"
-  name = "Kontakt"
-  url = "/de/about/contact"
+  [[Languages.en.menu.main]]
+  parent = "About us"
+  name = "Contact"
+  url = "/about/contact"
   weight = 6
 
-[[Languages.de.menu.main]]
-name = "Geförderte Forschungsprojekte"
+[[Languages.en.menu.main]]
+name = "Funding research projects"
 url = "#portfolio"
 weight = 2
 
-[[Languages.de.menu.main]]
-name = "Förderung"
+[[Languages.en.menu.main]]
+name = "Funding"
 url = "#pricing"
 weight = 3
 
-[[Languages.de.menu.main]]
+[[Languages.en.menu.main]]
 HasChildren = true
-  [[Languages.de.menu.main]]
-  parent = "Förderung"
-  name = "Übersicht"
-  url = "/de/funding/funding-uebersicht"
+  [[Languages.en.menu.main]]
+  parent = "Funding"
+  name = "Overview"
+  url = "/funding/funding-overview"
   weight = 1
   
-  [[Languages.de.menu.main]]
-  parent = "Förderung"
-  name = "Normalförderung"
-  url = "/de/funding/normalfoerderung"
+  [[Languages.en.menu.main]]
+  parent = "Funding"
+  name = "Regular funding"
+  url = "/funding/regular-funding"
   weight = 2
   
-  [[Languages.de.menu.main]]
-  parent = "Förderung"
+  [[Languages.en.menu.main]]
+  parent = "Funding"
   name = "Rationale Altruisten Travel Grant"
-  url = "/de/funding/rat-grant"
+  url = "/funding/rat-grant"
   weight = 3
   
-  [[Languages.de.menu.main]]
-  parent = "Förderung"
-  name = "Preise"
-  url = "/de/funding/preise"
+  [[Languages.en.menu.main]]
+  parent = "Funding"
+  name = "Awards"
+  url = "/funding/awards"
   weight = 4
   
 [[Languages.en.menu.main]]
 name = "Become a member"
-url = "en/membership/become-a-member"
+url = "/membership/become-a-member"
 weight = 4
 
 [[Languages.en.menu.main]]

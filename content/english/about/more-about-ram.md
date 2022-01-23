@@ -18,5 +18,6 @@ Regina Gerlich, treasurer
 
 Dennis Hammerschmidt, secretary
 
+
 ![](/images/team/we.jpeg)
 

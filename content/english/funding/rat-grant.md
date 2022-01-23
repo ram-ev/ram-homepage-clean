@@ -7,7 +7,7 @@ title: 'Rationale Altruisten Travel Grant'
 
 Doctoral students at the School of Social Sciences of the University of Mannheim are eligible to apply for the annual **Rational Altruist Travel (RAT) Grant** (awarded annually since 2014). The grant helps to facilitate conference participation. 
 
-> **In light of the current situation, we do not award a RAT grant in 2022. If you are looking for conference funding, please see our [regular funding options]((en/funding/regular-funding).**
+> **In light of the current situation, we do not award a RAT grant in 2022. If you are looking for conference funding, please see our [regular funding options](en/funding/regular-funding).**
 
 For further information on how to apply for the RAT Grant, please refer to our calls.
 

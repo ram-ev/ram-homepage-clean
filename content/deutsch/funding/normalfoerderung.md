@@ -13,7 +13,7 @@ Die Rationalen Altruisten Mannheim e.V. fördern den wissenschaftlichen Nachwuch
 - Abschlussarbeiten
 - Fortbildungsveranstaltungen
 - Orientierungsveranstaltungen
-- 2021: Wir fördern auch (virtuelle) Konferenzteilnahmen
+- 2021 und 2022: Wir fördern auch (virtuelle) Konferenzteilnahmen
 
 Andere Maßnahmen können ebenfalls unterstützt werden, einzige formale Bedingung ist die Förderung des wissenschaftlichen Nachwuchses der sozialwissenschaftlichen Fakultät der Universität Mannheim.
 
