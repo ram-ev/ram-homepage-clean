@@ -1,7 +1,7 @@
 ---
 date: "2019-10-23"
 description: 
-image: static/images/portfolio/note.png
+image: images/portfolio/note.png
 title: RAM unterstützt Datenbeschaffung für Bachelorarbeit
 ---
 

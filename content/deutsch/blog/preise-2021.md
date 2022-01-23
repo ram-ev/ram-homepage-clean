@@ -1,7 +1,7 @@
 ---
 date: "2021-10-01"
 description: 
-image: static/images/portfolio/award.png
+image: images/portfolio/award.png
 title: Preisträger:innen der Preise für herausragende Abschlussarbeiten 2021
 ---
 

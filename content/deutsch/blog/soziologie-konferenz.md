@@ -1,7 +1,7 @@
 ---
 date: "2019-09-05"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: RAM unterstützt Konferenzteilnahme
 ---
 

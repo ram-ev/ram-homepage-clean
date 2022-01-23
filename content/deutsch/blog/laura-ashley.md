@@ -1,7 +1,7 @@
 ---
 date: "2019-06-17"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: RAT unterstützt Konferenzteilnahme bei der EMHFC 2019 in Würzburg
 ---
 

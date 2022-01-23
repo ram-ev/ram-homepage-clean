@@ -1,7 +1,7 @@
 ---
 date: "2017-03-20"
 description: 
-image: static/images/portfolio/note.png
+image: images/portfolio/note.png
 title: Förderung eines Sprachkurses als Vorbereitung für Feldforschung
 ---
 

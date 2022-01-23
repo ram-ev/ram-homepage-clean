@@ -1,7 +1,7 @@
 ---
 date: "2018-10-07"
 description: RAM unterstützen WUMAN
-image: static/images/portfolio/presentation.png
+image: images/portfolio/presentation.png
 # image_webp: images/blog/blog-post-2.webp
 title: RAM unterstützen WUMAN
 ---

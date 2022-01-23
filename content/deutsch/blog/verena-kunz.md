@@ -1,7 +1,7 @@
 ---
 date: "2019-04-07"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: Förderung einer Konferenzteilnahme bei der EPSA 2019
 ---
 

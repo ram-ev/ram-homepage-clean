@@ -1,7 +1,7 @@
 ---
 date: "2016-02-17"
 description: 
-image: static/images/portfolio/conference.png
+image: images/portfolio/conference.png
 title: Förderung der Teilnahme an der Frühjahrstagung "Familie und Migration"
 ---
 
