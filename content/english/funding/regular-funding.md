@@ -41,6 +41,8 @@ Unused financial funding has to be reimbursed to RAM e.V. within three weeks aft
 
 RAM e.V. reserves the right to call in the funding in case of violation against the funding rules.
 
+### How to apply? 
+
 Please, submit the following documents (in English or German) via e-mail as **one** single PDF document to vorstand(at)ram-ev(dot)de:
 
 ##### 1. General information
