@@ -2,7 +2,7 @@
 date: "2021-11-11"
 description: 
 image: images/blog/homepage.png
-title: Die Rationalen Altruisten haben eine neue Homepage!
+title: The Rational Altruists Mannheim e.V. has a new homepage!
 ---
 
-Wir sind stolz, euch unsere überarbeitete und moderne Homepage zu präsentieren!
+We are proud to present to you our newly revised and modernized homepage!
