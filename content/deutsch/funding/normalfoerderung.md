@@ -18,7 +18,7 @@ Die Rationalen Altruisten Mannheim e.V. fördern den wissenschaftlichen Nachwuch
 Andere Maßnahmen können ebenfalls unterstützt werden, einzige formale Bedingung ist die Förderung des wissenschaftlichen Nachwuchses der sozialwissenschaftlichen Fakultät der Universität Mannheim.
 
 ### Fördersumme
-Da sich die Rationalen Altruisten Mannheim e.V. ausschließlich durch Mitgliedsbeiträge und Spenden finanzieren, sind unsere Mittel begrenzt. Üblicherweise können wir die Fördersummen bis zu 150 € bewilligen. Nur in Ausnahmefällen können Projekte mit größeren Summen gefördert werden.
+Da sich die Rationalen Altruisten Mannheim e.V. ausschließlich durch Mitgliedsbeiträge und Spenden finanzieren, sind unsere Mittel begrenzt. Üblicherweise können wir die Fördersummen bis zu 300 € bewilligen (bzw. 150 € bei Incentives für Studien). Nur in Ausnahmefällen können Projekte mit größeren Summen gefördert werden.
 
 Der Verein kann somit Förderungen zum Beispiel durch DFG, DAAD, die Universität Mannheim oder ähnliches nicht ersetzen und strebt dies auch nicht an.
 

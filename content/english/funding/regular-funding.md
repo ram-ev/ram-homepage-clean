@@ -18,7 +18,7 @@ The Rationale Altruisten Mannheim e.V. support young scholars of the School of S
 Support for other activities is possible, provided that it meets the formal requirement that funding is reserved for young scholars of the School of Social Sciences at the University of Mannheim.
 
 ### Amount of the grant
-Our financial means are limited as we rely exclusively on membership fees and donations. As a result, our grants usually amount up to € 150. Only in exceptional cases, funding of a larger sum is possible.
+Our financial means are limited as we rely exclusively on membership fees and donations. As a result, our grants usually amount up to € 300 (or up to € 150 for incentives for surveys/studies). Only in exceptional cases, funding of a larger sum is possible.
 
 The Rationale Altruisten, therefore, cannot and do not aim to replace funding by the DFG, DAAD, or the University of Mannheim.
 
