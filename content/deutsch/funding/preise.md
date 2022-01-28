@@ -72,7 +72,7 @@ Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahr
 | 2020 | Montagna           | Melissa   |                        | Otto-Selz-Preis  |
 | 2021 | Schlüter           | Maria   |                   | Hans-Albert-Preis       |
 | 2021 | Hellyer           | Joshua    |                      | Hans-Albert-Preis   |
-| 2021 | Hausmann           | Teresa   |                       | Franz-Urban-Pappi-Preis       |
+| 2021 | Haußmann           | Teresa   |                       | Franz-Urban-Pappi-Preis       |
 | 2021 | Ketterer           | Julia   |                | Franz-Urban-Pappi-Preis      |
 | 2021 | Herwig           | Ira Elisa   |                      | Otto-Selz-Preis      |
 | 2021 | Zajdler           | Selina   |                    | Otto-Selz-Preis       |
