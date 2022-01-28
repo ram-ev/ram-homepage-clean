@@ -12,11 +12,13 @@ Since 2010, we award the RAM award for one excellent **MA thesis in Sociology an
 
 ## Submit your final thesis (BA and MA thesis)
 
-The following documents are required for submission as **one PDF** file:
+The following documents are required for submission as **one ZIP** file:
 
 1. [Complete form](/files/RAM_form_submission.pdf)
 2. Anonymized thesis
 3. Expert opinion of the supervisor (if available) 
+
+Please save your submission as **one ZIP** file and name it as follows: `Award_Name_LEVEL_EUERNAME.zip`. So if you apply for the Franz-Urban-Pappi-Prize with your master thesis, the name would look like this: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 And then submit it via the link below -- we wish you the best of luck!
 
@@ -26,6 +28,11 @@ And then submit it via the link below -- we wish you the best of luck!
 
 <br /> &nbsp;
 
+### FAQ
+
+**to be added**
+
+### Overview of past recipients
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Surname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Supervisor                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Award          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|

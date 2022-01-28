@@ -12,11 +12,13 @@ Außerdem verleihen wir den [**Otto-Selz-Preis**](/files/Ausschreibung_OttoSelzP
 
 ## Abschlussarbeit einreichen
 
-Für die Einreichung werden folgende Unterlagen als **eine PDF**-Datei benötigt:
+Für die Einreichung werden folgende Unterlagen als **eine ZIP**-Datei benötigt:
 
-1. [Ausgefülltes Formular](/files/RAM_form_submission.pdf)
+1. [Ausgefülltes Formular](/files/RAM_form_submission.pdf) (wir benötigen hier eure Angaben, um euch die Arbeit später zuordnen zu können)
 2. Anonymisierte Abschlussarbeit
 3. Gutachten des Betreuenden (sofern vorhanden) 
+
+Bitte reicht die Arbeit als **eine ZIP**-Datei ein und benennt sie wiefolgt: `PREISNAME_LEVEL_EUERNAME.zip`. Wenn ihr euch also mit eurer Masterarbeit auf den Franz-Urban-Pappi-Preis bewerbt, würde der Name wiefolgt aussehen: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 
@@ -25,6 +27,10 @@ Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {{% button href="https://ram-ev.de/nextcloud/index.php/s/FBGDpdFPLGnoDaM" %}}Einreichung RAM-Preis{{% /button %}}
 
 <br /> &nbsp;
+
+### FAQ
+
+**to be added**
 
 ### Übersicht Preisträger:innen
 
