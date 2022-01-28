@@ -21,7 +21,7 @@ funfacts:
     # counter item loop
     - title : "Countries to which our grantees have traveled"
       icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
-      count : "7"
+      count : "15"
 
     # # counter item loop
     # - title : "Cups of Coffee"
