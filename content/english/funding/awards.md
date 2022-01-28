@@ -69,7 +69,7 @@ And then submit it via the link below -- we wish you the best of luck!
 | 2020 | Montagna           | Melissa   |                        | Otto-Selz-Prize  |
 | 2021 | Schlüter           | Maria   |                   | Hans-Albert-Prize       |
 | 2021 | Hellyer           | Joshua    |                      | Hans-Albert-Prize   |
-| 2021 | Hausmann           | Teresa   |                       | Franz-Urban-Pappi-Prize       |
+| 2021 | Haußmann           | Teresa   |                       | Franz-Urban-Pappi-Prize       |
 | 2021 | Ketterer           | Julia   |                | Franz-Urban-Pappi-Prize      |
 | 2021 | Herwig           | Ira Elisa   |                      | Otto-Selz-Prize      |
 | 2021 | Zajdler           | Selina   |                    | Otto-Selz-Prize       |
