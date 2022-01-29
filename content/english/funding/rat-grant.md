@@ -11,7 +11,7 @@ Doctoral students at the School of Social Sciences of the University of Mannheim
 
 For further information on how to apply for the RAT Grant, please refer to our calls.
 
-List of prize winners:
+[List of prize winners](/files/reports/overview_RATaward_en.html):
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Surname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Name          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Supervisor             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Prize    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|-------------|------------------|--------------------------|-----------|

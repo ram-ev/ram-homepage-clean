@@ -12,7 +12,7 @@ Seit 2014 schreiben wir jährlich den **Rationale Altruisten Travel (RAT) Grant*
 
 Mehr Informationen Informationen zur Bewerbung um einen RAT-Grant findet ihr in der jeweiligen Ausschreibung.
 
-Bisherige Preisträger:
+[Bisherige Preisträger](/files/reports/overview_RATaward_de.html):
 
 | Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Nachname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Vorname          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Gutachter             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Preis    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|-------------|------------------|--------------------------|-----------|
