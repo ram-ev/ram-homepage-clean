@@ -67,7 +67,7 @@ HasChildren = true
   [[Languages.de.menu.main]]
   parent = "Über uns"
   name = "Mehr über RAM e.V."
-  url = "/de/about/mehr_ueber_ram"
+  url = "/de/about/mehr-ueber-ram"
   weight = 1
 
   [[Languages.de.menu.main]]
@@ -79,13 +79,13 @@ HasChildren = true
   [[Languages.de.menu.main]]
   parent = "Über uns"
   name = "Datenschutzordnung"
-  url = "/de/about/imprint"
+  url = "/de/about/datenschutzordnung"
   weight = 3
   
   [[Languages.de.menu.main]]
   parent = "Über uns"
   name = "Datenschutzerklärung"
-  url = "/de/about/privacy_policy"
+  url = "/de/about/datenschutzerklaerung"
   weight = 4
   
   [[Languages.de.menu.main]]
@@ -97,7 +97,7 @@ HasChildren = true
   [[Languages.de.menu.main]]
   parent = "Über uns"
   name = "Kontakt"
-  url = "/de/about/contact"
+  url = "/de/about/kontakt"
   weight = 6
 
 [[Languages.de.menu.main]]
