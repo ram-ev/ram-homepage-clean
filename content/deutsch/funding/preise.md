@@ -18,7 +18,7 @@ Für die Einreichung werden folgende Unterlagen als **eine ZIP**-Datei benötigt
 2. Anonymisierte Abschlussarbeit
 3. Gutachten des Betreuenden (sofern vorhanden) 
 
-Bitte reicht die Arbeit als **eine ZIP**-Datei ein und benennt sie wiefolgt: `PREISNAME_LEVEL_EUERNAME.zip`. Wenn ihr euch also mit eurer Masterarbeit auf den Franz-Urban-Pappi-Preis bewerbt, würde der Name wiefolgt aussehen: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
+Bitte reicht die Arbeit als **eine ZIP**-Datei ein und benennt sie wiefolgt: `PREISNAME_LEVEL_EUER-NAME.zip`. Wenn ihr euch also mit eurer Masterarbeit auf den Franz-Urban-Pappi-Preis bewerbt, würde der Name wiefolgt aussehen: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 

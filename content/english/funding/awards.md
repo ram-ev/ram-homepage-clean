@@ -18,7 +18,7 @@ The following documents are required for submission as **one ZIP** file:
 2. Anonymized thesis
 3. Expert opinion of the supervisor (if available) 
 
-Please save your submission as **one ZIP** file and name it as follows: `Award_Name_LEVEL_EUERNAME.zip`. So if you apply for the Franz-Urban-Pappi-Prize with your master thesis, the name would look like this: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
+Please save your submission as **one ZIP** file and name it as follows: `AWARD-NAME_LEVEL_YOUR-NAME.zip`. So if you apply for the Franz-Urban-Pappi-Prize with your master thesis, the name would look like this: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 And then submit it via the link below -- we wish you the best of luck!
 
@@ -31,6 +31,9 @@ And then submit it via the link below -- we wish you the best of luck!
 ### FAQ
 
 **to be added**
+
+<br /> &nbsp;
+
 
 ### Overview of past recipients
 
