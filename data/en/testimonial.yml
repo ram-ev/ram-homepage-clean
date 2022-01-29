@@ -5,6 +5,17 @@ testimonial:
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
+    - name : Joshua Hellyer
+      image : images/josh.jpeg
+      date : Dec 26, 2018
+      content : "Starting a research career can be daunting, and it's easy to feel overwhelmed by what you don't know. Receiving the Hans-Albert-Prize for my master's thesis was just the vote of confidence I needed to start on my PhD. Thanks, RAM!"
+
+    # testimonial item loop
+    - name : Ira Herwig
+      image : images/ira.jpeg
+      date : Dec 26, 2018
+      content : "Receiving the best master thesis award 2021 further encouraged me to continue my research and to start my PhD. The recognition of one‘s work can be a very motivating and encouraging experience for young scientists, which makes RAM’s work so valuable!"
+
     - name : Clara Theil
       image : images/portfolio/clara-masterarbeit.jpg
       date : Dec 26, 2018

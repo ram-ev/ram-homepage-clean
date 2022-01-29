@@ -4,6 +4,12 @@ testimonial:
   # bg_image : images/backgrounds/bg-testimonial.jpg
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
+      # testimonial item loop
+    - name : Ira Herwig
+      image : images/ira.jpeg
+      date : Dec 26, 2018
+      content : "Die Auszeichnung mit dem Preis für die beste Masterarbeit 2021 hat mich noch mehr ermutigt, meine Forschung fortzusetzen und meine Promotion zu beginnen. Die Anerkennung der eigenen Arbeit kann eine sehr motivierende und ermutigende Erfahrung für junge Wissenschaftler:innen sein, was die Arbeit von RAM so wertvoll macht!"
+
     # testimonial item loop
     - name : Clara Theil
       image : images/portfolio/clara-masterarbeit.jpg
