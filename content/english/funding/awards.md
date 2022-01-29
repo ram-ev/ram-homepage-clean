@@ -34,7 +34,6 @@ And then submit it via the link below -- we wish you the best of luck!
 
 <br /> &nbsp;
 
-
 ### Overview of past recipients
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Surname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Supervisor                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Award          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
