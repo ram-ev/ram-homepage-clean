@@ -5,7 +5,7 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Normalförderung'
 ---
 
-Die **Rationalen Altruisten Mannheim e.V.** fördern den Nachwuchs der Fakultät der Sozialwissenschaften der Universität Mannheim durch die Vergabe von Zuschüssen.
+Die **Rationalen Altruisten Mannheim e.V.** fördern den Nachwuchs der Fakultät der Sozialwissenschaften der Universität Mannheim durch die Vergabe von Zuschüssen. [Hier findest du eine Liste mit geförderten Forschungsprojekten](/files/reports/overview_funding_de.html).
 
 ### Ziele
 Die Rationalen Altruisten Mannheim e.V. fördern den wissenschaftlichen Nachwuchs der Fakultät für Sozialwissenschaften der Universität Mannheim. Dies wird vor allem durch finanzielle Unterstützung förderungswürdiger Projekte realisiert. Sowohl die Förderung einzelner Personen als auch einer Gruppe sind möglich. Die Förderung schließt explizit ein:

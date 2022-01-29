@@ -59,7 +59,7 @@ In `Preview` wird zum Beispiel die Datei oft nicht richtig anonymisiert. Besser 
 
 ### Übersicht der Preisträger:innen
 
-Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahren:
+[Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahren](/files/reports/overview_award_de.html):
 
 | Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Nachname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vorname   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Gutachter                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Preis          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|

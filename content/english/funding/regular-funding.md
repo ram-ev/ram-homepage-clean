@@ -5,7 +5,7 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Regular Funding'
 ---
 
-The **Rationale Altruisten Mannheim e.V.** support young scholars of the School of Social Sciences at the University of Mannheim by providing financial aid.
+The **Rationale Altruisten Mannheim e.V.** support young scholars of the School of Social Sciences at the University of Mannheim by providing financial aid. [You can find a list of all past financial aid recipients here](/files/reports/overview_funding_en.html).
 
 ### Goals
 The Rationale Altruisten Mannheim e.V. support young scholars of the School of Social Sciences at the University of Mannheim. We primarily do so by providing financial aid for eligible projects. Both fundings of individual persons and groups are possible. The funding explicitly includes:

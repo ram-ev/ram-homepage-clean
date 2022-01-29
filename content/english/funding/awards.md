@@ -36,6 +36,8 @@ And then submit it via the link below -- we wish you the best of luck!
 
 ### Overview of past recipients
 
+[Here is a complete list of all past award recipients](/files/reports/overview_award_en.html):
+
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Surname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Supervisor                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Award          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|
 | 2010 | Megerle        | Sebastian | Prof. Dr. Hank                         | RAM Award       |
