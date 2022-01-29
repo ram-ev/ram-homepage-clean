@@ -30,9 +30,34 @@ Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 
 ### FAQ
 
-**to be added**
+{{< detail-tag "Warum muss ich meine Arbeit anonymisieren, wenn ich meinen Namen doch im Speichernamen  und im Formular angeben muss?" >}}
+**Antwort**
+{{< /detail-tag >}}
 
-### Übersicht Preisträger:innen
+{{< detail-tag "Wie anonymisiere ich meine Arbeit richtig?" >}}
+In `Preview` wird zum Beispiel die Datei oft nicht richtig anonymisiert. Besser sind daher folgende Ansätze, um eine wirklich anonymisierte Arbeit einzureichen:
+
+1) Namen im Originaldokument (Word, LaTeX) entfernen und als PDF abspeichern,
+2) Adobe nutzen,
+3) Datei in jedem Fall als PDF "drucken" (abspeichern hilft nicht, die schwarzen Balken kann man verschieben) **oder**
+4) Ausdrucken, schwärzen und neu einscannen ;-)
+{{< /detail-tag >}}
+
+{{< detail-tag "Wie läuft der Auswahlprozess ab?" >}}
+**Antwort**
+{{< /detail-tag >}}
+
+{{< detail-tag "Wann und wie erfahre ich, ob meine Arbeit den Preis erhalten hat?" >}}
+**Antwort**
+{{< /detail-tag >}}
+
+{{< detail-tag "Wie hoch ist das Preisgeld?" >}}
+**Antwort**
+{{< /detail-tag >}}
+
+<br /> &nbsp;
+
+### Übersicht der Preisträger:innen
 
 Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahren:
 
