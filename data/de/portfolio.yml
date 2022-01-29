@@ -4,6 +4,13 @@ portfolio:
   title : Geförderte Forschungsprojekte
   portfolio_item :
     # portfolio item loop
+    - name : 'Förderung einer Masterarbeit'
+      image : images/portfolio/sekul_niklas_testimonial.png
+      categories : ["Masterarbeit", "Psychologie"] #, "PhD"]
+      content : '[Niklas Sekuls Masterarbeit untersucht wie die Gesellschaft die Pandemie emotional erlebt.](blog/niklas-sekul/)'
+      link : ""
+
+    # portfolio item loop
     - name : 'Konferenzteilnahme EPSA 2020'
       image : images/portfolio/conference-felix.jpg
       categories : ["Konferenz", "Politikwissenschaft"] #, "PhD"]

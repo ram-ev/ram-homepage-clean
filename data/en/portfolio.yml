@@ -3,6 +3,13 @@ portfolio:
   enable : true
   title : Funded Research Projects
   portfolio_item :
+      # portfolio item loop
+    - name : 'Funding of a Master thesis'
+      image : images/portfolio/sekul_niklas_testimonial.png
+      categories : ["Master thesis", "Psychology"] #, "PhD"]
+      content : "[Niklas Sekul's Master thesis analyzes how our society experiences the pandemic situation emotionally](blog/niklas-sekul/)"
+      link : ""
+
     # portfolio item loop
     - name : 'Conference participation EPSA 2020'
       image : images/portfolio/conference-felix.jpg
