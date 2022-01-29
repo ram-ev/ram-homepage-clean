@@ -5,6 +5,11 @@ testimonial:
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
+    - name : Niklas Sekul
+      image : images/niklas_sekul.jpg
+      date : Dec 26, 2018
+      content : "I am very grateful to RAM for financially supporting my master thesis. The funding represents a highly appreciated resource that enables me to apply advanced statistical methods to my own clinical psychological research. Many thanks - I am excited to get started!"
+      
     - name : Joshua Hellyer
       image : images/josh.jpeg
       date : Dec 26, 2018
