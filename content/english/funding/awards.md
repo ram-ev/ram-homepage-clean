@@ -30,6 +30,10 @@ And then submit it via the link below -- we wish you the best of luck!
 
 ### FAQ
 
+You can find a detailed description in the short explainer video and the FAQ.
+
+{{< youtube cASBIr3aaiQ >}}
+
 **to be added**
 
 <br /> &nbsp;

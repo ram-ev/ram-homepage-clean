@@ -30,6 +30,10 @@ Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 
 ### FAQ
 
+Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
+
+{{< youtube cASBIr3aaiQ >}}
+
 {{< detail-tag "Warum muss ich meine Arbeit anonymisieren, wenn ich meinen Namen doch im Speichernamen  und im Formular angeben muss?" >}}
 **Antwort**
 {{< /detail-tag >}}
