@@ -34,6 +34,8 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 
 {{< youtube cASBIr3aaiQ >}}
 
+<br /> &nbsp;
+
 {{< detail-tag "Warum muss ich meine Arbeit anonymisieren, wenn ich meinen Namen doch im Speichernamen  und im Formular angeben muss?" >}}
 **Antwort**
 {{< /detail-tag >}}
