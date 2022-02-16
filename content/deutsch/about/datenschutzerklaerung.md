@@ -166,13 +166,54 @@ Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von M
 
 ## Onlinepräsenzen in sozialen Medien
 
-Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können. Beim Aufruf der jeweiligen Netzwerke und Plattformen gelten die Geschäftsbedingungen und die Datenverarbeitungsrichtlinien deren jeweiligen Betreiber.
+Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und verarbeiten in diesem Rahmen Daten der Nutzer, um mit den dort aktiven Nutzern zu kommunizieren oder um Informationen über uns anzubieten.
 
-Soweit nicht anders im Rahmen unserer Datenschutzerklärung angegeben, verarbeiten wir die Daten der Nutzer sofern diese mit uns innerhalb der sozialen Netzwerke und Plattformen kommunizieren, z.B. Beiträge auf unseren Onlinepräsenzen verfassen oder uns Nachrichten zusenden.
+Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer erschwert werden könnte.
+
+Ferner werden die Daten der Nutzer innerhalb sozialer Netzwerke im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können z.B. anhand des Nutzungsverhaltens und sich daraus ergebender Interessen der Nutzer Nutzungsprofile erstellt werden. Die Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Netzwerke zu schalten, die mutmaßlich den Interessen der Nutzer entsprechen. Zu diesen Zwecken werden im Regelfall Cookies auf den Rechnern der Nutzer gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer gespeichert werden. Ferner können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzern verwendeten Geräte gespeichert werden (insbesondere, wenn die Nutzer Mitglieder der jeweiligen Plattformen sind und bei diesen eingeloggt sind).
+
+Für eine detaillierte Darstellung der jeweiligen Verarbeitungsformen und der Widerspruchsmöglichkeiten (Opt-Out) verweisen wir auf die Datenschutzerklärungen und Angaben der Betreiber der jeweiligen Netzwerke.
+
+Auch im Fall von Auskunftsanfragen und der Geltendmachung von Betroffenenrechten weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
+
+Verarbeitete Datenarten: Kontaktdaten (z.B. E-Mail, Telefonnummern); Inhaltsdaten (z.B. Eingaben in Onlineformularen); Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+Zwecke der Verarbeitung: Kontaktanfragen und Kommunikation; Feedback (z.B. Sammeln von Feedback via Online-Formular); Marketing.
+Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+
+## Instagram
+Dienstanbieter: Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA; Website: https://www.instagram.com; Datenschutzerklärung: https://instagram.com/about/legal/privacy.
+
+## Facebook
+Profile innerhalb des sozialen Netzwerks Facebook - Wir sind gemeinsam mit Meta Platforms Ireland Limited für die Erhebung (jedoch nicht die weitere Verarbeitung) von Daten der Besucher unserer Facebook-Seite (sog. "Fanpage") verantwortlich. Zu diesen Daten gehören Informationen zu den Arten von Inhalten, die Nutzer sich ansehen oder mit denen sie interagieren, oder die von ihnen vorgenommenen Handlungen (siehe unter „Von dir und anderen getätigte und bereitgestellte Dinge“ in der Facebook-Datenrichtlinie: https://www.facebook.com/policy), sowie Informationen über die von den Nutzern genutzten Geräte (z. B. IP-Adressen, Betriebssystem, Browsertyp, Spracheinstellungen, Cookie-Daten; siehe unter „Geräteinformationen“ in der Facebook-Datenrichtlinie: https://www.facebook.com/policy). Wie in der Facebook-Datenrichtlinie unter „Wie verwenden wir diese Informationen?“ erläutert, erhebt und verwendet Facebook Informationen auch, um Analysedienste, so genannte "Seiten-Insights", für Seitenbetreiber bereitzustellen, damit diese Erkenntnisse darüber erhalten, wie Personen mit ihren Seiten und mit den mit ihnen verbundenen Inhalten interagieren. Wir haben mit Facebook eine spezielle Vereinbarung abgeschlossen ("Informationen zu Seiten-Insights", https://www.facebook.com/legal/terms/page_controller_addendum), in der insbesondere geregelt wird, welche Sicherheitsmaßnahmen Facebook beachten muss und in der Facebook sich bereit erklärt hat die Betroffenenrechte zu erfüllen (d. h. Nutzer können z. B. Auskünfte oder Löschungsanfragen direkt an Facebook richten). Die Rechte der Nutzer (insbesondere auf Auskunft, Löschung, Widerspruch und Beschwerde bei zuständiger Aufsichtsbehörde), werden durch die Vereinbarungen mit Facebook nicht eingeschränkt. Weitere Hinweise finden sich in den "Informationen zu Seiten-Insights" (https://www.facebook.com/legal/terms/information_about_page_insights_data); Dienstanbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland; Website: https://www.facebook.com; Datenschutzerklärung: https://www.facebook.com/about/privacy; Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei Verarbeitung in Drittländern): https://www.facebook.com/legal/EU_data_transfer_addendum; Weitere Informationen: Vereinbarung gemeinsamer Verantwortlichkeit: https://www.facebook.com/legal/terms/information_about_page_insights_data.
+
+## LinkedIn
+Dienstanbieter: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland; Website: https://www.linkedin.com; Datenschutzerklärung: https://www.linkedin.com/legal/privacy-policy; Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei Verarbeitung in Drittländern): https://legal.linkedin.com/dpa; Widerspruchsmöglichkeit (Opt-Out): https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out; Auftragsverarbeitungsvertrag: https://legal.linkedin.com/dpa.
 
 ## Twitter
+Dienstanbieter: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland, Mutterunternehmen: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA; Datenschutzerklärung: https://twitter.com/privacy, (Settings: https://twitter.com/personalization).
 
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Twitter, angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Ihr Gefallen betreffend die Inhalte kundtun, den Verfassern der Inhalte oder unsere Beiträge abonnieren können. Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active). Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
+## YouTube
+Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Datenschutzerklärung: https://policies.google.com/privacy; Widerspruchsmöglichkeit (Opt-Out): https://adssettings.google.com/authenticated.
+
+
+## Plugins und eingebettete Funktionen sowie Inhalte
+
+Wir binden in unser Onlineangebot Funktions- und Inhaltselemente ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter”) bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Stadtpläne handeln (nachfolgend einheitlich bezeichnet als "Inhalte”).
+
+Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-Adresse der Nutzer verarbeiten, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte oder Funktionen erforderlich. Wir bemühen uns, nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner sogenannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Webseite, ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und zum Betriebssystem, zu verweisenden Webseiten, zur Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten als auch mit solchen Informationen aus anderen Quellen verbunden werden.
+
+Hinweise zu Rechtsgrundlagen: Sofern wir die Nutzer um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
+
+Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen); Bestandsdaten (z.B. Namen, Adressen); Kontaktdaten (z.B. E-Mail, Telefonnummern); Inhaltsdaten (z.B. Eingaben in Onlineformularen).
+Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
+Zwecke der Verarbeitung: Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+
+## YouTube-Videos
+YouTube-Videos: Videoinhalte; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: https://www.youtube.com; Datenschutzerklärung: https://policies.google.com/privacy; Widerspruchsmöglichkeit (Opt-Out): Opt-Out-Plugin: https://tools.google.com/dlpage/gaoptout?hl=de, Einstellungen für die Darstellung von Werbeeinblendungen: https://adssettings.google.com/authenticated.
 
 **Quelle:** [Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de)
 
