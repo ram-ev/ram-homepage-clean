@@ -5,6 +5,9 @@ image: images/blog/ram-shiny.png
 title: Program your (first) Shiny App and gain insights into the board of RAM? Support us!
 ---
 
+<!--![](/images/blog/ram-shiny.png)-->
+
+
 ## What is it about?
 
 The Rationale Altruisten Mannheim financially support young scientists at the Faculty of Science of the University of Mannheim, e.g. with travel expenses for conference trips or with the financing of incentives for studies. Through our work we have already supported a large number of research trips, conference participations and studies worldwide! We'd love to showcase that interactively - preferably with a Shiny app (an interactive web app) that we can embed in our new homepage.
