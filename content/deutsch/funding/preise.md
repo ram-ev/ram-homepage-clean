@@ -16,9 +16,11 @@ Für die Einreichung werden folgende Unterlagen als **eine ZIP**-Datei benötigt
 
 1. [Ausgefülltes Formular](/files/RAM_form_submission.pdf) (wir benötigen hier eure Angaben, um euch die Arbeit später zuordnen zu können)
 2. Anonymisierte Abschlussarbeit
-3. Gutachten des Betreuenden (sofern vorhanden) 
+3. Gutachten des Betreuenden (für die Einreichung des Otto-Selz-Preises ist dies **anonymisiert** in Form eines Gutachtens oder einer Begründung durch den Betreuenden einzureichen; für die Einreichung des Franz-Urban-Pappi-Preises und des Hans-Albert-Preises ist das **anonymisierte** Gutachten einzureichen sofern es vorhanden ist)
 
 Bitte reicht die Arbeit als **eine ZIP**-Datei ein und benennt sie wiefolgt: `PREISNAME_LEVEL_EUER-NAME.zip`. Wenn ihr euch also mit eurer Masterarbeit auf den Franz-Urban-Pappi-Preis bewerbt, würde der Name wiefolgt aussehen: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
+
+<!-- > Achtung: Die Einreichung für den Otto-Selz-Preis kann nur über den Betreuenden eingereicht werden. Hier können leider keine Selbstnorminierungen angenommen werden.-->
 
 Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 

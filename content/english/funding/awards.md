@@ -16,9 +16,11 @@ The following documents are required for submission as **one ZIP** file:
 
 1. [Complete form](/files/RAM_form_submission.pdf)
 2. Anonymized thesis
-3. Expert opinion of the supervisor (if available) 
+3. Expert opinion of the supervisor (for the submission of the Otto Selz Award this has to be submitted **anonymized** in the form of an expert opinion or justification by the supervisor; for the submission of the Franz Urban Pappi Award and the Hans Albert Award the **anonymized** expert opinion has to be submitted if available)
 
 Please save your submission as **one ZIP** file and name it as follows: `AWARD-NAME_LEVEL_YOUR-NAME.zip`. So if you apply for the Franz-Urban-Pappi-Prize with your master thesis, the name would look like this: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
+
+<!-- > Attention: Submissions for the Otto Selz Award can only be submitted via the supervisor. Unfortunately, no self-nominations can be accepted here.-->
 
 And then submit it via the link below -- we wish you the best of luck!
 
