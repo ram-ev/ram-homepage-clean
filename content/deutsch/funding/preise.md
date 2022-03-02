@@ -45,35 +45,34 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 <br /> &nbsp;
 
 {{< detail-tag "Warum muss ich meine Arbeit anonymisieren, wenn ich meinen Namen doch im Speichernamen und im Formular angeben muss?" >}}
-Die Arbeit wird von einer Fachjury begutachtet. Da die Jury-Mitglieder hauptsächlich aus Mitgliedern der Universität Mannheim besteht, kann es sein, dass manche Einreicher:innen wiedererkannt werden. Um eine Beeinflussung durch persönliche Beziehungen in der Bewertung zu verhindern, erhalten die Jury-Mitglieder nur die anonymisierte Arbeit.
-Nur uns als Vorstand ist bekannt, welche Arbeit zu welcher Person gehört, damit wir dann auch den Preis vergeben können. ;-)
+*Die Arbeit wird von einer Fachjury begutachtet. Da die Jury-Mitglieder hauptsächlich aus Mitgliedern der Universität Mannheim besteht, kann es sein, dass manche Einreicher:innen wiedererkannt werden. Um eine Beeinflussung durch persönliche Beziehungen in der Bewertung zu verhindern, erhalten die Jury-Mitglieder nur die anonymisierte Arbeit. Nur uns als Vorstand ist bekannt, welche Arbeit zu welcher Person gehört, damit wir dann auch den Preis vergeben können. ;-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wie anonymisiere ich meine Arbeit richtig?" >}}
-In `Preview` wird zum Beispiel die Datei oft nicht richtig anonymisiert. Besser sind daher folgende Ansätze, um eine wirklich anonymisierte Arbeit einzureichen:
+**In `Preview` wird zum Beispiel die Datei oft nicht richtig anonymisiert. Besser sind daher folgende Ansätze, um eine wirklich anonymisierte Arbeit einzureichen:*
 
-1) Namen im Originaldokument (Word, LaTeX) entfernen und als PDF abspeichern,
-2) Adobe nutzen,
-3) Datei in jedem Fall als PDF "drucken" (abspeichern hilft nicht, die schwarzen Balken kann man verschieben) **oder**
-4) Ausdrucken, schwärzen und neu einscannen ;-)
+*1) Namen im Originaldokument (Word, LaTeX) entfernen und als PDF abspeichern,*
+*2) Adobe nutzen,*
+*3) Datei in jedem Fall als PDF "drucken" (abspeichern hilft nicht, die schwarzen Balken kann man verschieben)* **oder**
+*4) Ausdrucken, schwärzen und neu einscannen ;-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wie läuft der Auswahlprozess ab?" >}}
-Schau Dir dafür einfach unser Video an! 
+*Schau Dir dafür einfach unser Video an!*
 
-Alternativ gibt es hier alle Infos in Kürze:
+*Alternativ gibt es hier alle Infos in Kürze:*
 
-1. Du reichst Deine anonymisierte Arbeit bei uns ein (inkl. des Formulars und des Gutachtens).
-2. Eine fachliche Jury (in der Regel bestehend auf Professor:innen, Post-Doktorand:innen und Doktorand:innen) begutachtet alle Arbeiten und bestimmt den/die Preisträger:in.
-3. Wir benachrichtigen die Einreichenden über den Ausgang der Preisvergabe :-)
+*1. Du reichst Deine anonymisierte Arbeit bei uns ein (inkl. des Formulars und des Gutachtens).*
+*2. Eine fachliche Jury (in der Regel bestehend auf Professor:innen, Post-Doktorand:innen und Doktorand:innen) begutachtet alle Arbeiten und bestimmt den/die Preisträger:in.*
+*3. Wir benachrichtigen die Einreichenden über den Ausgang der Preisvergabe :-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wann und wie erfahre ich, ob meine Arbeit den Preis erhalten hat?" >}}
-Wir als Vorstand kontaktieren die/den Preisträger:in per E-Mail.
+*Wir als Vorstand kontaktieren die/den Preisträger:in per E-Mail.*
 {{< /detail-tag >}}
 
 {{< detail-tag "Werde ich auch benachrichtigt, wenn ich den Preis nicht erhalten habe?" >}}
-Ja, wir informieren Dich per Mail.
+*Ja, wir informieren Dich per Mail.*
 {{< /detail-tag >}}
 
 
@@ -82,47 +81,47 @@ Das Preisgeld für die Bachelorpreise beträgt 100€, für die Masterpreise 150
 {{< /detail-tag >}}
 
 {{< detail-tag "Juhu, ich habe gewonnen! Wann kann ich mit dem Preisgeld rechnen?" >}}
-Wenn uns Deine Kontodaten vorliegen, überweisen wir innerhalb von 2 Wochen nach der Mitteilung an Dich, dass Du den Preis erhältst.
+*Wenn uns Deine Kontodaten vorliegen, überweisen wir innerhalb von 2 Wochen nach der Mitteilung an Dich, dass Du den Preis erhältst.*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wie viele Dokumente lade ich insgesamt hoch? " >}}
-1!
+*1!*
 {{< /detail-tag >}}
 
 {{< detail-tag "Welches Dateiformat lade ich hoch?" >}}
-PDF
+*PDF*
 {{< /detail-tag >}}
 
 {{< detail-tag "Kann ich mich auch bewerben bzw. habe ich Chancen, den Preis zu gewinnen, wenn ich kein RAM-Mitglied bin?" >}}
-Klar! Ob RAM-Mitglied oder nicht; das spielt gar keine Rolle. :-)
+*Klar! Ob RAM-Mitglied oder nicht; das spielt gar keine Rolle. :-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wo finde ich die Ausschreibung für den Hans-Albert-Preis? " >}}
-*Der Call wird bald veröffentlich und dann hier verlinkt*
+**Der Call wird bald veröffentlich und dann hier verlinkt**
 {{< /detail-tag >}}
 
 {{< detail-tag "Wo finde ich die Ausschreibung für den Franz-Urban-Pappi-Preis? " >}}
-*Der Call wird bald veröffentlich und dann hier verlinkt*
+**Der Call wird bald veröffentlich und dann hier verlinkt**
 {{< /detail-tag >}}
 
 {{< detail-tag "Wo finde ich die Ausschreibung für den Otto-Selz-Preis? " >}}
-*Der Call wird bald veröffentlich und dann hier verlinkt*
+**Der Call wird bald veröffentlich und dann hier verlinkt**
 {{< /detail-tag >}}
 
 {{< detail-tag "Ich hab es mir anders überlegt. Kann ich meine Einreichung zurückziehen?" >}}
-Ja, das ist jederzeit möglich.
+*Ja, das ist jederzeit möglich.*
 {{< /detail-tag >}}
 
 {{< detail-tag "Werdet Ihr meine Arbeit veröffentlichen, wenn ich gewonnen habe?" >}}
-Nein, weder wenn Du den Preis erhältst noch wenn Du ihn nicht erhältst, werden wir die Arbeit veröffentlichen. Spätestens 2 Wochen nach der Preisverleihung werden alle Arbeiten und zugehörige Informationen gelöscht.
+*Nein, weder wenn Du den Preis erhältst noch wenn Du ihn nicht erhältst, werden wir die Arbeit veröffentlichen. Spätestens 2 Wochen nach der Preisverleihung werden alle Arbeiten und zugehörige Informationen gelöscht.*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wie lange werden meine Daten und meine Arbeit bei Euch gespeichert?" >}}
-Spätestens 2 Wochen nach der offiziellen Preisverleihung auf der Abschlussfeier werden alle Dokumente und Informationen, die Du bei uns bzgl. des Preises eingereicht hast, gelöscht.
+*Spätestens 2 Wochen nach der offiziellen Preisverleihung auf der Abschlussfeier werden alle Dokumente und Informationen, die Du bei uns bzgl. des Preises eingereicht hast, gelöscht.*
 {{< /detail-tag >}}
 
 {{< detail-tag "Ich bin erst durch die Preisausschreibung auf Euren Verein aufmerksam geworden. Coole Sache! Kann ich mitmachen?" >}}
-Ja, gerne! Unterstütze uns gerne als studentisches Mitglied ([Formular](/de/mitglied/mitglied-werden/)) oder frag uns direkt per [E-Mail](mailto:vorstand@ram-ev.de) an, ob wir ggf. kleinere, zeitliche beschränkte Projekte haben, bei denen Du Dich engagieren kannst — wir freuen uns auf dich! :-)
+*Ja, gerne! Unterstütze uns gerne als studentisches Mitglied ([Formular](/de/mitglied/mitglied-werden/)) oder frag uns direkt per [E-Mail](mailto:vorstand@ram-ev.de) an, ob wir ggf. kleinere, zeitliche beschränkte Projekte haben, bei denen Du Dich engagieren kannst — wir freuen uns auf dich! :-)*
 {{< /detail-tag >}}
 
 <br /> &nbsp;
