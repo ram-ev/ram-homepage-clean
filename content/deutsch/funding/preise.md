@@ -97,7 +97,7 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 {{< /detail-tag >}}
 
 {{< detail-tag "Welches Dateiformat lade ich hoch?" >}}
-*PDF oder ZIP-Datei*
+*ZIP-Datei*
 <br /> &nbsp;
 {{< /detail-tag >}}
 

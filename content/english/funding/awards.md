@@ -98,7 +98,7 @@ You can find a detailed description in the short explainer video and the FAQ.
 {{< /detail-tag >}}
 
 {{< detail-tag "What file format do I upload?" >}}
-*PDF or ZIP*
+*ZIP*
 <br /> &nbsp;
 {{< /detail-tag >}}
 
