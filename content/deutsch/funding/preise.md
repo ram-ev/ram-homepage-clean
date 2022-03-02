@@ -51,10 +51,10 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 {{< detail-tag "Wie anonymisiere ich meine Arbeit richtig?" >}}
 **In `Preview` wird zum Beispiel die Datei oft nicht richtig anonymisiert. Besser sind daher folgende Ansätze, um eine wirklich anonymisierte Arbeit einzureichen:*
 
-*1) Namen im Originaldokument (Word, LaTeX) entfernen und als PDF abspeichern,*
-*2) Adobe nutzen,*
-*3) Datei in jedem Fall als PDF "drucken" (abspeichern hilft nicht, die schwarzen Balken kann man verschieben)* **oder**
-*4) Ausdrucken, schwärzen und neu einscannen ;-)*
+1) *Namen im Originaldokument (Word, LaTeX) entfernen und als PDF abspeichern,*
+2) *Adobe nutzen,*
+3) *Datei in jedem Fall als PDF "drucken" (abspeichern hilft nicht, die schwarzen Balken kann man verschieben)* **oder**
+4) *Ausdrucken, schwärzen und neu einscannen ;-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wie läuft der Auswahlprozess ab?" >}}
@@ -62,9 +62,9 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 
 *Alternativ gibt es hier alle Infos in Kürze:*
 
-*1. Du reichst Deine anonymisierte Arbeit bei uns ein (inkl. des Formulars und des Gutachtens).*
-*2. Eine fachliche Jury (in der Regel bestehend auf Professor:innen, Post-Doktorand:innen und Doktorand:innen) begutachtet alle Arbeiten und bestimmt den/die Preisträger:in.*
-*3. Wir benachrichtigen die Einreichenden über den Ausgang der Preisvergabe :-)*
+1. *Du reichst Deine anonymisierte Arbeit bei uns ein (inkl. des Formulars und des Gutachtens).*
+2. *Eine fachliche Jury (in der Regel bestehend auf Professor:innen, Post-Doktorand:innen und Doktorand:innen) begutachtet alle Arbeiten und bestimmt den/die Preisträger:in.*
+3. *Wir benachrichtigen die Einreichenden über den Ausgang der Preisvergabe :-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "Wann und wie erfahre ich, ob meine Arbeit den Preis erhalten hat?" >}}

@@ -52,10 +52,10 @@ You can find a detailed description in the short explainer video and the FAQ.
 {{< detail-tag "How do I anonymize a work correctly?" >}}
 *In `Preview`, for example, the file is often not anonymized correctly. Therefore, the following approaches are better to submit a truly anonymized paper:*
 
-*1) Remove names in the original document (Word, LaTeX) and save as PDF,*
-*2) Use Adobe,*
-*3) "print" file as PDF in any case (saving does not help, you can move the black bars)* **or**
-*4) print, blacken and rescan ;-)*
+1) *Remove names in the original document (Word, LaTeX) and save as PDF,*
+2) *Use Adobe,*
+3) *"print" file as PDF in any case (saving does not help, you can move the black bars)* **or**
+4) *print, blacken and rescan ;-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "How does the selection process work?" >}}
@@ -63,9 +63,9 @@ You can find a detailed description in the short explainer video and the FAQ.
 
 *Alternatively, here is all the info in a nutshell:*
 
-*1. you submit your anonymized work to us (incl. the form and the expert opinion).*
-*2. a professional jury (usually consisting of professors, post-docs and PhD students) reviews all papers and determines the winner.*
-*3. we will inform everyone who submitted their work about the outcome of the award :-)*
+1. *you submit your anonymized work to us (incl. the form and the expert opinion).*
+2. *a professional jury (usually consisting of professors, post-docs and PhD students) reviews all papers and determines the winner.*
+3. *we will inform everyone who submitted their work about the outcome of the award :-)*
 {{< /detail-tag >}}
 
 {{< detail-tag "When and how will I know if my work has received the award?" >}}
