@@ -46,7 +46,8 @@ You can find a detailed description in the short explainer video and the FAQ.
 
 
 {{< detail-tag " Why do I have to anonymize my work when I have to put my name in the file name and in the form?" >}}
-*The work will be reviewed by a jury of experts. Since the jury members are mainly members of the University of Mannheim, it is possible that some submitters will be recognized. In order to prevent personal relationships from influencing the evaluation, the jury members only receive the anonymized work. Only we as the board know which work belongs to which person, so that we can then award the prize ;-)*.
+*The work will be reviewed by a jury of experts. Since the jury members are mainly members of the University of Mannheim, it is possible that some submitters will be recognized. In order to prevent personal relationships from influencing the evaluation, the jury members only receive the anonymized work. Only we as the board know which work belongs to which person, so that we can then award the prize ;-)*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "How do I anonymize a work correctly?" >}}
@@ -56,6 +57,7 @@ You can find a detailed description in the short explainer video and the FAQ.
 2) *Use Adobe,*
 3) *"print" file as PDF in any case (saving does not help, you can move the black bars)* **or**
 4) *print, blacken and rescan ;-)*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "How does the selection process work?" >}}
@@ -66,63 +68,78 @@ You can find a detailed description in the short explainer video and the FAQ.
 1. *you submit your anonymized work to us (incl. the form and the expert opinion).*
 2. *a professional jury (usually consisting of professors, post-docs and PhD students) reviews all papers and determines the winner.*
 3. *we will inform everyone who submitted their work about the outcome of the award :-)*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "When and how will I know if my work has received the award?" >}}
 *We as the board members contact the awardee via email.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Will I also be notified if I did not receive the prize?" >}}
 *Yes, we will inform you by e-mail.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 
 {{< detail-tag "How much is the prize money?" >}}
 *The prize money for the bachelor prizes is 100€, for the master prizes it is 150€.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Yay, I won! When can I expect the prize money?" >}}
 *If we have your account details, we will transfer the money to your account within 2 weeks after we have informed you that you will receive the prize.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "How many documents do I upload in total?" >}}
 *1!*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "What file format do I upload?" >}}
-*PDF*
+*PDF or ZIP*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Can I apply or do I have a chance to win the prize even if I am not a RAM member?" >}}
 *Certainly! Whether you are a RAM member or not; it doesn't matter at all. :-)*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Where can I find the announcement for the Hans-Albert-Award?" >}}
 **The Call will be published soon and linked here.**
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Where can I find the announcement for the Franz-Urban-Pappi-Award?" >}}
 **The Call will be published soon and linked here.**
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Where can I find the announcement for the Otto-Selz-Award?" >}}
 **The Call will be published soon and linked here.**
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "I've changed my mind. Can I withdraw my submission?" >}}
 *Yes, this is possible at any time.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "Will you publish my work if I win?" >}}
 *No, neither if you get the prize nor if you don't we will publish the work. All work and related information will be deleted no later than 2 weeks after the prize is awarded.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "How long will my data and work be stored by you?" >}}
 *At the latest 2 weeks after the official award ceremony at the graduation, all documents and information you submitted to us regarding the prize will be deleted.*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 {{< detail-tag "I first became aware of your association through the award announcement. Cool thing! Can I participate?" >}}
 *Yes, definitively! Feel free to support us as a student member ([form](/en/mitglied/become-a-member/) or ask us directly at [vorstand@ram-ev.de](mailto:vorstand@ram-ev.de) if we have any smaller, time-limited projects you can get involved with - we're looking forward to you! :-)*
+<br /> &nbsp;
 {{< /detail-tag >}}
 
 <br /> &nbsp;
