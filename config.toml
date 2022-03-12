@@ -10,6 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+DefaultContentLanguage  = "de"
 
 ############################# Plugins ##########################
 # css plugins
@@ -21,8 +22,8 @@ link = "plugins/themify-icons/themify-icons.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
-[[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+#[[params.plugins.css]]
+#link = "../fonts/anaheim-v8-latin-regular.eot" #"https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
 # js plugins
 [[params.plugins.js]]
