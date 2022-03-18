@@ -4,6 +4,18 @@ testimonial:
   # bg_image : images/backgrounds/bg-testimonial.jpg
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
+  
+    - name : Julia Ketterer
+      image : images/ketterer.jpg
+      date : Dec 26, 2018
+      content : "RAM e.V. hat meine Bachelorarbeit mit dem Franz-Urban-Pappi-Preis ausgezeichnet. Als junge Studierende solche Wertschätzung meiner wissenschaftlichen Arbeit zu erfahren hat mich sehr motiviert und ich bin dem Verein überaus dankbar!"
+      
+      # testimonial item loop
+    - name : Niklas Sekul
+      image : images/niklas_sekul.jpg
+      date : Dec 26, 2018
+      content : "Ich bin RAM sehr dankbar für die finanzielle Unterstützung meiner Masterarbeit. Die Finanzierung ist eine wichtige Ressource, die mir die Anwendung neuer statistischer Methoden auf meine psychologische Forschung ermöglicht. Vielen Dank - ich freue mich darauf, loszulegen!"
+
       # testimonial item loop
     - name : Ira Herwig
       image : images/ira.jpeg

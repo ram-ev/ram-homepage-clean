@@ -4,6 +4,12 @@ testimonial:
   # bg_image : images/backgrounds/bg-testimonial.jpg
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
+  
+    - name : Julia Ketterer
+      image : images/ketterer.jpg
+      date : Dec 26, 2018
+      content : "RAM e.V. has awarded my bachelor thesis with the Franz-Urban-Pappi-Prize. As a young student, to experience such appreciation of my scientific work has motivated me very much and I am extremely grateful to the association!"
+      
     # testimonial item loop
     - name : Niklas Sekul
       image : images/niklas_sekul.jpg
