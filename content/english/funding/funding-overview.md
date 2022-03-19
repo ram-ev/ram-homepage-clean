@@ -2,7 +2,7 @@
 date: "2017-12-01T12:52:36+06:00"
 description: 
 image: images/backgrounds/books_dark.jpeg
-title: 'Förderung und Preise - Übersicht'
+title: 'Funding and Awards - Overview'
 ---
 
 The purpose of **Rationale Altruisten Mannheim e.V.** is to support young scholars of the School of Social Sciences at the University of Mannheim.
