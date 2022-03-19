@@ -41,11 +41,11 @@ jobs:
           blogdown::build_site()
         shell: Rscript {0}
         
-      # - name: Setup Hugo
-      #   uses: peaceiris/actions-hugo@v2
-      #   with:
-      #     hugo-version: '0.70.0'
-      #     # extended: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.70.0'
+          extended: true
 
       - uses: actions/cache@v2
         with:
