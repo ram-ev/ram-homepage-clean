@@ -37,6 +37,7 @@ jobs:
       - name: Install packages and build website
         run: |
           install.packages('blogdown')
+          blogdown::install_hugo()
           blogdown::build_site()
         shell: Rscript {0}
         
