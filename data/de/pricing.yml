@@ -9,7 +9,7 @@ pricing:
         - ""
       button:
         label : "Mehr"
-        link : "/de/funding/preise"
+        link : "/funding/preise"
       
     # pricing table loop
     - name : Rationale Altruisten Travel Grant
@@ -21,7 +21,7 @@ pricing:
         - ""
       button:
         label : "Mehr"
-        link : "/de/funding/rat-grant/"
+        link : "/funding/rat-grant/"
         
     # pricing table loop
     - name : Normal-förderung von RAM
@@ -33,5 +33,5 @@ pricing:
       #   - Bis zu 150 €
       button:
         label : "Mehr"
-        link : "/de/funding/normalfoerderung"
+        link : "/funding/normalfoerderung"
         
