@@ -15,6 +15,7 @@ on:
       - ".github/**"
       - "config.toml"
       - "index.Rmd"
+      - "layouts/**"
 
 jobs:
   deploy:
