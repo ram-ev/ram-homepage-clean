@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.ram-ev.de/de/"
+baseURL = "https://www.ram-ev.de"
 title = "RAM e.V."
 theme = "meghna-hugo"
 # post pagination
