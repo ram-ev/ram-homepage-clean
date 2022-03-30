@@ -5,12 +5,14 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Awards'
 ---
 
-RAM e.V. has been awarding prizes for the best theses at the Faculty of Social Sciences at the University of Mannheim since **2010**. The current announcements are here:
+RAM e.V. has been awarding prizes for the best theses at the Faculty of Social Sciences at the University of Mannheim since **2010**. **There is currently no CfA.**
+
+<!-- The current announcements are here:
 
 - [**Franz-Urban-Pappi-Prize** for the best **Bachelor and Master Thesis in Political Science**]()
 - [**Hans-Albert-Prize** for the best **Bachelor- and Master Thesis in Sociology**]()
 - [**Otto-Selz-Prize** for the best **Bachelor- and Master Thesis in Psychology**](/files/Call_OttoSelzPrize-2021.pdf)
-
+-->
 
 <!-- Since 2010, we award the RAM award for one excellent **MA thesis in Sociology and in Political Science**, each worth € 150. As of 2018, we are happy to also honor the **best BA thesis in Sociology and Political Science** with € 100 each. For more information on how to apply for the **Hans-Albert-Prize** in Sociology and the **Franz-Urban-Pappi-Prize** in Political Science, please see [here](/files/RAM_Call_2021_Bachelor.pdf) and [here](/files/RAM_Call_2021_Master.pdf). Besides, we also honor the best theses in Psychology with the [**Otto-Selz-Prize**](/files/Ausschreibung_OttoSelzPrizee-2021.pdf). The prize carries a value of € 150 for master’s theses and € 100 for bachelor’s theses. -->
 
@@ -27,7 +29,7 @@ The following documents are required for submission as **one ZIP** file:
 Please save your submission as **one ZIP** file and name it as follows: `AWARD-NAME_LEVEL_YOUR-NAME.zip`. So if you apply for the Franz-Urban-Pappi-Prize with your master thesis, the name would look like this: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 <!-- > Attention: Submissions for the Otto Selz Award can only be submitted via the supervisor. Unfortunately, no self-nominations can be accepted here.-->
-
+<!--
 And then submit it via the link below -- we wish you the best of luck!
 
 <br /> &nbsp;
@@ -35,6 +37,7 @@ And then submit it via the link below -- we wish you the best of luck!
 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {{% button href="https://www.ram-ev-cloud.de/index.php/s/X6rjEFqe4BRtXWY" %}}Submit here{{% /button %}}
 
 <br /> &nbsp;
+-->
 
 ### FAQ
 
@@ -147,6 +150,8 @@ You can find a detailed description in the short explainer video and the FAQ.
 ### Overview of past recipients
 
 [Here is a complete list of all past award recipients](/files/reports/overview_award_en.html):
+
+<iframe width="100%" height="150" name="iframe" src="/files/reports/overview_award_en.html"></iframe>
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Surname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Supervisor                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Award          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|
