@@ -148,7 +148,10 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 
 ### Übersicht der Preisträger:innen
 
-[Hier findet sich eine Übersicht der Preisträger:innen aus den vergangenen Jahren](/files/reports/overview_award_de.html):
+{{< include-html "/static/files/reports/overview_award_de.html" >}}
+
+<!--
+
 
 | Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Nachname      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vorname   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Gutachter                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Preis          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |------|----------------|-----------|----------------------------------------|-----------------|
@@ -197,3 +200,4 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 | 2021 | Herwig           | Ira Elisa   |                      | Otto-Selz-Preis      |
 | 2021 | Zajdler           | Selina   |                    | Otto-Selz-Preis       |
 
+-->

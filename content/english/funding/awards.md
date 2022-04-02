@@ -149,6 +149,10 @@ You can find a detailed description in the short explainer video and the FAQ.
 
 ### Overview of past recipients
 
+{{< include-html "/static/files/reports/overview_award_en.html" >}}
+
+<!--
+
 [Here is a complete list of all past award recipients](/files/reports/overview_award_en.html):
 
 <iframe width="100%" height="150" name="iframe" src="/files/reports/overview_award_en.html"></iframe>
@@ -200,3 +204,4 @@ You can find a detailed description in the short explainer video and the FAQ.
 | 2021 | Herwig           | Ira Elisa   |                      | Otto-Selz-Prize      |
 | 2021 | Zajdler           | Selina   |                    | Otto-Selz-Prize       |
 
+-->

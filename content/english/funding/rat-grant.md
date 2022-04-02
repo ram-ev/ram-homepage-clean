@@ -11,6 +11,9 @@ Doctoral students at the School of Social Sciences of the University of Mannheim
 
 For further information on how to apply for the RAT Grant, please refer to our calls.
 
+{{< include-html "/static/files/reports/overview_RATaward_en.html" >}}
+
+<!-- 
 [List of prize winners](/files/reports/overview_RATaward_en.html):
 
 | Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Surname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Name          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Supervisor             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Prize    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -26,3 +29,4 @@ For further information on how to apply for the RAT Grant, please refer to our c
 | 2019 | [Fraunfelter](http://klips.psychologie.uni-mannheim.de/personen/Laura-Ashley%20Fraunfelter/) | Laura-Ashley     |                          | RAT Grant |
 | 2019 | [Rettig](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/)      | Tobias           |                          | RAT Grant |
 | 2020 | [Olsowski](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/)    | Felix            | Prof. Sabine Carey, PhD  | RAT Grant |
+-->

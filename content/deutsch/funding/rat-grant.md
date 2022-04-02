@@ -12,6 +12,9 @@ Seit 2014 schreiben wir jährlich den **Rationale Altruisten Travel (RAT) Grant*
 
 Mehr Informationen Informationen zur Bewerbung um einen RAT-Grant findet ihr in der jeweiligen Ausschreibung.
 
+{{< include-html "/static/files/reports/overview_RATaward_de.html" >}}
+
+<!--
 [Bisherige Preisträger](/files/reports/overview_RATaward_de.html):
 
 | Jahr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Nachname    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Vorname          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Gutachter             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Preis    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -27,3 +30,5 @@ Mehr Informationen Informationen zur Bewerbung um einen RAT-Grant findet ihr in 
 | 2019 | [Fraunfelter](http://klips.psychologie.uni-mannheim.de/personen/Laura-Ashley%20Fraunfelter/) | Laura-Ashley     |                          | RAT-Preis |
 | 2019 | [Rettig](https://reforms.uni-mannheim.de/ionas/sowi/reforms/internet_panel/Team/rettig_tobias/)      | Tobias           |                          | RAT-Preis |
 | 2020 | [Olsowski](https://www.sowi.uni-mannheim.de/en/carey/team/academic-staff/olsowski-felix/)    | Felix            | Prof. Sabine Carey, PhD  | RAT-Preis |
+
+-->
