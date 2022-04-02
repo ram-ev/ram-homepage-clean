@@ -146,8 +146,9 @@ Im Detail ist alles im Explainer-Video oder den FAQ noch einmal erklärt.
 
 <br /> &nbsp;
 
-### Übersicht der Preisträger:innen
+<!-- ### Übersicht der Preisträger:innen -->
 
+<!-- File bindet Übersicht über vergangene Preisträger:innen ein --> 
 {{< include-html "/static/files/reports/overview_award_de.html" >}}
 
 <!--

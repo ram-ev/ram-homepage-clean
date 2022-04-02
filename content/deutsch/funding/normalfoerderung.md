@@ -83,6 +83,5 @@ Dem Antrag ist darüber hinaus der Hinweis gemäß der [DSGVO zur Kenntnis](/fil
 Bei Fragen kontaktiere uns einfach unter vorstand(at)ram-ev(dot)de.
 
 
-# Übersicht über vergangene Förderungen
-
+<!-- File bindet Übersicht über vergangene Förderungen ein --> 
 {{< include-html "/static/files/reports/overview_funding_de.html" >}}

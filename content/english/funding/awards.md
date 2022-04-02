@@ -147,8 +147,10 @@ You can find a detailed description in the short explainer video and the FAQ.
 
 <br /> &nbsp;
 
-### Overview of past recipients
+<!-- ### Overview of past recipients -->
 
+
+<!-- File bindet Übersicht über vergangene Preisträger:innen ein --> 
 {{< include-html "/static/files/reports/overview_award_en.html" >}}
 
 <!--
