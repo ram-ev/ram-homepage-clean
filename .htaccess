@@ -1,4 +1,2 @@
 RewriteEngine On
-
-RewriteCond %{HTTPS_HOST} ^ram-ev\.de$ [NC]
-RewriteRule ^(.*)$ https://www.ram-ev.de/de/$1 [R=301,L]
+RewriteRule ^$ /de/ [R=301,L]
