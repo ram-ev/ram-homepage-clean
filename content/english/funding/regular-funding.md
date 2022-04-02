@@ -75,7 +75,7 @@ Please read the following [note according to GDPR](/files/dsgvo.pdf) and attach 
 
 If you have any further questions, please feel free to contact us via vorstand(at)ram-ev(dot)de.
 
-# Overview of past funding
+# Overview of funded projects
 
 {{< include-html "/static/files/reports/overview_funding_en.html" >}}
 
