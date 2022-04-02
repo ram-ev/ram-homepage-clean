@@ -85,4 +85,4 @@ Bei Fragen kontaktiere uns einfach unter vorstand(at)ram-ev(dot)de.
 
 # Übersicht über vergangene Förderungen
 
-{{< include-html "/static/files/reports/funding_de.html" >}}
+{{< include-html "/static/files/reports/overview_funding_de.html" >}}

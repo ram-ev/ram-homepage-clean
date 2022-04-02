@@ -77,5 +77,5 @@ If you have any further questions, please feel free to contact us via vorstand(a
 
 # Overview of past funding
 
-{{< include-html "/static/files/reports/funding_en.html" >}}
+{{< include-html "/static/files/reports/overview_funding_en.html" >}}
 
