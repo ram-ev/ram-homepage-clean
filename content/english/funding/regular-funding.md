@@ -74,3 +74,8 @@ Date, Signature""
 Please read the following [note according to GDPR](/files/dsgvo.pdf) and attach a signed copy to your application.
 
 If you have any further questions, please feel free to contact us via vorstand(at)ram-ev(dot)de.
+
+# Overview of past funding
+
+{{< include-html "/static/files/reports/funding_en.html" >}}
+

@@ -81,3 +81,8 @@ Datum, Unterschrift"
 Dem Antrag ist darüber hinaus der Hinweis gemäß der [DSGVO zur Kenntnis](/files/dsgvo.pdf) zur nehmen und eigenständig unterschrieben anzuhängen.
 
 Bei Fragen kontaktiere uns einfach unter vorstand(at)ram-ev(dot)de.
+
+
+# Übersicht über vergangene Förderungen
+
+{{< include-html "/static/files/reports/funding_de.html" >}}
