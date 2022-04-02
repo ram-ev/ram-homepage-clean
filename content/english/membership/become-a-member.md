@@ -3,6 +3,7 @@ date: "2017-12-01T12:52:36+06:00"
 description: 
 title: 'How to become a member'
 ---
+
 ![](/images/about/ram_team_member.png)
 
 
