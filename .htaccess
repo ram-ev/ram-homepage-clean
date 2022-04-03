@@ -1,7 +1,7 @@
 RewriteEngine On
 
 RewriteCond %{HTTP_HOST} ^ram-ev.de$ [OR]
-RewriteCond %{HTTP_HOST} ^www.ram-ev.de$ 
+RewriteCond %{HTTP_HOST} ^www.ram-ev.de$ [OR]
 RewriteCond %{HTTPS_HOST} ^ram-ev.de$ [OR]
 RewriteCond %{HTTPS_HOST} ^www.ram-ev.de$ 
 RewriteRule ^(.*)$ https://www.ram-ev.de/de/ [R=301,L]
