@@ -11,4 +11,4 @@ social:
 title: Mark Dinn
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
