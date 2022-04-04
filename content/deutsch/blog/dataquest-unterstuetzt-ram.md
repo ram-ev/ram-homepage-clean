@@ -1,5 +1,5 @@
 ---
-date: "2022-04-08"
+date: "2022-04-04"
 image: images/blog/dataquest.png
 title: Dataquest unterstützt RAM
 ---
