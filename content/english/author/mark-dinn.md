@@ -11,4 +11,4 @@ social:
 title: Mark Dinn
 ---
 
-Lorem 
+Lorem ipsum
