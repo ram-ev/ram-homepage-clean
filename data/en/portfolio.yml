@@ -14,7 +14,7 @@ portfolio:
     - name : 'Conference participation EPSA 2020'
       image : images/portfolio/conference-felix.jpg
       categories : ["conference", "Political Science"] #, "PhD"]
-      content : "[Felix Olswoski presents his paper *The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?* at EPSA 2020. The visualization illustrates first results from his research -- the appointment of new judges (orange) since Dutertes' presidency.](blog/felix-rat/)"
+      content : "[Felix Olsowski presents his paper *The Dark Side of Judicial Independence: Extrajudicial Killings as Alternative to Compliant Judges?* at EPSA 2020. The visualization illustrates first results from his research -- the appointment of new judges (orange) since Dutertes' presidency.](blog/felix-rat/)"
       link : ""
       
     # portfolio item loop
