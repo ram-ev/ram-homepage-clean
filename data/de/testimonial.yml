@@ -4,6 +4,12 @@ testimonial:
   # bg_image : images/backgrounds/bg-testimonial.jpg
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
+
+    - name : Selina Zajdler
+      image : images/zajdler.jpg
+      date : Dec 26, 2018
+      content : "Die Auszeichnung für die beste Bachelorarbeit hat mich darin bestätigt, mein Interesse an statistischen Methoden im Master weiter zu verfolgen. Es ist wirklich ermutigend, Anerkennung für die eigene Arbeit zu erhalten und ich danke RAM dafür!"
+      
   
     - name : Julia Ketterer
       image : images/ketterer.jpg

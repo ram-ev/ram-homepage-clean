@@ -5,6 +5,11 @@ testimonial:
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
   
+    - name : Selina Zajdler
+      image : images/zajdler.jpg
+      date : Dec 26, 2018
+      content : "Receiving the award for the best BA thesis has encouraged me to further pursue my interests in statistical modeling and research methods in my Master's. It's encouraging to receive recognition for one's work and I'm grateful to RAM for their support!"
+  
     - name : Julia Ketterer
       image : images/ketterer.jpg
       date : Dec 26, 2018
