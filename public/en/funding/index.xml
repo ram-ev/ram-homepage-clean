@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundings on RAM e.V.</title>
+    <link>https://www.ram-ev.de/en/funding/</link>
+    <description>Recent content in Fundings on RAM e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 Rationale Altruisten Mannheim e.V.</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 12:52:36 +0600</lastBuildDate><atom:link href="https://www.ram-ev.de/en/funding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awards</title>
+      <link>https://www.ram-ev.de/en/funding/awards/</link>
+      <pubDate>Fri, 01 Dec 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.ram-ev.de/en/funding/awards/</guid>
+      <description>RAM e.V. has been awarding prizes for the best theses at the Faculty of Social Sciences at the University of Mannheim since 2010.</description>
+    </item>
+    
+    <item>
+      <title>Funding and Awards - Overview</title>
+      <link>https://www.ram-ev.de/en/funding/funding-overview/</link>
+      <pubDate>Fri, 01 Dec 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.ram-ev.de/en/funding/funding-overview/</guid>
+      <description>The purpose of Rationale Altruisten Mannheim e.V. is to support young scholars of the School of Social Sciences at the University of Mannheim.</description>
+    </item>
+    
+    <item>
+      <title>Rationale Altruisten Travel Grant</title>
+      <link>https://www.ram-ev.de/en/funding/rat-grant/</link>
+      <pubDate>Fri, 01 Dec 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.ram-ev.de/en/funding/rat-grant/</guid>
+      <description>Doctoral students at the School of Social Sciences of the University of Mannheim are eligible to apply for the annual Rational Altruist Travel (RAT) Grant (awarded annually since 2014).</description>
+    </item>
+    
+    <item>
+      <title>Regular Funding</title>
+      <link>https://www.ram-ev.de/en/funding/regular-funding/</link>
+      <pubDate>Fri, 01 Dec 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.ram-ev.de/en/funding/regular-funding/</guid>
+      <description>The Rationale Altruisten Mannheim e.V. support young scholars of the School of Social Sciences at the University of Mannheim by providing financial aid.</description>
+    </item>
+    
+  </channel>
+</rss>

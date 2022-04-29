@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitglieds on RAM e.V.</title>
+    <link>https://www.ram-ev.de/mitglied/</link>
+    <description>Recent content in Mitglieds on RAM e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright &amp;copy; 2022 Rationale Altruisten Mannheim e.V.</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 12:52:36 +0600</lastBuildDate><atom:link href="https://www.ram-ev.de/mitglied/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mitglied werden</title>
+      <link>https://www.ram-ev.de/mitglied/mitglied-werden/</link>
+      <pubDate>Fri, 01 Dec 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.ram-ev.de/mitglied/mitglied-werden/</guid>
+      <description>Mitglied werden können alle, die der Fakultät für Sozialwissenschaften angehören, angehört haben oder ihr anderweitig verbunden sind.</description>
+    </item>
+    
+  </channel>
+</rss>
