@@ -5,7 +5,7 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Awards'
 ---
 
-RAM e.V. has been awarding prizes for the best theses at the Faculty of Social Sciences at the University of Mannheim since **2010**. <!--**There is currently no CfA.**-->
+RAM e.V. has been awarding prizes for the best theses at the Faculty of Social Sciences at the University of Mannheim since **2010**.  <!--**There is currently no CfA.**-->
 
 The current announcements are here:
 
