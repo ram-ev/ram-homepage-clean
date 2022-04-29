@@ -1391,7 +1391,7 @@ a:hover {
 .comments-section {
   margin-top: 35px;
 }
-
+/*
 .author-about {
   margin-top: 40px;
 }
@@ -1406,7 +1406,7 @@ a:hover {
   padding: 5px;
   width: 100%;
 }
-
+*/
 .comment-list ul {
   margin-top: 20px;
 }
@@ -1422,11 +1422,11 @@ a:hover {
   padding: 10px;
   position: relative;
 }
-
+/*
 .comment-wrap .author-avatar {
   margin-right: 10px;
 }
-
+*/
 .comment-wrap .media .media-heading {
   font-size: 14px;
   margin-bottom: 8px;
@@ -1933,6 +1933,7 @@ blockquote {
   margin-top: -3px;
 }
 
+/*
 .post-author {
   margin-right: 20px;
 }
@@ -1943,7 +1944,6 @@ blockquote {
   padding: 5px;
   width: 100%;
 }
-
 .comment-reply-form>h3,
 .author-about>h4,
 .comments>h4 {
@@ -1957,6 +1957,7 @@ blockquote {
 .author-bio h5 {
   display: inline-block;
 }
+*/
 
 .post-item .comments-section {
   margin-top: 35px;
@@ -1977,7 +1978,7 @@ blockquote {
   padding: 10px;
   position: relative;
 }
-
+/*
 .comment-wrap .author-avatar {
   margin-left: -25px;
   margin-right: 20px;
@@ -1987,7 +1988,6 @@ blockquote {
   margin-bottom: 15px;
   overflow: hidden;
 }
-
 .author-comment cite a:hover,
 .replay:hover {
   color: #03437B;
@@ -1998,7 +1998,7 @@ blockquote {
   margin-bottom: 2px;
   padding-top: 4px;
 }
-
+*/
 .comment-content {
   margin-left: 45px;
 }
