@@ -5,15 +5,15 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Preise'
 ---
 
-RAM e.V. stiftet seit **2010** Preise für die besten Abschlussarbeiten an der Sozialwissenschaftlichen Fakultät an der Universität Mannheim. **Aktuell gibt es keine laufenden Ausschreibungen.**
+RAM e.V. stiftet seit **2010** Preise für die besten Abschlussarbeiten an der Sozialwissenschaftlichen Fakultät an der Universität Mannheim. 
+<!--**Aktuell gibt es keine laufenden Ausschreibungen.**-->
 
-<!-- Die aktuellen Ausschreibungen sind hier:
+Die aktuellen Ausschreibungen sind hier:
 
-- [**Franz-Urban-Pappi-Preis** für die beste **Bachelor- und Masterarbeit in Politikwissenschaft**]()
-- [**Hans-Albert-Preis** für die beste **Bachelor- und Masterarbeit in Soziologie**]()
-- [**Otto-Selz-Preis** für die beste **Bachelor- und Masterarbeit in Psychologie**](/files/Ausschreibung_OttoSelzPreise-2021.pdf)
+- [**Franz-Urban-Pappi-Preis** für die beste **Bachelor- und Masterarbeit in Politikwissenschaft**](/files/RAM_Call_2022_FUPP.pdf)
+- [**Otto-Selz-Preis** für die beste **Bachelor- und Masterarbeit in Psychologie**](/files/RAM_Call_2022_OSP.pdf)
+- [**Hans-Albert-Preis** für die beste **Bachelor- und Masterarbeit in Soziologie**](/files/RAM_Call_2022_HAP.pdf)
 
--->
 <!--Seit **2010** stiftet RAM e.V. einen **Preis für die besten Masterarbeiten in Soziologie und Politikwissenschaften** zu je 150 €. Ab **2018** werden auch Preise für die besten Bachelorarbeiten in den Fächern **Soziologie und Politikwissenschaft** mit jeweils 100 € vergeben. Hier gibt es mehr Informationen für den Vorschlag von Abschlussarbeiten für den **Hans-Albert-Preis** und den **Franz-Urban-Pappi-Preis** für [Bachelor-](/files/RAM_Call_2021_Bachelor.pdf) und [Masterarbeiten](/files/RAM_Call_2021_Master.pdf).
 Außerdem verleihen wir den [**Otto-Selz-Preis**](/files/Ausschreibung_OttoSelzPreise-2021.pdf) für die besten Abschlussarbeiten in **Psychologie**. Der Preis ist mit 150 € für Masterarbeiten und 100 € für Bachelorarbeiten dotiert.
 -->
@@ -25,19 +25,19 @@ Für die Einreichung werden folgende Unterlagen als **eine ZIP**-Datei benötigt
 
 1. [Ausgefülltes Formular](/files/RAM_form_submission.pdf) (wir benötigen hier eure Angaben, um euch die Arbeit später zuordnen zu können)
 2. Anonymisierte Abschlussarbeit
-3. Gutachten des Betreuenden (für die Einreichung des Otto-Selz-Preises ist dies **anonymisiert** in Form eines Gutachtens oder einer Begründung durch den Betreuenden einzureichen; für die Einreichung des Franz-Urban-Pappi-Preises und des Hans-Albert-Preises ist das **anonymisierte** Gutachten einzureichen sofern es vorhanden ist)
+3. Gutachten des Betreuenden (für die Einreichung des **Otto-Selz-Preises** ist dies **anonymisiert** in Form eines **Gutachtens oder einer Begründung durch den Betreuenden** einzureichen; für die Einreichung des **Franz-Urban-Pappi-Preises** und des **Hans-Albert-Preises** ist das **anonymisierte Gutachten** einzureichen sofern es vorhanden ist)
 
 Bitte reicht die Arbeit als **eine ZIP**-Datei ein und benennt sie wiefolgt: `PREISNAME_LEVEL_EUER-NAME.zip`. Wenn ihr euch also mit eurer Masterarbeit auf den Franz-Urban-Pappi-Preis bewerbt, würde der Name wiefolgt aussehen: `Franz-Urban-Pappi_Master_Mustermann-Max.zip`.
 
 <!-- > Achtung: Die Einreichung für den Otto-Selz-Preis kann nur über den Betreuenden eingereicht werden. Hier können leider keine Selbstnorminierungen angenommen werden.-->
 
-<!-- Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
+Und dann über den folgenden Link einreichen -- wir wünschen euch viel Erfolg!
 
 <br /> &nbsp;
 
 &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; {{% button href="https://www.ram-ev-cloud.de/index.php/s/X6rjEFqe4BRtXWY" %}}Einreichung RAM-Preis{{% /button %}}
 
-<br /> &nbsp; -->
+<br /> &nbsp;
 
 ### FAQ
 
