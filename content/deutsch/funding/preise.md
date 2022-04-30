@@ -5,7 +5,7 @@ image: images/backgrounds/books_dark.jpeg
 title: 'Preise'
 ---
 
-RAM e.V. stiftet seit **2010** Preise für die besten Abschlussarbeiten an der Sozialwissenschaftlichen Fakultät an der Universität Mannheim. 
+RAM e.V. stiftet seit **2010** Preise für die besten Abschlussarbeiten an der Sozialwissenschaftlichen Fakultät an der Universität Mannheim.
 <!--**Aktuell gibt es keine laufenden Ausschreibungen.**-->
 
 Die aktuellen Ausschreibungen sind hier:
