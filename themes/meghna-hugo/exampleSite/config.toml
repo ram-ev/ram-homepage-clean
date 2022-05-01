@@ -81,7 +81,6 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 
-
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "sur"
