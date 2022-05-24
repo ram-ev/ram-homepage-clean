@@ -56,5 +56,5 @@ Toll, wenn du von den folgenden Skills schon mal gehört hast oder dich damit so
 - Die Möglichkeit, **eigene Ideen** einzubringen, **neue Dinge** auszuprobieren und **mitzugestalten**
 
 
-**Klingt das interessant? Oder sind Fragen offengeblieben? [Dann melde dich bei uns!](mailto:vorstand@ram-ev.de)** 
+**Klingt das interessant? Oder sind Fragen offengeblieben? [Dann melde dich bei uns!](mailto:vorstand@ram-ev.de)**
 
