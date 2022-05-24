@@ -41,7 +41,7 @@ Toll, wenn du von den folgenden Skills schon mal gehört hast oder dich damit so
 
 - Unsere Homepage basiert auf Hugo. Kenntnisse in Hugo, R, Git(Hub), blogdown und/oder FTP Deploy wären top oder du hast Lust, hierüber mehr zu lernen
 
-##### Social Media-Fertigkeiten
+##### Social Media-Fertigkeiten 
 
 - Wir posten unsere Aktivitäten und Ausschreibungen regelmäßig auf unseren Social Media-Kanälen. Dafür erstellen wir unser Layout in Canva.
 
