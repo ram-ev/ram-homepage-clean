@@ -49,7 +49,7 @@ Toll, wenn du von den folgenden Skills schon mal gehört hast oder dich damit so
 
 - Wir nutzen Trello, um unsere Aufgaben zu organisieren und Slack für unsere allgemeine Kommunikation
 
-## Was wir bieten 
+## Was wir bieten
 
 - Ein **engagiertes und motiviertes Team**, das den **wissenschaftlichen Nachwuchs** an der Sowi-Fakultät der Uni Mannheim sichtbar wertschätzen und unterstützen möchte
 - **Flexibles und selbstständiges Arbeiten** bei gleichzeitiger gegenseitiger Unterstützung
