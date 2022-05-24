@@ -35,7 +35,7 @@ Das solltest du unbedingt mitbringen:
 
 ## Nice to have
 
-Toll, wenn du von den folgenden Skills schon mal gehört hast oder dich damit sogar schon auskennst. Wenn nicht, ist es auch kein Problem! Bring nur ein Interesse mit, dich ggf. einzuarbeiten :-)
+Toll, wenn du von den folgenden Skills schon mal gehört hast oder dich damit sogar schon auskennst. Wenn nicht, ist es auch kein Problem! Bring nur ein Interesse mit, dich ggf. einzuarbeiten 😊
 
 ##### Technische Kenntnisse
 
