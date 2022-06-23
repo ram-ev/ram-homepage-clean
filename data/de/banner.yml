@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image : "images/backgrounds/books_dark.jpeg"
+  bg_image : "images/backgrounds/books_dark_call_for_vorstand.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Rationale Altruisten Mannheim"
-  content : "Förderverein des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim"
+  title : "" #Rationale Altruisten Mannheim"
+  content : "" #Förderverein des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim"
   button:
     enable : true
-    label : "Erfahre mehr über uns"
-    link : "#about"
+    label : "Erfahre mehr über die offenen Vorstandsposten" # Erfahre mehr über uns
+    link : "blog/call-for-vorstand_2022/" # #about
