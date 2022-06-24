@@ -597,23 +597,5 @@ Here comes a résumé about what happened in 2017 and what you can expect from 2
       <description>As in previous years, the Rationale Altruisten Mannheim are pleased to announce the Otto-Selz-Prize for the best final theses in Psychology (BA and MA) at the University of Mannheim.</description>
     </item>
     
-    <item>
-      <title>John Doe</title>
-      <link>https://www.ram-ev.de/en/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ram-ev.de/en/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://www.ram-ev.de/en/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ram-ev.de/en/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
   </channel>
 </rss>

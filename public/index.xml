@@ -754,23 +754,5 @@ wir laden Euch herzlich zur Jahreshauptversammlung der Rationalen Altruisten Man
 § 1 (Name, Sitz, Geschäftsjahr)   Der Name des Vereins lautet: Rationale Altruisten Mannheim e.</description>
     </item>
     
-    <item>
-      <title>John Doe</title>
-      <link>https://www.ram-ev.de/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ram-ev.de/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://www.ram-ev.de/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ram-ev.de/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
   </channel>
 </rss>
