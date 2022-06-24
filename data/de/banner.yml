@@ -7,5 +7,5 @@ banner:
   content : "" #Förderverein des wissenschaftlichen Nachwuchses der Fakultät für Sozialwissenschaften der Universität Mannheim"
   button:
     enable : true
-    label : "Erfahre mehr über die offenen Vorstandsposten"  # Erfahre mehr über uns
+    label : "Erfahre mehr über die offenen Vorstandsposten" # Erfahre mehr über uns
     link : "blog/call-for-vorstand_2022/" # #about
