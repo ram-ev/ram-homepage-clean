@@ -5,6 +5,16 @@ testimonial:
   # bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
   
+    - name : Luca Carlotta Pier
+      image : images/Pier.jpg
+      date : Dec 26, 2018
+      content : "The funding provided by RAM e.V. will make it much easier for me to recruit more than 200 participants for my master's thesis. I am very grateful for this support of my research project!."
+    
+    - name : Felicia Studer
+      image : images/Studer.jpeg
+      date : Dec 26, 2018
+      content : "Thank you, RAM, for supporting students and young scientists! The funding of my Master's thesis is a great support for the implementation of my study and has enabled me to reach my survey goal in a short time."
+
     - name : Selina Zajdler
       image : images/zajdler.jpg
       date : Dec 26, 2018
